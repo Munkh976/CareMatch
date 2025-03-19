@@ -1,1 +1,2 @@
-Hello world
+Hello world.
+Let's start our project.
