@@ -35,10 +35,10 @@ matches <- matches %>%
   mutate(
     location_distance = distHaversine(cbind(elderly_lng, elderly_lat), 
                                       cbind(volunteer_lng, volunteer_lat)) / 1000,
-    # Replacing the time_slot_overlap with binary (0/1)
-    time_slot_overlap = as.numeric(mapply(detect_overlap, preferred_time_slots, availability))
+    # Creating the time_slot_overlapped with binary (0/1)
+    time_slot_overlapped = as.numeric(mapply(detect_overlap, preferred_time_slots, availability))
   ) %>%
-  filter(time_slot_overlap == 1)
+  filter(time_slot_overlapped == 1)
 
 # Machine Learning Integration
 
@@ -63,7 +63,7 @@ train_data <- historical_matches %>%
   filter(!is.na(radius_willingness)) %>%
   mutate(accepted = as.factor(accepted))
 
-model <- glm(accepted ~ location_distance + time_slot_overlap + radius_willingness, 
+model <- glm(accepted ~ location_distance + time_slot_overlapped + radius_willingness, 
              data = train_data, family = binomial)
 
 # Prediction
@@ -78,7 +78,7 @@ confusionMatrix(as.factor(ifelse(predictions > 0.5, 1, 0)), test_data$accepted)
 # Match Probability Update
 updated_matches <- matches %>%
   mutate(
-    time_slot_overlap = as.numeric(time_slot_overlap),  # Ensuring binary 0/1 format
+    time_slot_overlapped = as.numeric(time_slot_overlapped),  # Ensuring binary 0/1 format
     acceptance_probability = predict(model, newdata = matches, type = "response")
   )
 
@@ -104,9 +104,9 @@ ggplot(data = historical_matches, aes(x = accepted, y = location_distance)) +
   geom_boxplot(fill = 'lightblue') +
   labs(title = "Location Distance by Acceptance", x = "Accepted", y = "Distance (km)")
 
-install.packages("corrplot")
+# install.packages("corrplot")
 library(corrplot)
-correlation_matrix <- cor(historical_matches %>% select(location_distance, time_slot_overlap))
+correlation_matrix <- cor(historical_matches %>% select(location_distance, time_slot_overlapped))
 corrplot(correlation_matrix, method = "circle")
 
 summary(historical_matches$location_distance)
@@ -116,9 +116,10 @@ sd(historical_matches$location_distance, na.rm = TRUE)
 
 t.test(location_distance ~ accepted, data = historical_matches)
 
-cor.test(historical_matches$location_distance, historical_matches$time_slot_overlap)
+cor.test(historical_matches$location_distance, historical_matches$time_slot_overlapped)
 
-install.packages("ggbiplot")
+#install.packages("ggbiplot")
 library(ggbiplot)
-pca <- prcomp(historical_matches %>% select(location_distance, time_slot_overlap), center = TRUE, scale. = TRUE)
+pca <- prcomp(historical_matches %>% select(location_distance, time_slot_overlapped), center = TRUE, scale. = TRUE)
 ggbiplot(pca)
+

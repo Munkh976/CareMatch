@@ -94,13 +94,6 @@ generate_matches <- function(elderly, volunteers, elderly_needs, volunteer_skill
     elderly_id = sample(elderly$elderly_id, 1000, replace = TRUE),
     volunteer_id = sample(volunteers$volunteer_id, 1000, replace = TRUE),
     match_score = runif(1000, 0.5, 1),
-    time_slot_overlap = sample(c("Mon 9-12", "Mon 12-3", "Mon 3-6", "Mon 6-9",
-                                 "Tue 9-12", "Tue 12-3", "Tue 3-6", "Tue 6-9",
-                                 "Wed 9-12", "Wed 12-3", "Wed 3-6", "Wed 6-9",
-                                 "Thu 9-12", "Thu 12-3", "Thu 3-6", "Thu 6-9",
-                                 "Fri 9-12", "Fri 12-3", "Fri 3-6", "Fri 6-9",
-                                 "Sat 9-12", "Sat 12-3", "Sat 3-6", "Sat 6-9",
-                                 "Sun 9-12", "Sun 12-3", "Sun 3-6", "Sun 6-9"), 1000, replace = TRUE),
     location_distance = runif(1000, 1, 20),
     acceptance_probability = runif(1000, 0.5, 1),
     status = sample(c("Pending", "Accepted", "Rejected"), 1000, replace = TRUE)
