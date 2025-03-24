@@ -118,7 +118,7 @@ generate_historical_matches <- function() {
     elderly_id = sample(1:1000, 1000, replace = TRUE),
     volunteer_id = sample(1:1000, 1000, replace = TRUE),
     match_score = runif(1000, 0.5, 1),
-    time_slot_overlap = sample(0:1, 1000, replace = TRUE),
+    time_slot_overlapped = sample(0:1, 1000, replace = TRUE),
     location_distance = runif(1000, 1, 20),
     accepted = sample(0:1, 1000, replace = TRUE)
   )
