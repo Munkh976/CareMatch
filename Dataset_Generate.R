@@ -1,4 +1,4 @@
-# Load necessary libraries
+## Load necessary libraries
 library(dplyr)
 library(tidyr)
 library(randomNames)
@@ -147,7 +147,7 @@ notifications <- generate_notifications(matches)
 historical_matches <- generate_historical_matches()
 clusters <- generate_clusters()
 
-setwd("C:/MS Data Science - WMU/CS5610-Advanced R/Projects/CareMatch/Project Code/CareMatch")
+
 # --- Export Datasets to CSV ---
 write.csv(elderly, "elderly.csv", row.names = FALSE)
 write.csv(volunteers, "volunteers.csv", row.names = FALSE)
@@ -162,3 +162,4 @@ write.csv(clusters, "clusters.csv", row.names = FALSE)
 
 # Print confirmation
 cat("All datasets have been created and exported to CSV files.\n")
+
