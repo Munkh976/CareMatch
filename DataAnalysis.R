@@ -1,4 +1,3 @@
-#
 library(readr)
 library(dplyr)
 library(tidyr)
@@ -93,16 +92,22 @@ notifications <- updated_matches %>%
 write.csv(notifications, "notifications_filtered.csv", row.names = FALSE)
 
 library(ggplot2)
-ggplot(data = historical_matches, aes(x = location_distance)) +
-  geom_histogram(bins = 30, fill = 'skyblue', color = 'black') +
-  labs(title = "Distribution of Location Distance", x = "Distance (km)", y = "Frequency")
+ggplot(historical_matches, aes(x = location_distance, fill = accepted)) +
+  geom_histogram(bins = 30, alpha = 0.7, position = "identity") +
+  scale_fill_manual(values = c("red", "lightgreen")) +
+  labs(title = "Does Distance Affect Match Acceptance?", x = "Distance (km)", y = "Frequency") +
+  theme_minimal() 
+
+#ggplot(data = historical_matches, aes(x = location_distance)) +
+ # geom_histogram(bins = 30, fill = 'skyblue', color = 'black') +
+ # labs(title = "Distribution of Location Distance", x = "Distance (km)", y = "Frequency")
 
 ggplot(data = historical_matches, aes(x = accepted)) +
   geom_bar(fill = 'lightgreen', color = 'black') +
   labs(title = "Accepted vs Not Accepted", x = "Accepted", y = "Count")
 
 ggplot(data = historical_matches, aes(x = accepted, y = location_distance)) +
-  geom_boxplot(fill = 'lightblue') +
+  geom_boxplot(fill = 'lightgreen') +
   labs(title = "Location Distance by Acceptance", x = "Accepted", y = "Distance (km)")
 
 # install.packages("corrplot")
