@@ -99,9 +99,9 @@ ggplot(historical_matches, aes(x = location_distance, fill = accepted)) +
   labs(title = "Does Distance Affect Match Acceptance?", x = "Distance (km)", y = "Frequency") +
   theme_minimal() 
 
-#ggplot(data = historical_matches, aes(x = location_distance)) +
- # geom_histogram(bins = 30, fill = 'skyblue', color = 'black') +
- # labs(title = "Distribution of Location Distance", x = "Distance (km)", y = "Frequency")
+ggplot(data = historical_matches, aes(x = location_distance)) +
+  geom_histogram(bins = 30, fill = 'skyblue', color = 'black') +
+  labs(title = "Distribution of Location Distance", x = "Distance (km)", y = "Frequency")
 
 ggplot(data = historical_matches, aes(x = accepted)) +
   geom_bar(fill = 'lightgreen', color = 'black') +
