@@ -93,28 +93,36 @@ notifications <- updated_matches %>%
 write.csv(notifications, "notifications_filtered.csv", row.names = FALSE)
 
 library(ggplot2)
-ggplot(historical_matches, aes(x = location_distance, fill = accepted)) +
+ggplot(historical_matches, aes(x = location_distance, fill = as.factor(accepted))) +
   geom_histogram(bins = 30, alpha = 0.7, position = "identity") +
-  scale_fill_manual(values = c("red", "lightgreen")) +
-  labs(title = "Does Distance Affect Match Acceptance?", x = "Distance (km)", y = "Frequency") +
-  theme_minimal() 
+  scale_fill_manual(values = c("red", "green"), labels = c("Not Accepted", "Accepted")) +
+  labs(title = "Impact of Distance on Match Acceptance",
+       x = "Distance (km)", 
+       y = "Count") +
+  theme_minimal() +
+  theme(legend.title = element_blank(), text = element_text(size = 14))
+
 
 ggplot(data = historical_matches, aes(x = location_distance)) +
-  geom_histogram(bins = 30, fill = 'skyblue', color = 'black') +
-  labs(title = "Distribution of Location Distance", x = "Distance (km)", y = "Frequency")
+  geom_histogram(bins = 30, fill = 'lightgreen', color = 'black') +
+  labs(title = "Distribution of Location Distance", x = "Distance (km)", y = "Frequency") +
+  theme_minimal()
 
 ggplot(data = historical_matches, aes(x = accepted)) +
   geom_bar(fill = 'lightgreen', color = 'black') +
-  labs(title = "Accepted vs Not Accepted", x = "Accepted", y = "Count")
+  labs(title = "Accepted vs Not Accepted", x = "Accepted", y = "Count") +
+  theme_minimal()
 
-ggplot(data = historical_matches, aes(x = accepted, y = location_distance)) +
+ggplot(data = historical_matches, aes(x = as.factor(accepted), y = location_distance)) +
   geom_boxplot(fill = 'lightgreen') +
-  labs(title = "Location Distance by Acceptance", x = "Accepted", y = "Distance (km)")
+  labs(title = "Location Distance by Acceptance", x = "Accepted", y = "Distance (km)") +
+  theme_minimal()
 
 # install.packages("corrplot")
 library(corrplot)
-correlation_matrix <- cor(historical_matches %>% select(location_distance, time_slot_overlapped))
-corrplot(correlation_matrix, method = "circle")
+library(ggcorrplot)
+cor_matrix <- cor(historical_matches %>% select(location_distance, time_slot_overlapped, match_score))
+ggcorrplot(cor_matrix, method = "circle", lab = TRUE)
 
 summary(historical_matches$location_distance)
 
@@ -129,4 +137,5 @@ cor.test(historical_matches$location_distance, historical_matches$time_slot_over
 library(ggbiplot)
 pca <- prcomp(historical_matches %>% select(location_distance, time_slot_overlapped), center = TRUE, scale. = TRUE)
 ggbiplot(pca)
+
 
