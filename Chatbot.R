@@ -17,6 +17,21 @@ if(!file.exists("elderly.csv")) {
   ) %>% write.csv("elderly.csv", row.names = FALSE)
 }
 
+if(!file.exists("volunteers.csv")) {
+  data.frame(
+    volunteer_id = integer(),
+    volunteer_name = character(),
+    major_city = character(),
+    state = character(),
+    lat = numeric(),
+    lng = numeric(),
+    availability = character(),
+    radius = integer(),
+    acceptance_probability = numeric(),
+    stringsAsFactors = FALSE
+  ) %>% write.csv("volunteers.csv", row.names = FALSE)
+}
+
 ui <- fluidPage(
   tags$head(
     tags$style(HTML("
@@ -103,9 +118,13 @@ server <- function(input, output, session) {
     if(rv$current_state == "ask_type") {
       handle_initial_input(user_input)
     } else if(rv$current_state == "elderly_registration_check") {
-      handle_registration_check(user_input)
+      handle_elderly_registration_check(user_input)
     } else if(rv$current_state == "elderly_registration") {
-      handle_registration_process(user_input)
+      handle_elderly_registration(user_input)
+    } else if(rv$current_state == "volunteer_registration_check") {
+      handle_volunteer_registration_check(user_input)
+    } else if(rv$current_state == "volunteer_registration") {
+      handle_volunteer_registration(user_input)
     }
     
     updateTextInput(session, "userInput", value = "")
@@ -116,12 +135,129 @@ server <- function(input, output, session) {
       bot_message("Thank you for letting us know you're seeking assistance. Have you registered with us before? (Yes/No)")
       rv$current_state <- "elderly_registration_check"
     } else if(tolower(input) %in% c("volunteer", "v")) {
-      bot_message("Thank you for volunteering! We'll help you get started.")
-      rv$current_state <- "volunteer"
+      bot_message("Thank you for volunteering!Have you registered with us before? (Yes/No)")
+      rv$current_state <- "volunteer_registration_check"
+      rv$user_type <- "volunteer"
     } else {
       bot_message("Please specify either 'Elderly person seeking assistance' or 'Volunteer'")
     }
   }
+  
+  handle_volunteer_registration_check <- function(input) {
+    if(tolower(input) %in% c("yes", "y")) {
+      bot_message("Thank you for your service! We'll help you find opportunities.")
+      rv$current_state <- "volunteer_ready"
+    } else if(tolower(input) %in% c("no", "n")) {
+      start_volunteer_registration()
+    } else {
+      bot_message("Please answer with 'Yes' or 'No'")
+    }
+  }
+  
+  start_volunteer_registration <- function() {
+    bot_message("Let's register you as a volunteer. Please enter your full name (Last name, First name):")
+    rv$current_state <- "volunteer_registration"
+    rv$current_question <- "vol_name"
+  }
+  
+  handle_volunteer_registration <- function(input) {
+    current_q <- rv$current_question
+    
+    switch(current_q,
+           "vol_name" = process_vol_name(input),
+           "vol_city" = process_vol_city(input),
+           "vol_state" = process_vol_state(input),
+           "vol_zip" = process_vol_zip(input),
+           "vol_availability" = process_vol_availability(input)
+    )
+  }
+  
+  process_vol_name <- function(input) {
+    if(!grepl(",", input)) {
+      bot_message("Please enter your name in 'Last name, First name' format")
+      return()
+    }
+    rv$registration_data$volunteer_name <- input
+    bot_message("Which major city do you operate in?")
+    rv$current_question <- "vol_city"
+  }
+  
+  process_vol_city <- function(input) {
+    rv$registration_data$major_city <- input
+    bot_message("Which state? (2-letter abbreviation)")
+    rv$current_question <- "vol_state"
+  }
+  
+  process_vol_state <- function(input) {
+    if(!grepl("^[A-Za-z]{2}$", input)) {
+      bot_message("Please use 2-letter state abbreviation (e.g., CA, NY)")
+      return()
+    }
+    rv$registration_data$state <- toupper(input)
+    bot_message("What's your 5-digit zipcode?")
+    rv$current_question <- "vol_zip"
+  }
+  
+  process_vol_zip <- function(input) {
+    if(!grepl("^\\d{5}$", input)) {
+      bot_message("Please enter a valid 5-digit zipcode")
+      return()
+    }
+    
+    coords <- geocode_zip(input)
+    if(is.null(coords)) {
+      bot_message("Could not find coordinates for this zipcode. Please try again.")
+      return()
+    }
+    
+    rv$registration_data$lat <- coords$lat
+    rv$registration_data$lng <- coords$lng
+    bot_message("Please enter your availability (e.g., 'Mon 9-12, Wed 3-6')")
+    rv$current_question <- "vol_availability"
+  }
+  
+  process_vol_availability <- function(input) {
+    if(!grepl("[A-Za-z]{3} \\d+-\\d+", input)) {
+      bot_message("Please use format like 'Mon 9-12, Wed 3-6'")
+      return()
+    }
+    
+    rv$registration_data$availability <- input
+    save_volunteer_registration()
+    bot_message("Volunteer registration complete! Thank you for your generosity.")
+    rv$current_state <- "volunteer_ready"
+  }
+  
+  save_volunteer_registration <- function() {
+    existing_data <- read.csv("volunteers.csv")
+    new_id <- ifelse(nrow(existing_data) == 0, 1, max(existing_data$volunteer_id) + 1)
+    
+    new_entry <- data.frame(
+      volunteer_id = new_id,
+      volunteer_name = rv$registration_data$volunteer_name,
+      major_city = rv$registration_data$major_city,
+      state = rv$registration_data$state,
+      lat = rv$registration_data$lat,
+      lng = rv$registration_data$lng,
+      availability = rv$registration_data$availability,
+      radius = NA,
+      acceptance_probability = NA
+    )
+    
+    write.table(new_entry, "volunteers.csv",
+                append = TRUE, sep = ",",
+                row.names = FALSE, col.names = FALSE)
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   handle_registration_check <- function(input) {
     if(tolower(input) %in% c("yes", "y")) {
