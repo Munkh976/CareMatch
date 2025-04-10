@@ -191,6 +191,7 @@ server <- function(input, output, session) {
     rv$current_question <- "verify_city"
   }
   
+  # Modify the elderly verification section
   process_verify_elderly_city <- function(input) {
     rv$lookup_data$city <- input
     elderly_data <- read.csv("elderly.csv") %>%
@@ -211,7 +212,37 @@ server <- function(input, output, session) {
         paste("Preferred Times:", elderly_data$preferred_time_slots),
         sep = "\n"
       ))
-      bot_message("We'll connect you with a volunteer shortly...")
+      
+      rv$current_elderly_id <- elderly_data$elderly_id[1]
+      
+      if(file.exists("updated_matches.csv")) {
+        matches <- read.csv("updated_matches.csv") %>%
+          filter(elderly_id == rv$current_elderly_id)
+        
+        if(nrow(matches) > 0) {
+          volunteers <- read.csv("volunteers.csv") %>%
+            filter(volunteer_id %in% matches$volunteer_id)
+          
+          if(nrow(volunteers) > 0) {
+            bot_message("\n\nYour matched volunteer(s):")
+            lapply(1:nrow(volunteers), function(i) {
+              bot_message(paste(
+                paste("Volunteer Name:", volunteers$volunteer_name[i]),
+                paste("Location:", volunteers$major_city[i], volunteers$state[i]),
+                paste("Availability:", volunteers$availability[i]),
+                sep = "\n"
+              ))
+            })
+          } else {
+            bot_message("\nNo volunteers found for your matches. Please check back later.")
+          }
+        } else {
+          bot_message("\nNo current matches found. We'll notify you when we find a match.")
+        }
+      } else {
+        bot_message("\nMatch system is currently unavailable. Please check back later.")
+      }
+      
       rv$current_state <- "elderly_waiting"
     }
   }
@@ -237,13 +268,9 @@ server <- function(input, output, session) {
   # Replace the process_verify_volunteer_city function with this corrected version
   process_verify_volunteer_city <- function(input) {
     rv$lookup_data$city <- input
-    
-    # Read data with explicit column name check
     volunteer_data <- read.csv("volunteers.csv", stringsAsFactors = FALSE) %>%
-      filter(
-        tolower(.data$name) == tolower(rv$lookup_data$name),
-        tolower(.data$major_city) == tolower(rv$lookup_data$city)
-      )
+      filter(tolower(name) == tolower(rv$lookup_data$name),
+             tolower(major_city) == tolower(rv$lookup_data$city))
     
     if(nrow(volunteer_data) == 0) {
       bot_message("No matching registration found. Would you like to register instead? (Yes/No)")
@@ -257,6 +284,38 @@ server <- function(input, output, session) {
         paste("Availability:", volunteer_data$availability),
         sep = "\n"
       ))
+      
+      rv$current_volunteer_id <- volunteer_data$volunteer_id[1]
+      
+      if(file.exists("updated_matches.csv")) {
+        matches <- read.csv("updated_matches.csv") %>%
+          filter(volunteer_id == rv$current_volunteer_id)
+        
+        if(nrow(matches) > 0) {
+          elderly <- read.csv("elderly.csv") %>%
+            filter(elderly_id %in% matches$elderly_id)
+          
+          if(nrow(elderly) > 0) {
+            bot_message("\n\nYour matched elderly person(s):")
+            lapply(1:nrow(elderly), function(i) {
+              bot_message(paste(
+                paste("Name:", elderly$name[i]),
+                paste("Age:", elderly$age[i]),
+                paste("Location:", elderly$major_city[i], elderly$state[i]),
+                paste("Preferred Times:", elderly$preferred_time_slots[i]),
+                sep = "\n"
+              ))
+            })
+          } else {
+            bot_message("\nNo elderly found for your matches. Please check back later.")
+          }
+        } else {
+          bot_message("\nNo current matches found. We'll notify you when we find a match.")
+        }
+      } else {
+        bot_message("\nMatch system is currently unavailable. Please check back later.")
+      }
+      
       rv$current_state <- "volunteer_ready"
     }
   }
