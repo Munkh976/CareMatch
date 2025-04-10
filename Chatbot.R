@@ -20,13 +20,13 @@ if(!file.exists("elderly.csv")) {
 if(!file.exists("volunteers.csv")) {
   data.frame(
     volunteer_id = integer(),
-    volunteer_name = character(),
+    name = character(),
     major_city = character(),
     state = character(),
     lat = numeric(),
     lng = numeric(),
     availability = character(),
-    radius = integer(),
+    radius_willing = integer(),
     acceptance_probability = numeric(),
     stringsAsFactors = FALSE
   ) %>% write.csv("volunteers.csv", row.names = FALSE)
@@ -74,7 +74,9 @@ server <- function(input, output, session) {
     chat_history = list(),
     current_state = "ask_type",
     registration_data = list(),
-    current_question = NULL
+    current_question = NULL,
+    user_type = NULL,
+    lookup_data = list()
   )
   
   # Initial bot message
@@ -125,10 +127,141 @@ server <- function(input, output, session) {
       handle_volunteer_registration_check(user_input)
     } else if(rv$current_state == "volunteer_registration") {
       handle_volunteer_registration(user_input)
+    } else if(rv$current_state == "elderly_lookup") {
+      handle_elderly_lookup(user_input)
+    } else if(rv$current_state == "volunteer_lookup") {
+      handle_volunteer_lookup(user_input)
     }
     
     updateTextInput(session, "userInput", value = "")
   })
+  
+  
+  # Modified registration check handlers
+  handle_elderly_registration_check <- function(input) {
+    if(tolower(input) %in% c("yes", "y")) {
+      bot_message("Please provide your registered details. Start with your full name (Last name, First name):")
+      rv$current_state <- "elderly_lookup"
+      rv$current_question <- "verify_name"
+    } else if(tolower(input) %in% c("no", "n")) {
+      start_registration()
+    } else {
+      bot_message("Please answer with 'Yes' or 'No'")
+    }
+  }
+  
+  handle_volunteer_registration_check <- function(input) {
+    if(tolower(input) %in% c("yes", "y")) {
+      bot_message("Please provide your registered details. Start with your full name (Last name, First name):")
+      rv$current_state <- "volunteer_lookup"
+      rv$current_question <- "verify_name"
+    } else if(tolower(input) %in% c("no", "n")) {
+      start_volunteer_registration()
+    } else {
+      bot_message("Please answer with 'Yes' or 'No'")
+    }
+  }
+  
+  # Elderly verification flow
+  handle_elderly_lookup <- function(input) {
+    switch(rv$current_question,
+           "verify_name" = process_verify_elderly_name(input),
+           "verify_age" = process_verify_elderly_age(input),
+           "verify_city" = process_verify_elderly_city(input)
+    )
+  }
+  
+  process_verify_elderly_name <- function(input) {
+    if(!grepl(",", input)) {
+      bot_message("Please enter your name in 'Last name, First name' format")
+      return()
+    }
+    rv$lookup_data$name <- input
+    bot_message("What is your registered age?")
+    rv$current_question <- "verify_age"
+  }
+  
+  process_verify_elderly_age <- function(input) {
+    if(!grepl("^\\d+$", input)) {
+      bot_message("Please enter a valid age (numbers only)")
+      return()
+    }
+    rv$lookup_data$age <- as.integer(input)
+    bot_message("Which city are you registered in?")
+    rv$current_question <- "verify_city"
+  }
+  
+  process_verify_elderly_city <- function(input) {
+    rv$lookup_data$city <- input
+    elderly_data <- read.csv("elderly.csv") %>%
+      filter(tolower(name) == tolower(rv$lookup_data$name),
+             age == rv$lookup_data$age,
+             tolower(major_city) == tolower(rv$lookup_data$city))
+    
+    if(nrow(elderly_data) == 0) {
+      bot_message("No matching registration found. Would you like to register instead? (Yes/No)")
+      rv$current_state <- "elderly_registration_retry"
+    } else {
+      bot_message("Here are your registration details:")
+      bot_message(paste(
+        paste("Name:", elderly_data$name),
+        paste("Age:", elderly_data$age),
+        paste("City:", elderly_data$major_city),
+        paste("State:", elderly_data$state),
+        paste("Preferred Times:", elderly_data$preferred_time_slots),
+        sep = "\n"
+      ))
+      bot_message("We'll connect you with a volunteer shortly...")
+      rv$current_state <- "elderly_waiting"
+    }
+  }
+  
+  # Volunteer verification flow
+  handle_volunteer_lookup <- function(input) {
+    switch(rv$current_question,
+           "verify_name" = process_verify_volunteer_name(input),
+           "verify_city" = process_verify_volunteer_city(input)
+    )
+  }
+  
+  process_verify_volunteer_name <- function(input) {
+    if(!grepl(",", input)) {
+      bot_message("Please enter your name in 'Last name, First name' format")
+      return()
+    }
+    rv$lookup_data$name <- input
+    bot_message("Which city are you registered in?")
+    rv$current_question <- "verify_city"
+  }
+  
+  # Replace the process_verify_volunteer_city function with this corrected version
+  process_verify_volunteer_city <- function(input) {
+    rv$lookup_data$city <- input
+    
+    # Read data with explicit column name check
+    volunteer_data <- read.csv("volunteers.csv", stringsAsFactors = FALSE) %>%
+      filter(
+        tolower(.data$name) == tolower(rv$lookup_data$name),
+        tolower(.data$major_city) == tolower(rv$lookup_data$city)
+      )
+    
+    if(nrow(volunteer_data) == 0) {
+      bot_message("No matching registration found. Would you like to register instead? (Yes/No)")
+      rv$current_state <- "volunteer_registration_retry"
+    } else {
+      bot_message("Here are your registration details:")
+      bot_message(paste(
+        paste("Name:", volunteer_data$volunteer_name),
+        paste("City:", volunteer_data$major_city),
+        paste("State:", volunteer_data$state),
+        paste("Availability:", volunteer_data$availability),
+        sep = "\n"
+      ))
+      rv$current_state <- "volunteer_ready"
+    }
+  }
+  
+  
   
   handle_initial_input <- function(input) {
     if(tolower(input) %in% c("elderly", "elderly person", "elderly person seeking assistance")) {
@@ -145,8 +278,9 @@ server <- function(input, output, session) {
   
   handle_volunteer_registration_check <- function(input) {
     if(tolower(input) %in% c("yes", "y")) {
-      bot_message("Thank you for your service! We'll help you find opportunities.")
-      rv$current_state <- "volunteer_ready"
+      bot_message("Let's verify your details. Please provide your full name (Last name, First name):")
+      rv$current_state <- "volunteer_lookup"
+      rv$current_question <- "verify_name"  # Add this line
     } else if(tolower(input) %in% c("no", "n")) {
       start_volunteer_registration()
     } else {
