@@ -1,6 +1,7 @@
 library(shiny)
 library(zipcodeR)
 library(dplyr)
+#
 
 # Initialize elderly.csv with correct structure if not exists
 if(!file.exists("elderly.csv")) {
