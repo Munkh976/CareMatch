@@ -1,0 +1,355 @@
+id,elderly_id,needs,time_prefs,urgency,created_at
+CR001,E001,"Transportation, Cleaning, Driving","Weekend PM, Weekday PM",Low,2025-04-13 12:56:37
+CR002,E001,"Companionship, Cleaning, Transportation","Weekend AM, Weekday PM",High,2025-04-13 12:52:04
+CR003,E001,"Shopping, First Aid, Driving, Transportation","Weekday PM, Weekday AM",Low,2025-04-13 12:52:28
+CR004,E002,"Companionship, Medication, First Aid","Weekend PM, Weekday PM",Low,2025-04-13 12:52:34
+CR005,E002,"Shopping, Cooking","Weekend PM, Weekend AM",Low,2025-04-13 12:55:13
+CR006,E002,"Medication, Companionship, Shopping","Weekend AM, Weekday PM",High,2025-04-13 12:51:36
+CR007,E002,"Medication, Cleaning, First Aid, Companionship","Weekend AM, Weekday PM",Medium,2025-04-13 12:56:59
+CR008,E002,"Cooking, Medication","Weekday PM, Weekend PM",Low,2025-04-13 12:54:13
+CR009,E003,"Companionship, Medication","Weekend PM, Weekday PM",High,2025-04-13 12:53:25
+CR010,E003,"Shopping, Driving, Cooking, Cleaning","Weekday PM, Weekend PM",Low,2025-04-13 12:54:43
+CR011,E003,"Driving, Medication, Shopping","Weekday PM, Weekend PM",Low,2025-04-13 12:52:16
+CR012,E004,"Shopping, Medication, Cooking, Companionship","Weekday AM, Weekend PM",High,2025-04-13 12:56:43
+CR013,E004,"First Aid, Companionship, Transportation","Weekend AM, Weekday AM",Low,2025-04-13 12:53:38
+CR014,E005,"Cooking, Transportation, Driving","Weekend PM, Weekday PM",Low,2025-04-13 12:55:11
+CR015,E005,"Driving, Cooking, Transportation, Shopping","Weekend AM, Weekday AM",Low,2025-04-13 12:53:10
+CR016,E005,"Transportation, Shopping","Weekday PM, Weekend AM",Medium,2025-04-13 12:51:29
+CR017,E005,"First Aid, Cleaning, Shopping","Weekend PM, Weekday PM",High,2025-04-13 12:56:37
+CR018,E006,"Cooking, Transportation, First Aid, Medication","Weekend AM, Weekend PM",Low,2025-04-13 12:54:43
+CR019,E006,"Companionship, Cooking","Weekday AM, Weekend PM",Low,2025-04-13 12:56:48
+CR020,E007,"First Aid, Cleaning, Driving","Weekday PM, Weekend PM",High,2025-04-13 12:57:21
+CR021,E007,"First Aid, Driving, Medication","Weekday PM, Weekend PM",High,2025-04-13 12:56:22
+CR022,E007,"Companionship, First Aid, Driving, Shopping","Weekday PM, Weekend AM",Low,2025-04-13 12:54:34
+CR023,E007,"Cleaning, Driving, Transportation","Weekday PM, Weekend PM",High,2025-04-13 12:53:17
+CR024,E007,"Shopping, Companionship, Driving, Transportation","Weekend AM, Weekend PM",Medium,2025-04-13 12:52:47
+CR025,E008,"First Aid, Companionship, Driving, Shopping","Weekday AM, Weekday PM",High,2025-04-13 12:51:38
+CR026,E008,"Shopping, Driving, Transportation","Weekday PM, Weekend AM",High,2025-04-13 12:51:44
+CR027,E008,"Driving, Transportation, Medication, Cleaning","Weekday AM, Weekend PM",Medium,2025-04-13 12:56:06
+CR028,E008,"First Aid, Cleaning, Cooking, Shopping","Weekend PM, Weekend AM",Medium,2025-04-13 12:51:57
+CR029,E009,"Medication, Companionship, Cleaning","Weekend AM, Weekend PM",Low,2025-04-13 12:55:05
+CR030,E009,"Medication, Companionship","Weekend PM, Weekday PM",High,2025-04-13 12:56:37
+CR031,E010,"Driving, Companionship, First Aid, Cleaning","Weekend AM, Weekday PM",Low,2025-04-13 12:56:01
+CR032,E010,"Driving, Medication, Shopping","Weekend PM, Weekday PM",Low,2025-04-13 12:53:31
+CR033,E010,"Medication, Shopping","Weekend PM, Weekend AM",Medium,2025-04-13 12:54:40
+CR034,E010,"Companionship, Cleaning","Weekday PM, Weekend PM",Medium,2025-04-13 12:53:20
+CR035,E010,"First Aid, Driving, Transportation, Shopping","Weekday PM, Weekend AM",Low,2025-04-13 12:55:13
+CR036,E011,"Driving, Shopping, Companionship, First Aid","Weekday PM, Weekday AM",Medium,2025-04-13 12:52:26
+CR037,E011,"Cleaning, Companionship","Weekend AM, Weekend PM",High,2025-04-13 12:56:32
+CR038,E011,"Transportation, First Aid, Companionship","Weekend PM, Weekday AM",Medium,2025-04-13 12:51:52
+CR039,E011,"Cleaning, Companionship, Cooking, Shopping","Weekday PM, Weekday AM",Medium,2025-04-13 12:51:52
+CR040,E012,"Shopping, Transportation, Driving","Weekend AM, Weekend PM",Medium,2025-04-13 12:54:07
+CR041,E012,"First Aid, Transportation, Cooking, Companionship","Weekend PM, Weekday PM",Medium,2025-04-13 12:57:21
+CR042,E012,"Transportation, Companionship, Cleaning, Cooking","Weekday PM, Weekend AM",Medium,2025-04-13 12:54:27
+CR043,E012,"Transportation, Driving","Weekend AM, Weekend PM",Medium,2025-04-13 12:51:44
+CR044,E012,"Transportation, Companionship, Medication, Cooking","Weekend PM, Weekday AM",Low,2025-04-13 12:57:23
+CR045,E013,"First Aid, Driving","Weekend PM, Weekday AM",High,2025-04-13 12:54:33
+CR046,E013,"Transportation, First Aid","Weekday PM, Weekday AM",Medium,2025-04-13 12:51:34
+CR047,E013,"Medication, Shopping, First Aid","Weekend PM, Weekend AM",Low,2025-04-13 12:56:59
+CR048,E013,"Transportation, Cleaning, Medication","Weekend PM, Weekend AM",Low,2025-04-13 12:51:53
+CR049,E014,"Shopping, Cooking","Weekday AM, Weekday PM",Low,2025-04-13 12:52:32
+CR050,E014,"Cooking, Companionship, First Aid, Cleaning","Weekday AM, Weekend PM",Medium,2025-04-13 12:54:20
+CR051,E015,"Medication, Cleaning, Companionship","Weekday PM, Weekday AM",High,2025-04-13 12:54:16
+CR052,E015,"Cleaning, Cooking, Transportation","Weekday AM, Weekend AM",Medium,2025-04-13 12:53:50
+CR053,E016,"Cleaning, Cooking, Companionship","Weekend AM, Weekday PM",Medium,2025-04-13 12:53:50
+CR054,E016,"Driving, Transportation, Companionship, Cleaning","Weekday PM, Weekday AM",Medium,2025-04-13 12:55:34
+CR055,E016,"Shopping, Medication, Companionship","Weekend AM, Weekday PM",Medium,2025-04-13 12:53:00
+CR056,E017,"First Aid, Driving, Cooking","Weekend PM, Weekend AM",Medium,2025-04-13 12:51:55
+CR057,E017,"Shopping, Medication, Cleaning, Driving","Weekend PM, Weekday PM",Low,2025-04-13 12:56:50
+CR058,E017,"Driving, Shopping, Medication, Companionship","Weekend AM, Weekday AM",High,2025-04-13 12:54:57
+CR059,E018,"Companionship, Shopping","Weekend AM, Weekend PM",High,2025-04-13 12:51:39
+CR060,E018,"Cleaning, Medication, Driving, Transportation","Weekend AM, Weekday PM",Low,2025-04-13 12:53:57
+CR061,E018,"Medication, First Aid, Cooking, Driving","Weekend AM, Weekday PM",High,2025-04-13 12:54:39
+CR062,E018,"Cleaning, Cooking, Transportation","Weekend AM, Weekend PM",High,2025-04-13 12:54:17
+CR063,E019,"Shopping, Transportation","Weekend PM, Weekday PM",High,2025-04-13 12:53:04
+CR064,E019,"Cooking, Companionship, Driving","Weekday PM, Weekday AM",High,2025-04-13 12:54:54
+CR065,E019,"Transportation, First Aid, Shopping, Cleaning","Weekday AM, Weekday PM",Low,2025-04-13 12:57:05
+CR066,E019,"Cooking, Companionship, Cleaning","Weekend AM, Weekend PM",Medium,2025-04-13 12:53:09
+CR067,E020,"Companionship, First Aid","Weekday AM, Weekend AM",High,2025-04-13 12:52:50
+CR068,E020,"Companionship, Medication, Driving","Weekend PM, Weekend AM",Medium,2025-04-13 12:53:45
+CR069,E020,"Transportation, Driving, Cooking, First Aid","Weekday AM, Weekday PM",Medium,2025-04-13 12:55:17
+CR070,E020,"Cooking, First Aid","Weekday PM, Weekend PM",Medium,2025-04-13 12:53:15
+CR071,E021,"Transportation, Shopping, Medication, Cooking","Weekend PM, Weekend AM",Low,2025-04-13 12:52:02
+CR072,E021,"Transportation, Cleaning, Driving","Weekend AM, Weekday AM",Medium,2025-04-13 12:55:41
+CR073,E021,"Companionship, Transportation, Cleaning","Weekday AM, Weekend AM",Medium,2025-04-13 12:52:58
+CR074,E021,"Medication, Driving, Companionship, Cleaning","Weekday PM, Weekday AM",Medium,2025-04-13 12:56:15
+CR075,E022,"Companionship, Medication, Transportation, Shopping","Weekday AM, Weekend PM",Medium,2025-04-13 12:53:42
+CR076,E022,"Cleaning, Transportation","Weekday PM, Weekday AM",High,2025-04-13 12:54:30
+CR077,E023,"Companionship, Transportation, Cooking, Cleaning","Weekday PM, Weekend AM",Low,2025-04-13 12:56:22
+CR078,E023,"Cleaning, Cooking, Shopping","Weekend AM, Weekday AM",Low,2025-04-13 12:54:18
+CR079,E023,"Driving, Cooking, First Aid, Cleaning","Weekday PM, Weekend AM",Medium,2025-04-13 12:52:49
+CR080,E024,"Shopping, Driving","Weekday PM, Weekend AM",Medium,2025-04-13 12:53:11
+CR081,E024,"Cooking, Medication, Driving, Companionship","Weekend PM, Weekday PM",High,2025-04-13 12:52:05
+CR082,E025,"Companionship, Shopping, Driving","Weekend AM, Weekday PM",High,2025-04-13 12:56:21
+CR083,E025,"Driving, Companionship","Weekend PM, Weekday PM",High,2025-04-13 12:52:41
+CR084,E026,"First Aid, Driving, Transportation","Weekend AM, Weekend PM",Low,2025-04-13 12:52:19
+CR085,E026,"Cleaning, First Aid","Weekend AM, Weekday PM",High,2025-04-13 12:56:30
+CR086,E027,"Transportation, Driving, Medication","Weekday AM, Weekend AM",High,2025-04-13 12:56:23
+CR087,E027,"Companionship, First Aid, Transportation, Cooking","Weekend PM, Weekday PM",Medium,2025-04-13 12:53:37
+CR088,E027,"Transportation, Medication, Driving","Weekend AM, Weekday PM",Medium,2025-04-13 12:54:28
+CR089,E027,"Shopping, Cleaning, Cooking, Companionship","Weekday AM, Weekend PM",Low,2025-04-13 12:53:15
+CR090,E028,"Cooking, Medication, Transportation","Weekend AM, Weekday AM",High,2025-04-13 12:52:29
+CR091,E028,"Medication, First Aid","Weekday AM, Weekday PM",Medium,2025-04-13 12:52:32
+CR092,E029,"Driving, Cleaning, Shopping, Transportation","Weekend AM, Weekday AM",High,2025-04-13 12:53:19
+CR093,E029,"Companionship, Cooking, Medication, First Aid","Weekday PM, Weekday AM",Medium,2025-04-13 12:56:19
+CR094,E029,"Medication, Driving, Cleaning, Shopping","Weekday PM, Weekend PM",High,2025-04-13 12:54:25
+CR095,E029,"Driving, Shopping, Medication, Cleaning","Weekday AM, Weekend PM",Medium,2025-04-13 12:54:53
+CR096,E029,"Shopping, Cleaning, Transportation, Driving","Weekday PM, Weekday AM",High,2025-04-13 12:56:37
+CR097,E030,"Cleaning, Medication","Weekday AM, Weekend PM",High,2025-04-13 12:54:11
+CR098,E030,"Companionship, First Aid, Transportation, Medication","Weekend AM, Weekday AM",Medium,2025-04-13 12:53:18
+CR099,E030,"Medication, Transportation, Shopping","Weekday AM, Weekend PM",Low,2025-04-13 12:56:50
+CR100,E030,"Driving, Medication","Weekday AM, Weekday PM",Medium,2025-04-13 12:56:14
+CR101,E030,"Transportation, Companionship, Shopping, First Aid","Weekend PM, Weekday PM",Low,2025-04-13 12:52:37
+CR102,E031,"Transportation, Driving, Cleaning","Weekend PM, Weekend AM",High,2025-04-13 12:57:01
+CR103,E031,"Driving, Cooking, Companionship","Weekday AM, Weekend PM",Low,2025-04-13 12:55:41
+CR104,E032,"Cleaning, Transportation","Weekend AM, Weekday PM",Medium,2025-04-13 12:54:21
+CR105,E032,"Driving, Companionship","Weekend PM, Weekday AM",Low,2025-04-13 12:53:23
+CR106,E032,"Companionship, Shopping, Transportation","Weekend AM, Weekday AM",Medium,2025-04-13 12:54:55
+CR107,E032,"Driving, Companionship, First Aid, Transportation","Weekday AM, Weekday PM",High,2025-04-13 12:56:02
+CR108,E033,"Transportation, Medication, First Aid, Companionship","Weekend AM, Weekday AM",Medium,2025-04-13 12:52:54
+CR109,E033,"Medication, Cooking","Weekend PM, Weekend AM",Medium,2025-04-13 12:54:10
+CR110,E033,"Transportation, First Aid","Weekday AM, Weekend PM",Medium,2025-04-13 12:56:04
+CR111,E033,"Transportation, Shopping, Driving, Companionship","Weekend AM, Weekend PM",Medium,2025-04-13 12:51:59
+CR112,E033,"Medication, Transportation","Weekday PM, Weekday AM",High,2025-04-13 12:57:23
+CR113,E034,"Companionship, Transportation, Cleaning, Medication","Weekday PM, Weekday AM",Low,2025-04-13 12:52:04
+CR114,E034,"Shopping, Cooking","Weekday PM, Weekend AM",Low,2025-04-13 12:54:10
+CR115,E035,"First Aid, Companionship","Weekend PM, Weekend AM",High,2025-04-13 12:54:37
+CR116,E035,"Medication, Transportation, First Aid, Cleaning","Weekday PM, Weekend PM",Low,2025-04-13 12:55:19
+CR117,E036,"Shopping, Transportation, Cleaning","Weekday AM, Weekday PM",High,2025-04-13 12:54:53
+CR118,E036,"Shopping, Companionship","Weekend PM, Weekday AM",Low,2025-04-13 12:55:40
+CR119,E036,"Shopping, Driving, Medication","Weekday AM, Weekend AM",High,2025-04-13 12:51:36
+CR120,E036,"Transportation, Companionship, Shopping, Medication","Weekday AM, Weekday PM",High,2025-04-13 12:54:37
+CR121,E036,"Companionship, Cleaning, Shopping, First Aid","Weekday PM, Weekday AM",Medium,2025-04-13 12:56:49
+CR122,E037,"Cooking, Shopping, Medication","Weekday PM, Weekday AM",Low,2025-04-13 12:57:10
+CR123,E037,"First Aid, Companionship, Shopping, Medication","Weekday PM, Weekend PM",Medium,2025-04-13 12:56:53
+CR124,E038,"Transportation, First Aid, Cleaning","Weekday AM, Weekend AM",High,2025-04-13 12:54:55
+CR125,E038,"Cooking, Cleaning, Driving","Weekend PM, Weekday PM",Medium,2025-04-13 12:57:10
+CR126,E038,"Cleaning, First Aid, Driving, Shopping","Weekday PM, Weekend PM",Medium,2025-04-13 12:53:55
+CR127,E038,"Transportation, Cooking, Shopping, Driving","Weekend AM, Weekend PM",Medium,2025-04-13 12:53:11
+CR128,E039,"Cooking, Medication","Weekend PM, Weekend AM",Medium,2025-04-13 12:55:50
+CR129,E039,"Medication, Cleaning","Weekday PM, Weekday AM",Medium,2025-04-13 12:52:00
+CR130,E039,"Companionship, Cooking, Transportation","Weekday PM, Weekday AM",Medium,2025-04-13 12:56:25
+CR131,E039,"Driving, Medication","Weekend AM, Weekend PM",Low,2025-04-13 12:56:27
+CR132,E040,"Cleaning, Cooking","Weekday PM, Weekend AM",Medium,2025-04-13 12:52:45
+CR133,E040,"Transportation, Cleaning","Weekday PM, Weekend PM",High,2025-04-13 12:57:19
+CR134,E040,"First Aid, Cooking, Shopping","Weekday PM, Weekend PM",Medium,2025-04-13 12:54:59
+CR135,E040,"Medication, First Aid","Weekend PM, Weekday PM",Medium,2025-04-13 12:56:11
+CR136,E040,"Transportation, Cooking, First Aid","Weekday PM, Weekend PM",Low,2025-04-13 12:55:44
+CR137,E041,"Cooking, Medication, Shopping","Weekday AM, Weekday PM",Low,2025-04-13 12:57:21
+CR138,E041,"Shopping, Companionship","Weekday PM, Weekend PM",Low,2025-04-13 12:52:45
+CR139,E041,"First Aid, Cleaning","Weekday AM, Weekday PM",Low,2025-04-13 12:57:08
+CR140,E041,"Medication, Cooking, Companionship","Weekday AM, Weekday PM",Low,2025-04-13 12:54:26
+CR141,E041,"Medication, Driving","Weekend AM, Weekday AM",Low,2025-04-13 12:54:48
+CR142,E042,"First Aid, Medication, Cooking","Weekend PM, Weekday PM",High,2025-04-13 12:54:08
+CR143,E042,"Cooking, Driving","Weekend AM, Weekday AM",Low,2025-04-13 12:57:13
+CR144,E043,"Shopping, Cooking","Weekend AM, Weekday AM",Low,2025-04-13 12:51:28
+CR145,E043,"Transportation, Medication","Weekend PM, Weekday AM",Low,2025-04-13 12:54:18
+CR146,E043,"Driving, Medication, Shopping","Weekday PM, Weekend AM",Low,2025-04-13 12:53:08
+CR147,E043,"Transportation, Driving, Shopping","Weekend AM, Weekday AM",High,2025-04-13 12:54:45
+CR148,E043,"Cleaning, Medication, Transportation","Weekday AM, Weekend AM",Medium,2025-04-13 12:51:32
+CR149,E044,"Driving, Companionship, Transportation, First Aid","Weekend PM, Weekday PM",Medium,2025-04-13 12:57:19
+CR150,E044,"Driving, Cleaning, First Aid, Transportation","Weekday PM, Weekend AM",High,2025-04-13 12:51:36
+CR151,E045,"Medication, Cooking, Driving, Cleaning","Weekend AM, Weekend PM",Low,2025-04-13 12:56:54
+CR152,E045,"First Aid, Medication, Companionship, Cooking","Weekday PM, Weekday AM",High,2025-04-13 12:53:18
+CR153,E046,"Shopping, Cooking","Weekday AM, Weekend PM",Low,2025-04-13 12:53:53
+CR154,E046,"Shopping, First Aid, Companionship","Weekend PM, Weekday PM",Low,2025-04-13 12:52:18
+CR155,E046,"Companionship, Cleaning, Transportation, Driving","Weekend AM, Weekday PM",Low,2025-04-13 12:51:25
+CR156,E046,"Transportation, Companionship, Medication","Weekend PM, Weekday PM",Medium,2025-04-13 12:53:44
+CR157,E046,"First Aid, Medication","Weekend PM, Weekday PM",High,2025-04-13 12:52:13
+CR158,E047,"Transportation, Driving","Weekend PM, Weekend AM",Low,2025-04-13 12:51:29
+CR159,E047,"Shopping, Cleaning, Driving, Medication","Weekend AM, Weekend PM",Medium,2025-04-13 12:55:26
+CR160,E047,"First Aid, Shopping, Medication","Weekend PM, Weekday AM",High,2025-04-13 12:56:03
+CR161,E047,"Medication, Companionship, Driving","Weekend AM, Weekend PM",Medium,2025-04-13 12:52:58
+CR162,E048,"Driving, First Aid, Medication, Companionship","Weekend AM, Weekend PM",High,2025-04-13 12:57:12
+CR163,E048,"Cleaning, Driving, Cooking, Shopping","Weekend PM, Weekday AM",Low,2025-04-13 12:53:10
+CR164,E048,"Companionship, Transportation","Weekend AM, Weekday PM",Medium,2025-04-13 12:56:26
+CR165,E048,"Driving, Shopping, Cooking, Companionship","Weekend AM, Weekday PM",Medium,2025-04-13 12:56:22
+CR166,E049,"Cleaning, Shopping, First Aid, Companionship","Weekend AM, Weekend PM",Medium,2025-04-13 12:53:02
+CR167,E049,"Cooking, Driving","Weekday PM, Weekend PM",High,2025-04-13 12:51:30
+CR168,E050,"Cooking, Cleaning, Transportation, Companionship","Weekday PM, Weekend AM",Medium,2025-04-13 12:53:11
+CR169,E050,"First Aid, Cooking, Driving, Transportation","Weekday AM, Weekday PM",Low,2025-04-13 12:53:48
+CR170,E050,"First Aid, Driving, Medication, Cleaning","Weekend AM, Weekend PM",Low,2025-04-13 12:54:49
+CR171,E050,"Shopping, Cleaning, Cooking, Medication","Weekend AM, Weekend PM",Low,2025-04-13 12:53:21
+CR172,E050,"Companionship, Transportation","Weekday PM, Weekday AM",Medium,2025-04-13 12:52:01
+CR173,E051,"Medication, Companionship, Shopping","Weekday PM, Weekend AM",Low,2025-04-13 12:51:35
+CR174,E051,"Shopping, Companionship","Weekend PM, Weekend AM",Medium,2025-04-13 12:57:00
+CR175,E052,"Cooking, First Aid, Cleaning, Driving","Weekend PM, Weekday PM",High,2025-04-13 12:56:37
+CR176,E052,"Medication, Cooking, Shopping, First Aid","Weekday PM, Weekday AM",Medium,2025-04-13 12:57:03
+CR177,E052,"Driving, Transportation, First Aid, Shopping","Weekday PM, Weekend PM",Low,2025-04-13 12:56:02
+CR178,E052,"Medication, First Aid","Weekday PM, Weekend PM",High,2025-04-13 12:56:22
+CR179,E052,"Cooking, Cleaning, First Aid","Weekend AM, Weekday AM",High,2025-04-13 12:57:08
+CR180,E053,"Cooking, Shopping, Medication, First Aid","Weekday PM, Weekday AM",High,2025-04-13 12:53:58
+CR181,E053,"Medication, Transportation, Shopping, Driving","Weekday AM, Weekend PM",Low,2025-04-13 12:51:44
+CR182,E053,"Shopping, Medication, Cooking, First Aid","Weekend PM, Weekend AM",High,2025-04-13 12:55:00
+CR183,E053,"First Aid, Medication","Weekend AM, Weekend PM",Medium,2025-04-13 12:53:28
+CR184,E054,"Transportation, Cleaning","Weekend PM, Weekday AM",High,2025-04-13 12:53:40
+CR185,E054,"Cleaning, Companionship","Weekend PM, Weekday PM",Medium,2025-04-13 12:52:04
+CR186,E054,"Medication, Shopping","Weekday PM, Weekend PM",High,2025-04-13 12:51:37
+CR187,E054,"Medication, Companionship, Cooking","Weekend AM, Weekend PM",High,2025-04-13 12:57:23
+CR188,E054,"Medication, Cooking","Weekend PM, Weekday AM",Medium,2025-04-13 12:52:06
+CR189,E055,"Cleaning, Driving","Weekday AM, Weekday PM",Medium,2025-04-13 12:53:43
+CR190,E055,"Transportation, Cooking, First Aid, Cleaning","Weekend AM, Weekday AM",Low,2025-04-13 12:56:28
+CR191,E055,"First Aid, Companionship, Cleaning","Weekend PM, Weekday AM",Low,2025-04-13 12:53:37
+CR192,E055,"First Aid, Cooking, Transportation","Weekend AM, Weekday AM",Low,2025-04-13 12:53:01
+CR193,E055,"First Aid, Shopping, Medication","Weekend PM, Weekday PM",High,2025-04-13 12:53:30
+CR194,E056,"Transportation, Cooking","Weekend AM, Weekend PM",Medium,2025-04-13 12:51:47
+CR195,E056,"Medication, Driving, Companionship","Weekday AM, Weekend AM",High,2025-04-13 12:53:29
+CR196,E057,"Shopping, Driving, Companionship","Weekend PM, Weekend AM",Medium,2025-04-13 12:54:38
+CR197,E057,"Cooking, First Aid, Driving, Companionship","Weekend AM, Weekday PM",High,2025-04-13 12:55:26
+CR198,E057,"Cleaning, Cooking, Shopping","Weekend PM, Weekend AM",Low,2025-04-13 12:52:55
+CR199,E058,"Cleaning, Medication","Weekend AM, Weekday PM",High,2025-04-13 12:56:53
+CR200,E058,"Cleaning, Shopping, Transportation","Weekday PM, Weekend PM",High,2025-04-13 12:53:35
+CR201,E059,"Transportation, Shopping","Weekend AM, Weekend PM",Medium,2025-04-13 12:52:33
+CR202,E059,"First Aid, Medication, Shopping, Cleaning","Weekend PM, Weekday AM",Medium,2025-04-13 12:55:04
+CR203,E059,"Cooking, Companionship, Shopping","Weekend AM, Weekend PM",High,2025-04-13 12:52:49
+CR204,E059,"Driving, Shopping, Companionship, Cleaning","Weekday PM, Weekend AM",Low,2025-04-13 12:52:01
+CR205,E060,"Transportation, Cooking","Weekday PM, Weekday AM",High,2025-04-13 12:56:21
+CR206,E060,"Cooking, First Aid, Driving, Companionship","Weekend AM, Weekday PM",Low,2025-04-13 12:53:34
+CR207,E060,"Companionship, First Aid, Shopping","Weekend PM, Weekend AM",High,2025-04-13 12:55:57
+CR208,E060,"Cleaning, Shopping","Weekday PM, Weekend AM",Medium,2025-04-13 12:51:56
+CR209,E060,"First Aid, Shopping, Companionship, Cleaning","Weekday PM, Weekend PM",High,2025-04-13 12:53:52
+CR210,E061,"Medication, First Aid, Transportation, Cleaning","Weekend PM, Weekday AM",Low,2025-04-13 12:54:26
+CR211,E061,"Shopping, Cooking, Cleaning","Weekend AM, Weekend PM",Low,2025-04-13 12:54:22
+CR212,E061,"First Aid, Cleaning, Companionship, Transportation","Weekend AM, Weekday PM",Low,2025-04-13 12:54:26
+CR213,E061,"Transportation, Companionship, Cleaning, Cooking","Weekend AM, Weekday AM",Medium,2025-04-13 12:55:19
+CR214,E062,"First Aid, Medication, Cleaning","Weekend PM, Weekday AM",Low,2025-04-13 12:56:07
+CR215,E062,"Shopping, First Aid, Medication, Cleaning","Weekday PM, Weekday AM",High,2025-04-13 12:53:48
+CR216,E063,"Driving, Medication","Weekday PM, Weekend AM",Low,2025-04-13 12:51:43
+CR217,E063,"Cooking, Companionship","Weekend AM, Weekend PM",Medium,2025-04-13 12:54:57
+CR218,E063,"Cleaning, Driving","Weekday PM, Weekend PM",High,2025-04-13 12:52:34
+CR219,E064,"Companionship, Transportation, Cleaning","Weekend AM, Weekday PM",High,2025-04-13 12:54:31
+CR220,E064,"Cooking, Medication","Weekday PM, Weekend AM",High,2025-04-13 12:55:31
+CR221,E064,"Driving, Cooking, Companionship, Transportation","Weekday AM, Weekday PM",Medium,2025-04-13 12:56:09
+CR222,E064,"Shopping, Driving","Weekday AM, Weekday PM",High,2025-04-13 12:51:57
+CR223,E064,"Cooking, Cleaning, Transportation, Companionship","Weekend PM, Weekday AM",High,2025-04-13 12:55:38
+CR224,E065,"Companionship, Transportation, Driving","Weekend AM, Weekday AM",High,2025-04-13 12:54:00
+CR225,E065,"Shopping, Medication, Cooking","Weekday AM, Weekend AM",Medium,2025-04-13 12:54:30
+CR226,E065,"Companionship, Cooking, Shopping","Weekend PM, Weekday PM",High,2025-04-13 12:54:56
+CR227,E065,"Cooking, Companionship, Medication","Weekday AM, Weekend PM",Low,2025-04-13 12:56:49
+CR228,E065,"Medication, Cooking, Driving","Weekend AM, Weekday PM",Low,2025-04-13 12:56:31
+CR229,E066,"Medication, Cleaning, Shopping","Weekday AM, Weekday PM",High,2025-04-13 12:52:45
+CR230,E066,"Companionship, Driving, Medication","Weekday AM, Weekday PM",Medium,2025-04-13 12:55:14
+CR231,E066,"Transportation, Medication","Weekend AM, Weekend PM",Low,2025-04-13 12:54:23
+CR232,E066,"Shopping, Cleaning, First Aid, Cooking","Weekday PM, Weekday AM",Medium,2025-04-13 12:55:45
+CR233,E066,"First Aid, Medication","Weekend AM, Weekday PM",High,2025-04-13 12:54:54
+CR234,E067,"Companionship, Transportation, Cooking, Shopping","Weekday AM, Weekend AM",Medium,2025-04-13 12:53:01
+CR235,E067,"Medication, Driving, Shopping, Transportation","Weekday AM, Weekend AM",High,2025-04-13 12:54:23
+CR236,E067,"Cleaning, Cooking","Weekend AM, Weekend PM",Medium,2025-04-13 12:57:20
+CR237,E067,"Companionship, Medication","Weekend PM, Weekday AM",High,2025-04-13 12:51:34
+CR238,E067,"Driving, Companionship, Cooking","Weekend PM, Weekday PM",High,2025-04-13 12:56:10
+CR239,E068,"First Aid, Medication, Cleaning, Driving","Weekend PM, Weekday PM",Low,2025-04-13 12:54:24
+CR240,E068,"Companionship, Shopping, Driving, Medication","Weekend PM, Weekday PM",High,2025-04-13 12:54:08
+CR241,E069,"Driving, First Aid, Companionship, Transportation","Weekend AM, Weekday PM",Low,2025-04-13 12:52:07
+CR242,E069,"Transportation, Cleaning","Weekend PM, Weekday PM",Medium,2025-04-13 12:53:42
+CR243,E070,"Cleaning, Medication","Weekend AM, Weekday AM",Low,2025-04-13 12:53:57
+CR244,E070,"Transportation, Shopping, Cooking, Medication","Weekday AM, Weekend PM",Medium,2025-04-13 12:51:43
+CR245,E070,"Transportation, Shopping, Companionship","Weekday PM, Weekday AM",Medium,2025-04-13 12:55:31
+CR246,E070,"Cleaning, First Aid, Cooking","Weekday AM, Weekend PM",High,2025-04-13 12:53:43
+CR247,E070,"Driving, Cooking, Transportation","Weekday AM, Weekend PM",High,2025-04-13 12:56:36
+CR248,E071,"Driving, Cooking, Medication","Weekday AM, Weekday PM",Medium,2025-04-13 12:51:45
+CR249,E071,"Companionship, Transportation","Weekday AM, Weekend PM",High,2025-04-13 12:52:48
+CR250,E072,"Medication, Shopping","Weekend AM, Weekday AM",Medium,2025-04-13 12:53:28
+CR251,E072,"Companionship, First Aid","Weekend AM, Weekday PM",Low,2025-04-13 12:54:50
+CR252,E072,"Cleaning, Medication, Transportation, Companionship","Weekend PM, Weekday AM",Medium,2025-04-13 12:53:58
+CR253,E072,"Transportation, First Aid, Shopping, Cleaning","Weekend PM, Weekday PM",Low,2025-04-13 12:54:44
+CR254,E073,"Cleaning, Transportation, Shopping","Weekend PM, Weekday AM",Low,2025-04-13 12:54:34
+CR255,E073,"Cleaning, Transportation, Companionship","Weekday AM, Weekend AM",Medium,2025-04-13 12:51:37
+CR256,E073,"Cleaning, Companionship, Cooking","Weekend AM, Weekday AM",Medium,2025-04-13 12:52:28
+CR257,E073,"Cooking, Companionship, Cleaning, Driving","Weekday PM, Weekday AM",Medium,2025-04-13 12:55:00
+CR258,E074,"Driving, Transportation, First Aid, Cooking","Weekday PM, Weekend PM",Low,2025-04-13 12:55:19
+CR259,E074,"Shopping, Driving, Cooking","Weekday PM, Weekend AM",Low,2025-04-13 12:55:45
+CR260,E074,"First Aid, Cooking, Medication, Shopping","Weekday PM, Weekend PM",Low,2025-04-13 12:57:06
+CR261,E074,"Medication, Transportation, Cleaning, Companionship","Weekend PM, Weekend AM",High,2025-04-13 12:54:37
+CR262,E074,"Shopping, Cleaning, Transportation","Weekend PM, Weekday PM",Low,2025-04-13 12:56:20
+CR263,E075,"Companionship, Cleaning, Transportation","Weekend PM, Weekday AM",High,2025-04-13 12:56:19
+CR264,E075,"Cleaning, Driving","Weekend AM, Weekend PM",High,2025-04-13 12:55:15
+CR265,E075,"Transportation, Cleaning, Cooking, Medication","Weekend AM, Weekday AM",Medium,2025-04-13 12:56:00
+CR266,E075,"Companionship, First Aid, Shopping, Cleaning","Weekend AM, Weekday PM",High,2025-04-13 12:56:39
+CR267,E075,"First Aid, Companionship, Cooking, Cleaning","Weekday PM, Weekday AM",High,2025-04-13 12:55:45
+CR268,E076,"Driving, Shopping","Weekday AM, Weekend PM",High,2025-04-13 12:56:40
+CR269,E076,"Driving, Companionship","Weekday PM, Weekend AM",Low,2025-04-13 12:57:15
+CR270,E076,"Cleaning, Driving","Weekday PM, Weekend AM",Medium,2025-04-13 12:53:30
+CR271,E076,"Driving, Shopping, Medication","Weekend PM, Weekend AM",Medium,2025-04-13 12:56:42
+CR272,E076,"Driving, Shopping","Weekend PM, Weekday AM",Low,2025-04-13 12:55:22
+CR273,E077,"Shopping, Driving, First Aid, Companionship","Weekday PM, Weekday AM",Low,2025-04-13 12:56:09
+CR274,E077,"Cleaning, Cooking, Transportation, Shopping","Weekend AM, Weekday PM",Medium,2025-04-13 12:56:42
+CR275,E077,"Cooking, Cleaning, Companionship","Weekend PM, Weekend AM",Low,2025-04-13 12:56:31
+CR276,E077,"Companionship, Cleaning, Medication, Driving","Weekday AM, Weekend PM",Medium,2025-04-13 12:53:30
+CR277,E078,"First Aid, Driving, Medication","Weekday AM, Weekend AM",Low,2025-04-13 12:57:21
+CR278,E078,"First Aid, Transportation","Weekend PM, Weekend AM",Medium,2025-04-13 12:52:36
+CR279,E078,"Cooking, Shopping, Driving, First Aid","Weekday PM, Weekend AM",High,2025-04-13 12:53:36
+CR280,E078,"Shopping, Driving, Transportation","Weekend AM, Weekend PM",High,2025-04-13 12:56:56
+CR281,E078,"Driving, Cooking, Cleaning, First Aid","Weekday PM, Weekend AM",Low,2025-04-13 12:56:06
+CR282,E079,"Shopping, Cooking","Weekday PM, Weekend AM",Medium,2025-04-13 12:51:38
+CR283,E079,"Medication, Companionship, First Aid, Cooking","Weekday AM, Weekend AM",High,2025-04-13 12:55:26
+CR284,E079,"Driving, First Aid, Companionship","Weekday PM, Weekday AM",Medium,2025-04-13 12:51:38
+CR285,E079,"Transportation, First Aid, Cleaning, Driving","Weekend AM, Weekday PM",Medium,2025-04-13 12:55:24
+CR286,E079,"Medication, Shopping","Weekend PM, Weekday PM",Low,2025-04-13 12:53:05
+CR287,E080,"Shopping, Transportation","Weekday PM, Weekend AM",Low,2025-04-13 12:56:25
+CR288,E080,"Shopping, Cooking","Weekend PM, Weekend AM",High,2025-04-13 12:55:53
+CR289,E080,"Transportation, Cleaning","Weekend AM, Weekday AM",Low,2025-04-13 12:51:51
+CR290,E080,"Shopping, Companionship","Weekend AM, Weekday PM",Low,2025-04-13 12:54:13
+CR291,E080,"Cooking, First Aid","Weekend PM, Weekday PM",High,2025-04-13 12:54:37
+CR292,E081,"Driving, First Aid","Weekend AM, Weekend PM",Low,2025-04-13 12:54:38
+CR293,E081,"Medication, Transportation, Companionship, Driving","Weekend AM, Weekday PM",Medium,2025-04-13 12:56:13
+CR294,E081,"Companionship, Shopping","Weekday PM, Weekend AM",Medium,2025-04-13 12:54:00
+CR295,E081,"Cleaning, First Aid","Weekend AM, Weekday PM",Medium,2025-04-13 12:56:23
+CR296,E081,"Cooking, First Aid","Weekend PM, Weekday PM",Medium,2025-04-13 12:53:20
+CR297,E082,"Cooking, Cleaning, Transportation","Weekday PM, Weekend AM",High,2025-04-13 12:53:05
+CR298,E082,"Companionship, First Aid, Driving","Weekday PM, Weekend PM",Low,2025-04-13 12:53:36
+CR299,E082,"Medication, Transportation, Shopping","Weekend PM, Weekday PM",Medium,2025-04-13 12:56:10
+CR300,E082,"Transportation, First Aid, Medication","Weekday PM, Weekend PM",Medium,2025-04-13 12:52:42
+CR301,E083,"Medication, Cooking, Companionship","Weekend AM, Weekday PM",High,2025-04-13 12:53:04
+CR302,E083,"First Aid, Shopping, Cooking, Cleaning","Weekend PM, Weekday PM",Medium,2025-04-13 12:52:05
+CR303,E083,"Cooking, Shopping, First Aid","Weekday PM, Weekend AM",High,2025-04-13 12:51:51
+CR304,E084,"First Aid, Medication, Cooking, Companionship","Weekend AM, Weekend PM",Low,2025-04-13 12:53:50
+CR305,E084,"First Aid, Cooking, Medication","Weekend AM, Weekday AM",Medium,2025-04-13 12:54:22
+CR306,E085,"Transportation, First Aid, Companionship, Driving","Weekend PM, Weekend AM",Medium,2025-04-13 12:57:03
+CR307,E085,"Transportation, Shopping, First Aid, Companionship","Weekday AM, Weekday PM",High,2025-04-13 12:57:21
+CR308,E085,"Cooking, Driving, First Aid, Cleaning","Weekday PM, Weekend AM",High,2025-04-13 12:53:18
+CR309,E086,"Transportation, First Aid, Cleaning, Companionship","Weekday AM, Weekend PM",Low,2025-04-13 12:57:08
+CR310,E086,"Companionship, Shopping, Medication","Weekday PM, Weekend PM",Medium,2025-04-13 12:55:58
+CR311,E087,"Cleaning, First Aid, Driving","Weekend PM, Weekday AM",Medium,2025-04-13 12:52:17
+CR312,E087,"Cooking, Driving, Medication","Weekday PM, Weekend PM",Medium,2025-04-13 12:52:12
+CR313,E087,"First Aid, Transportation, Cooking","Weekend PM, Weekday PM",Medium,2025-04-13 12:55:45
+CR314,E087,"First Aid, Medication","Weekend PM, Weekday PM",Low,2025-04-13 12:51:26
+CR315,E087,"Driving, Transportation, Medication","Weekday AM, Weekend PM",Medium,2025-04-13 12:54:17
+CR316,E088,"Cleaning, Medication, Cooking, Shopping","Weekday PM, Weekend AM",Low,2025-04-13 12:54:12
+CR317,E088,"Transportation, Companionship, Cooking","Weekend PM, Weekend AM",Low,2025-04-13 12:57:00
+CR318,E089,"Transportation, Companionship, Driving, Shopping","Weekday PM, Weekend PM",High,2025-04-13 12:52:00
+CR319,E089,"Transportation, Driving, Medication","Weekday PM, Weekday AM",Medium,2025-04-13 12:53:11
+CR320,E089,"Cooking, Shopping, Driving, Transportation","Weekday PM, Weekend PM",Medium,2025-04-13 12:51:46
+CR321,E090,"Cooking, Cleaning, Medication","Weekend PM, Weekend AM",High,2025-04-13 12:53:55
+CR322,E090,"Transportation, Shopping, Companionship","Weekday AM, Weekday PM",Medium,2025-04-13 12:52:58
+CR323,E090,"Cleaning, Transportation, Medication","Weekend AM, Weekend PM",High,2025-04-13 12:54:13
+CR324,E091,"Cleaning, First Aid, Driving, Cooking","Weekend AM, Weekday AM",Low,2025-04-13 12:52:08
+CR325,E091,"Cleaning, Shopping, Companionship","Weekend PM, Weekend AM",Low,2025-04-13 12:57:14
+CR326,E092,"Cleaning, Companionship, Medication","Weekday PM, Weekend AM",Low,2025-04-13 12:54:45
+CR327,E092,"Shopping, Cooking, Transportation","Weekend AM, Weekday PM",High,2025-04-13 12:55:05
+CR328,E092,"Medication, Driving","Weekend PM, Weekday AM",Low,2025-04-13 12:52:12
+CR329,E092,"First Aid, Companionship, Medication","Weekend PM, Weekday PM",High,2025-04-13 12:52:25
+CR330,E092,"First Aid, Cooking, Driving","Weekday AM, Weekend PM",Medium,2025-04-13 12:55:23
+CR331,E093,"Companionship, Shopping, Cleaning","Weekday PM, Weekend PM",High,2025-04-13 12:51:50
+CR332,E093,"First Aid, Shopping, Transportation, Driving","Weekday AM, Weekday PM",High,2025-04-13 12:56:39
+CR333,E094,"Driving, Transportation, Medication, Companionship","Weekday PM, Weekend PM",Low,2025-04-13 12:52:32
+CR334,E094,"Companionship, Cleaning, Driving, First Aid","Weekend AM, Weekday PM",Low,2025-04-13 12:52:21
+CR335,E094,"Cooking, Transportation, First Aid","Weekday PM, Weekend AM",High,2025-04-13 12:55:02
+CR336,E094,"Medication, Transportation, First Aid, Shopping","Weekend PM, Weekday AM",High,2025-04-13 12:56:30
+CR337,E095,"Companionship, Transportation","Weekday AM, Weekend AM",Medium,2025-04-13 12:51:36
+CR338,E095,"Shopping, First Aid, Transportation, Cooking","Weekend AM, Weekend PM",Medium,2025-04-13 12:55:51
+CR339,E095,"Shopping, Transportation, First Aid","Weekday AM, Weekend PM",Medium,2025-04-13 12:54:21
+CR340,E096,"Cleaning, Medication, Cooking","Weekday PM, Weekday AM",High,2025-04-13 12:56:01
+CR341,E096,"Companionship, Transportation, Medication","Weekend PM, Weekday PM",Low,2025-04-13 12:56:51
+CR342,E097,"Transportation, Companionship, First Aid, Driving","Weekday AM, Weekday PM",High,2025-04-13 12:56:53
+CR343,E097,"Shopping, Medication, Cleaning, Companionship","Weekend PM, Weekday PM",High,2025-04-13 12:57:13
+CR344,E097,"Cooking, Medication","Weekend PM, Weekend AM",High,2025-04-13 12:57:03
+CR345,E097,"Medication, Transportation, Driving, Shopping","Weekend PM, Weekday AM",Medium,2025-04-13 12:57:07
+CR346,E098,"Shopping, Cleaning, Transportation","Weekend AM, Weekend PM",High,2025-04-13 12:57:17
+CR347,E098,"First Aid, Transportation","Weekend AM, Weekend PM",Low,2025-04-13 12:54:53
+CR348,E098,"Cooking, Medication","Weekend PM, Weekday AM",Low,2025-04-13 12:53:28
+CR349,E099,"First Aid, Driving, Companionship","Weekday PM, Weekend AM",Low,2025-04-13 12:56:51
+CR350,E099,"Shopping, Cooking, Cleaning, Driving","Weekend AM, Weekday PM",Low,2025-04-13 12:52:18
+CR351,E099,"Cleaning, Driving, Companionship","Weekend AM, Weekend PM",High,2025-04-13 12:53:49
+CR352,E100,"Cooking, Medication, Driving","Weekday AM, Weekend PM",Medium,2025-04-13 12:56:07
+CR353,E100,"Cleaning, Shopping","Weekday PM, Weekend AM",High,2025-04-13 12:53:56
+CR354,E100,"Driving, First Aid, Medication","Weekend AM, Weekday AM",Medium,2025-04-13 12:53:45
