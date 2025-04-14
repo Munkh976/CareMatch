@@ -76,7 +76,6 @@ ui <- dashboardPage(
                  tabPanel("Profile", uiOutput("volunteer_profile")),
                  tabPanel("Inbox", DTOutput("volunteer_inbox")),
                  tabPanel("Sent Offers", DTOutput("volunteer_sent")),
-                 tabPanel("Notifications", uiOutput("volunteer_notifications")),
                  tabPanel("Chatbot",
                           actionButton("start_volunteer_chatbot", "Start Chatbot 💬", class = "btn-warning"),
                           uiOutput("volunteer_chatbot_flow"))
@@ -254,38 +253,7 @@ server <- function(input, output, session) {
       datatable(escape = FALSE, selection = "none", options = list(dom = 'tp'))
   })
   
-  output$volunteer_notifications <- renderDT({
-    req(user$type == "volunteer")
-    
-    # Get open requests from elderly
-    volunteer <- data$volunteers %>% filter(id == user$id)
-    open_requests <- data$care_requests %>%
-      left_join(data$elderly_requests, by = c("id" = "request_id")) %>%
-      filter(status == "pending") %>%
-      left_join(data$elderly, by = c("elderly_id" = "id"))
-    
-    available <- data$availability %>% filter(volunteer_id == user$id)
-    
-    matches <- open_requests %>%
-      filter(!is.na(elderly_id)) %>%
-      rowwise() %>%
-      mutate(
-        distance = calc_distance(lat, lng, volunteer$lat, volunteer$lng),
-        skill_match = calc_skill_match(needs, volunteer$skills),
-        time_overlap = any(strsplit(time_prefs, ", ")[[1]] %in% available$time_slot),
-        eligible = distance <= volunteer$radius_km & time_overlap
-      ) %>%
-      filter(eligible) %>%
-      ungroup() %>%
-      select(request_id = id, needs, urgency, time_prefs, distance) %>%
-      mutate(
-        distance = round(distance, 2),
-        Accept = paste0('<button class="btn btn-success btn-sm">Accept</button>')
-      )
-    
-    datatable(matches, escape = FALSE, selection = "none", options = list(dom = 'tp'))
-  })
-  # -------------------------------
+    # -------------------------------
   # Chatbot Buttons
   # -------------------------------
   
@@ -323,27 +291,7 @@ server <- function(input, output, session) {
   })
 
   
-  # ----- Volunteer: Notifications -----
-  output$volunteer_notifications <- DT::renderDataTable({
-    req(user$type == "volunteer")
-    
-    joined <- data$care_requests %>%
-      left_join(data$elderly_requests, by = c("id" = "request_id")) %>%
-      filter(status == "pending") %>%
-      left_join(data$elderly, by = c("elderly_id" = "id")) %>%
-      mutate(
-        match_score = round(runif(n(), 0.65, 0.95), 2),  # Optional simulated score
-        Actions = paste0(
-          '<button id="accept_', id, '" class="btn btn-success btn-sm">Accept</button>'
-        )
-      ) %>%
-      select(Request_ID = id, Elderly = name, Needs = needs, Distance_km = "5.2", Urgency = urgency, Time = time_prefs, Match_Score = match_score, Actions)
-    
-    datatable(joined, escape = FALSE, selection = 'none', rownames = FALSE, options = list(dom = 't'))
-  })
-  
-  
-  # ----- Launch Elderly Chatbot -----
+    # ----- Launch Elderly Chatbot -----
   observeEvent(input$launch_elderly_bot, {
     showModal(modalDialog(
       title = paste("CareMatch Chatbot —", user$data$name),
@@ -408,53 +356,6 @@ server <- function(input, output, session) {
       left_join(data$care_requests, by = c("request_id" = "id")) %>%
       left_join(data$elderly, by = c("elderly_id" = "id")) %>%
       select(request_id, elderly_name = name, needs, time_prefs, urgency, responded_at, status)
-  })
-  
-  # Volunteer Notifications (rule-based matches)
-  output$volunteer_notifications <- renderUI({
-    req(user$type == "volunteer")
-    
-    vol <- user$data
-    available_slots <- data$availability %>%
-      filter(volunteer_id == vol$id) %>%
-      pull(time_slot)
-    
-    potential_requests <- data$care_requests %>%
-      left_join(data$elderly_requests, by = c("id" = "request_id")) %>%
-      filter(status == "pending") %>%
-      mutate(
-        elderly_lat = sapply(elderly_id, function(id) data$elderly$lat[data$elderly$id == id]),
-        elderly_lng = sapply(elderly_id, function(id) data$elderly$lng[data$elderly$id == id]),
-        distance = mapply(calc_distance, vol$lat, vol$lng, elderly_lat, elderly_lng),
-        skill_match = sapply(needs, function(n) calc_skill_match(n, vol$skills))
-      ) %>%
-      filter(
-        distance <= vol$radius_km,
-        mapply(function(tp) any(strsplit(tp, ", ")[[1]] %in% available_slots), time_prefs)
-      ) %>%
-      arrange(desc(skill_match))
-    
-    if (nrow(potential_requests) == 0) return(p("No matching care requests."))
-    
-    tagList(
-      h4("Recommended Care Requests"),
-      lapply(1:nrow(potential_requests), function(i) {
-        req <- potential_requests[i,]
-        box(
-          width = 12,
-          h5(paste("Needs:", req$needs)),
-          p(paste("Urgency:", req$urgency)),
-          p(paste("Time:", req$time_prefs)),
-          p(paste("Distance:", round(req$distance, 1), "km")),
-          p(paste("Skill match:", round(req$skill_match * 100), "%")),
-          actionButton(
-            paste0("accept_request_", req$id),
-            "Accept",
-            class = "btn-success btn-sm"
-          )
-        )
-      })
-    )
   })
   
   
