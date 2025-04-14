@@ -1,0 +1,1001 @@
+"volunteer_id","name","major_city","state","lat","lng","availability","radius_willingness","acceptance_probability"
+1,"al-Shaker, Sadeeda","Greenville","MI",43.2,-85.3,"Fri 9-12, Thu 6-9, Mon 12-3",10,0.954083311022259
+2,"Nuckolls, Emma","Lansing","MI",42.72,-84.64,"Sat 9-12, Sun 9-12, Wed 9-12",10,0.772359564434737
+3,"Caranza, Briana","Collinsville","AL",34.3,-85.9,"Wed 6-9, Thu 6-9, Sat 6-9",20,0.683980133384466
+4,"el-Fadel, Layaali","El Paso","TX",31.6,-106.1,"Sat 9-12, Thu 9-12",19,0.758770566899329
+5,"Garcia, Demitrius","Bayard","NE",41.8,-103.3,"Tue 9-12, Tue 9-12, Mon 3-6",13,0.52754829172045
+6,"Maldonado, Gabriela","South Bend","IN",41.68,-86.22,"Tue 6-9, Thu 6-9, Mon 3-6",18,0.512470280169509
+7,"Lee, Bryan Lam","Faucett","MO",39.61,-94.82,"Mon 3-6, Tue 3-6",12,0.759714150684886
+8,"Williams, Andrew","Rothschild","WI",44.88,-89.63,"Tue 3-6, Thu 9-12, Wed 3-6",22,0.511845862027258
+9,"el-Salih, Rafeeq","Kirkwood","DE",NA,NA,"Thu 12-3, Wed 12-3",15,0.715725242625922
+10,"al-Hallal, Ghaali","Arlington","VA",38.874,-77.08,"Sat 6-9, Sat 6-9",14,0.862069634837098
+11,"el-Farrah, Hanoona","San Patricio","NM",33.41,-105.36,"Thu 6-9, Tue 3-6",20,0.793089117854834
+12,"Brewer, Wyatt","Pequannock","NJ",40.95,-74.3,"Tue 6-9, Sun 9-12",30,0.948751497082412
+13,"Dagher, Justin","Nevada","IA",42,-93.4,"Sun 12-3, Wed 9-12",16,0.516955469385721
+14,"Lamb II, Ron","Kent","WA",NA,NA,"Fri 12-3, Tue 6-9, Sat 3-6",10,0.57544385374058
+15,"Zuniga, Tabitha","Hartly","DE",39.15,-75.69,"Tue 3-6, Fri 6-9",14,0.757015123730525
+16,"Stevens, Tyler","Sunflower","AL",31.378,-88.001,"Fri 3-6, Wed 9-12, Thu 6-9",19,0.56150633119978
+17,"Shepherd, Allison","Colony","OK",35.33,-98.68,"Sun 12-3, Tue 3-6, Thu 6-9",19,0.856132526416332
+18,"Liebanos-Espinoza, Erica","Stanley","WI",44.9,-90.9,"Sat 6-9, Mon 9-12",18,0.530096283298917
+19,"Dove, Cameron","Doole","TX",31.47,-99.57,"Sat 3-6, Sun 12-3, Tue 9-12",18,0.63405634672381
+20,"Tindle, Jill","Cal Nev Ari","NV",35.306,-114.881,"Sat 12-3, Tue 12-3",29,0.621389156556688
+21,"Ruiz, Joel","Melrose","MA",42.46,-71.06,"Mon 12-3, Wed 3-6, Thu 12-3",27,0.753158443490975
+22,"Martinez, Jose","San Jose","CA",37.23,-121.79,"Sat 3-6, Thu 3-6",26,0.738034076872282
+23,"al-Arif, Yaasir","Morton","MN",44.6,-95,"Fri 3-6, Sat 6-9, Wed 12-3",27,0.885052353609353
+24,"Nolte, Johnpaul","Bonita","CA",NA,NA,"Thu 9-12, Tue 3-6, Tue 3-6",24,0.858200868591666
+25,"Gonzales, Joshua","Waltersburg","PA",NA,NA,"Wed 12-3, Sun 12-3",24,0.701548971701413
+26,"Cleckley, Jade","Mc Carr","KY",37.6,-82.17,"Mon 3-6, Thu 3-6, Sat 6-9",26,0.881432935944758
+27,"Frisch, Jesse","Prairie Farm","WI",45.3,-92,"Fri 3-6, Wed 6-9, Mon 3-6",13,0.632242733263411
+28,"Overley, Devon","Retsof","NY",42.834,-77.88,"Wed 12-3, Wed 9-12, Sun 12-3",12,0.884133311454207
+29,"Reynolds, Alexia","Circleville","NY",41.52,-74.38,"Sun 9-12, Thu 3-6, Thu 12-3",20,0.533471530070528
+30,"Low, Cameron","Stephensport","KY",37.9,-86.5,"Tue 9-12, Thu 6-9, Sat 6-9",29,0.889179979800247
+31,"Loran, Lawrence","Madison","WI",NA,NA,"Wed 3-6, Wed 9-12",29,0.742722353199497
+32,"Choudhry, Alvin","Gainesville","FL",29.68,-82.43,"Mon 6-9, Sun 6-9, Thu 6-9",18,0.545466737821698
+33,"Tabangay, Desmond","Worcester","MA",42.25,-71.76,"Tue 9-12, Fri 6-9, Sun 12-3",20,0.674394847010262
+34,"Oliver, Connor","Jacksonville","FL",NA,NA,"Sat 12-3, Sun 12-3, Sat 12-3",14,0.572566855582409
+35,"Stapleton, Gabriel","Cropwell","AL",33.51,-86.33,"Fri 9-12, Sun 6-9, Sat 12-3",13,0.577963624964468
+36,"Subramanian, Pauline Cathrina","Crystal City","TX",28.8,-99.9,"Wed 9-12, Sun 9-12",25,0.839251359226182
+37,"Jennings, Kelia","Wetmore","CO",38.2,-105.1,"Tue 6-9, Wed 6-9",19,0.988153399899602
+38,"Lytle, Darian","Cornish","ME",43.76,-70.81,"Thu 9-12, Wed 3-6, Wed 12-3",16,0.729281041421928
+39,"Amen, Michaela","Loysburg","PA",40.15,-78.38,"Mon 9-12, Thu 3-6",24,0.508064074674621
+40,"Nash, Dakota","Austin","TX",30.31,-97.72,"Mon 6-9, Sun 6-9, Tue 3-6",27,0.632248674402945
+41,"Whitfield, Moel","Edwards","NY",44.3,-75.27,"Thu 12-3, Tue 12-3, Mon 3-6",18,0.505527894245461
+42,"Lenzen, Makenna","Montvale","NJ",41.05,-74.05,"Tue 6-9, Thu 12-3",24,0.742747183190659
+43,"Beck, Laurel","Medford","OR",42.3,-122.8,"Sat 6-9, Thu 6-9, Sun 9-12",24,0.741520346142352
+44,"al-Amen, Izzaddeen","Ithaca","MI",43.3,-84.6,"Tue 12-3, Fri 9-12",16,0.639124875422567
+45,"Fredericks, Joseph","Blue Ridge","VA",37.37,-79.78,"Thu 12-3, Sat 6-9, Tue 3-6",30,0.911899997852743
+46,"Palomo, James","Purlear","NC",36.2,-81.4,"Thu 12-3, Fri 12-3, Mon 9-12",23,0.598727381788194
+47,"Hernandez, Leah","Clear Creek","IN",NA,NA,"Sun 6-9, Wed 3-6",29,0.97879301419016
+48,"Sandoval, Ana","Panorama City","CA",NA,NA,"Thu 9-12, Mon 9-12",20,0.668231918825768
+49,"Williams, Katie","Hollywood","FL",NA,NA,"Mon 12-3, Sun 9-12, Thu 6-9",12,0.777638737228699
+50,"Matthews, Yameia","Mclean","TX",35.3,-100.6,"Tue 3-6, Sun 3-6",25,0.916822733008303
+51,"al-Sultana, Musheer","Swan River","MN",47.1,-93.2,"Fri 12-3, Sat 6-9",19,0.536648503388278
+52,"Cantrell, Sang Hyun","Lake Park","IA",43.4,-95.3,"Tue 12-3, Thu 9-12",26,0.939923463971354
+53,"Cordova, Dominic","Marianna","FL",30.9,-85.2,"Thu 9-12, Tue 9-12",19,0.55839383136481
+54,"Johnson, Dominique","Norwalk","CT",41.08,-73.42,"Fri 6-9, Wed 9-12",11,0.798998390557244
+55,"Patterson, Ivan","Pico Rivera","CA",33.99,-118.08,"Fri 6-9, Tue 9-12",23,0.73004595679231
+56,"Davila Draper, Sapphire","Bellmore","NY",40.67,-73.52,"Sat 9-12, Thu 6-9",11,0.882485038717277
+57,"al-Suleiman, Muzna","Hagerstown","MD",NA,NA,"Sat 9-12, Fri 3-6, Mon 12-3",24,0.832289460464381
+58,"Stepan, Lydia","La Villa","TX",26.297,-97.929,"Sat 3-6, Wed 6-9",19,0.732178500504233
+59,"Ward, Shaylynn","Palos Verdes Peninsula","CA",33.3,-118.5,"Fri 3-6, Tue 6-9, Tue 3-6",26,0.981475662556477
+60,"el-Shehadeh, Inaaya","Keystone","IA",42.01,-92.2,"Sat 6-9, Sat 12-3, Sat 12-3",17,0.839917178731412
+61,"al-Salama, Muntasir","Dallas","TX",NA,NA,"Tue 6-9, Mon 12-3",21,0.622905116062611
+62,"Provan, Jared","Long Valley","NJ",40.79,-74.8,"Wed 9-12, Sun 9-12, Tue 12-3",22,0.683865383383818
+63,"Noble, Jennis","Nichols","WI",NA,NA,"Wed 6-9, Sat 12-3, Tue 12-3",14,0.961724504013546
+64,"Jackson, Marissa","Trout Creek","NY",42.2,-75.3,"Fri 9-12, Mon 12-3, Sat 12-3",27,0.581392809632234
+65,"Vaughn, John'Dunae","Austin","TX",NA,NA,"Tue 9-12, Wed 6-9",18,0.668557060766034
+66,"Gonzalez, Juan","Madison","WI",NA,NA,"Tue 12-3, Sat 6-9",29,0.583276699413545
+67,"Celis, Itzel","Addison","MI",41.99,-84.33,"Tue 9-12, Wed 3-6, Thu 12-3",10,0.719730924232863
+68,"Wall, Jacob","Ocala","FL",29.2,-82.09,"Thu 6-9, Thu 12-3",14,0.778306525666267
+69,"al-Burki, Fawqiyya","Erie","MI",41.79,-83.49,"Thu 9-12, Fri 12-3, Mon 9-12",17,0.554227726534009
+70,"Riewski, Monique","Bristol","VA",NA,NA,"Wed 6-9, Mon 12-3, Sat 3-6",27,0.700092709274031
+71,"Chang, Brendan","Java","SD",45.5,-99.9,"Wed 12-3, Tue 12-3",18,0.771845716750249
+72,"Alizadeh, Marysela","Dickinson Center","NY",44.74,-74.54,"Fri 3-6, Sun 3-6, Thu 3-6",11,0.873654521419667
+73,"el-Jan, Awad","Davis","CA",38.56,-121.82,"Sat 3-6, Tue 6-9",10,0.90527352958452
+74,"el-Samad, Ya'qoob","Silver Spring","MD",NA,NA,"Wed 12-3, Tue 6-9",11,0.993046524119563
+75,"Myers, Noalani","Black Oak","AR",35.82,-90.36,"Sat 12-3, Mon 12-3, Thu 6-9",18,0.760183859965764
+76,"al-Parsa, Abdul Hameed","Riderwood","MD",NA,NA,"Thu 12-3, Mon 3-6",12,0.680891735828482
+77,"el-Siddiqui, Abdul Hakeem","Silas","AL",31.8,-88.3,"Thu 3-6, Thu 9-12",11,0.965442172251642
+78,"Johnson, Wade","North Hollywood","CA",34.15,-118.37,"Sat 12-3, Mon 6-9, Sun 12-3",10,0.677030840422958
+79,"al-Salahuddin, Mutlaq","Hathaway","MT",46.2,-106.3,"Tue 12-3, Tue 9-12, Sat 3-6",28,0.518949947669171
+80,"Lu, Phally","Cairo","NY",42.31,-74.03,"Sun 12-3, Mon 9-12",14,0.511455992585979
+81,"Bashir, Chmura","Carlstadt","NJ",40.82,-74.07,"Sat 9-12, Mon 6-9",17,0.530121123301797
+82,"Valdez, Mary","Poteau","OK",35.1,-94.6,"Fri 12-3, Sun 9-12",25,0.647670961567201
+83,"el-Shaker, Ishaaq","Covington","GA",NA,NA,"Sun 3-6, Thu 12-3",25,0.6426111998735
+84,"Hamner, Curtis","Josephine","PA",40.48,-79.18,"Thu 3-6, Sat 9-12",24,0.602033501956612
+85,"Artichoker, Heaven","Mazon","IL",41.24,-88.4,"Wed 6-9, Fri 3-6, Sun 3-6",11,0.593090262962505
+86,"Petty, Chance","Bethany","CT",41.43,-72.99,"Thu 12-3, Thu 9-12, Fri 6-9",15,0.517041100654751
+87,"Parkinson, Marcus","Temple Bar Marina","AZ",35.9,-114.5,"Sun 6-9, Sat 3-6, Mon 3-6",12,0.518189902883023
+88,"Felix, Austin","Louisville","KY",NA,NA,"Wed 9-12, Tue 12-3",25,0.63306952023413
+89,"Rotar, Nathan","Annapolis","MD",NA,NA,"Fri 6-9, Wed 6-9",13,0.57798893598374
+90,"Slankard, Tanner","Roundup","MT",46.4,-108.6,"Fri 3-6, Thu 6-9",10,0.824023775407113
+91,"Amelkin, Ruthie","Strawberry Point","IA",42.7,-91.5,"Thu 9-12, Fri 9-12",20,0.511112257372588
+92,"Blaylock, Kyle","Randall","IA",42.237,-93.603,"Mon 9-12, Mon 3-6, Wed 12-3",17,0.53393812046852
+93,"Jeong, Nhia","Brownsville","IN",39.69,-85.01,"Tue 6-9, Tue 9-12",18,0.838745604502037
+94,"Blagg, Hannah","Windsor","WI",43.2,-89.34,"Wed 9-12, Thu 6-9",17,0.931310601416044
+95,"Ramirez, Idalia","Hockessin","DE",39.79,-75.69,"Tue 9-12, Sun 9-12",12,0.718769929138944
+96,"Cardenas, Jordan","Abilene","TX",NA,NA,"Thu 3-6, Wed 6-9, Mon 6-9",29,0.825790249276906
+97,"Fejeran, Lisa","Websterville","VT",44.15,-72.48,"Thu 6-9, Mon 9-12, Thu 12-3",22,0.850660023046657
+98,"al-Karam, Mazeed","Albany","NY",NA,NA,"Fri 6-9, Tue 3-6",19,0.76005518308375
+99,"Martinez, Samantha","Otto","NC",35,-83.5,"Thu 12-3, Sun 12-3, Tue 12-3",21,0.668017096002586
+100,"Callejas, Cassey","Greene","RI",41.69,-71.73,"Sat 6-9, Tue 6-9",12,0.807639901177026
+101,"Richardson, Steven","Newtonsville","OH",39.1822,-84.0861,"Tue 9-12, Sun 12-3, Fri 6-9",15,0.874984454945661
+102,"Black, Katrina","Codorus","PA",39.85,-76.87,"Sun 6-9, Tue 12-3, Wed 9-12",11,0.862349117756821
+103,"el-Riaz, Marjaana","Columbia","CA",38.05,-120.4,"Fri 6-9, Fri 12-3",12,0.590707806055434
+104,"Kinney-Mcgrath, Sarah","Nelson","VA",36.59,-78.68,"Sun 3-6, Tue 9-12, Mon 12-3",19,0.699492209241726
+105,"Lynn, Alyssa","Barry","IL",39.7,-91,"Sat 12-3, Thu 6-9, Fri 12-3",12,0.798818067880347
+106,"Thao, Danielle","Berlin","NH",44.5,-71.2,"Sat 6-9, Wed 3-6",28,0.994916197028942
+107,"Ting, Beni","Lincolnwood","IL",42.01,-87.74,"Mon 6-9, Fri 9-12",25,0.69222333538346
+108,"Bradley, Taylor","Anniston","AL",33.65,-85.9,"Wed 12-3, Wed 3-6",20,0.696450741961598
+109,"Qiu, Alice","West Stockholm","NY",44.72,-74.89,"Tue 6-9, Sat 12-3",28,0.580976758734323
+110,"Bolen, Thurman","Trego","MT",48.7,-114.9,"Mon 9-12, Tue 12-3, Fri 3-6",25,0.635358141968027
+111,"Perez, Obed","North Scituate","RI",41.82,-71.65,"Sun 9-12, Mon 3-6, Sat 6-9",17,0.574383188504726
+112,"Hicks, Mariah","Mchenry","ND",47.6,-98.6,"Mon 3-6, Wed 3-6",21,0.66890846285969
+113,"al-Chahine, Abdul Noor","Austin","TX",NA,NA,"Wed 9-12, Tue 9-12, Wed 6-9",25,0.617089157341979
+114,"el-Jaber, Abdul Kader","Drayton","ND",48.6,-97.2,"Fri 9-12, Wed 3-6",22,0.547831132076681
+115,"Webb, Lavonte","Chardon","OH",41.6,-81.2,"Thu 9-12, Tue 3-6, Sat 6-9",25,0.81705921178218
+116,"Dulin, Diarra","Beebe Plain","VT",NA,NA,"Mon 9-12, Tue 3-6, Sun 9-12",15,0.98750857624691
+117,"al-Shabazz, Annnees","Mansfield","GA",33.5,-83.7,"Mon 9-12, Wed 3-6",24,0.592549881897867
+118,"Tjandra, Anh","Fayetteville","NC",35.09,-78.96,"Tue 3-6, Mon 12-3, Thu 3-6",13,0.899134449078701
+119,"Soto, Carlos","Bridgeport","MI",43.34,-83.83,"Wed 9-12, Sat 6-9, Fri 3-6",20,0.915842563495971
+120,"Yang, Mattea","Menlo Park","CA",37.46,-122.18,"Fri 9-12, Tue 3-6, Fri 12-3",12,0.763338343473151
+121,"Gordon, Tristan","Homestead","FL",25.498,-80.398,"Mon 9-12, Sat 12-3",25,0.922931784414686
+122,"Shull, Brian","Williamsville","MO",37,-90.5,"Sat 3-6, Sat 3-6, Wed 9-12",23,0.97069506207481
+123,"Moore, Brittany","Fort Hunter","NY",42.942,-74.282,"Thu 3-6, Tue 12-3, Sat 6-9",26,0.643488946254365
+124,"Sepulona, Shalin","Beaverton","MI",43.9,-84.4,"Sun 6-9, Mon 9-12, Wed 12-3",27,0.867877149721608
+125,"el-Nouri, Turfa","Austin","TX",NA,NA,"Thu 3-6, Sat 3-6",30,0.754073919961229
+126,"Ceniceros, Gabriella","Melfa","VA",37.6,-75.7,"Sat 12-3, Thu 6-9",24,0.79817900666967
+127,"Aguirre-Acosta, Steven","Phoenix","AZ",NA,NA,"Mon 9-12, Mon 12-3, Tue 9-12",30,0.755653016269207
+128,"Nawrocki, Shelby","Myrtle Beach","SC",33.68,-79.02,"Mon 9-12, Sat 9-12, Sun 3-6",15,0.939682933036238
+129,"Pham, Steven","La Grange","KY",NA,NA,"Thu 3-6, Tue 6-9",21,0.844586760387756
+130,"Axalan, Kristie","Stetson","ME",44.88,-69.11,"Mon 12-3, Mon 12-3",18,0.934382359613664
+131,"al-Sayed, Anbara","Yeoman","IN",40.668,-86.726,"Wed 6-9, Fri 12-3",27,0.750723999692127
+132,"el-Othman, Jareer","Ogden","UT",NA,NA,"Fri 6-9, Thu 6-9",13,0.620046448893845
+133,"el-Naim, Haarith","Wood Dale","IL",41.97,-87.98,"Fri 6-9, Sat 3-6, Thu 6-9",12,0.672905958606862
+134,"Johnston, Jayme","Bakersfield","CA",NA,NA,"Sat 3-6, Mon 9-12, Thu 9-12",12,0.931210819398984
+135,"el-Asad, Jafar","Labadieville","LA",29.83,-90.98,"Tue 3-6, Wed 6-9, Thu 3-6",20,0.57583617256023
+136,"Davalos, Kathia","Phoenix","AZ",NA,NA,"Sun 3-6, Sun 3-6, Thu 9-12",26,0.738823815598153
+137,"al-Sham, Qaaida","Varnville","SC",32.8,-81,"Tue 9-12, Sun 3-6",24,0.852866588742472
+138,"Helmberger, Chloe","Beacon Falls","CT",41.44,-73.06,"Fri 9-12, Sun 3-6",15,0.774162017623894
+139,"Peterson, Kayla","Claremont","VA",37.2,-77,"Tue 9-12, Mon 9-12",28,0.955354049103335
+140,"Saenz, Kevin","Savanna","IL",42.2,-90.2,"Wed 6-9, Fri 3-6",22,0.964912411174737
+141,"Zimmer, Tye","Lakewood","WA",47.12,-122.53,"Mon 9-12, Wed 6-9",22,0.733296570018865
+142,"el-Shah, Muhaajir","Federalsburg","MD",38.7,-75.8,"Tue 12-3, Thu 9-12",17,0.604191616293974
+143,"Vasquez, Aisha","Easton","MO",39.7,-94.7,"Mon 3-6, Mon 12-3",15,0.942516755545512
+144,"al-Karimi, Alawi","Fort Wayne","IN",NA,NA,"Thu 3-6, Sun 3-6, Mon 6-9",15,0.59504027524963
+145,"Baker, Roger","Winner","SD",43.4,-99.9,"Fri 12-3, Mon 6-9",12,0.792701060185209
+146,"Theune, Sam","South Park","PA",40.3,-80,"Tue 12-3, Wed 9-12, Thu 12-3",14,0.653094796231017
+147,"Lee, Devin","Pittsburgh","PA",NA,NA,"Fri 9-12, Mon 6-9",13,0.503167696180753
+148,"Branham, Foster","North Waterford","ME",44.2,-70.7,"Mon 3-6, Tue 9-12",30,0.703708463930525
+149,"Lundquist, Randall","Ione","WA",48.7,-117.3,"Fri 12-3, Fri 12-3, Wed 3-6",14,0.922810745425522
+150,"Darrow, Jesse","San Juan","PR",18.44,-66.06,"Wed 3-6, Mon 12-3, Thu 6-9",17,0.845557272317819
+151,"al-Din, Aayaat","Adrian","PA",40.89,-79.51,"Fri 3-6, Thu 6-9",26,0.569963117479347
+152,"Seufert-Nevel, Stephen","Lecanto","FL",28.8,-82.5,"Fri 3-6, Thu 12-3",13,0.817711801966652
+153,"Ellerman, Wayne","Hamburg","NJ",41.16,-74.58,"Mon 12-3, Sat 6-9",26,0.557160554570146
+154,"Jaeger, Dylan","Keams Canyon","AZ",35.52,-110.38,"Mon 3-6, Wed 9-12",17,0.831597535521723
+155,"el-Mitri, Saami","Nashville","TN",36.24,-86.78,"Mon 9-12, Fri 12-3",29,0.707850085571408
+156,"al-Shah, Katheer","Remington","IN",40.7,-87.2,"Mon 12-3, Mon 6-9",13,0.529743557446636
+157,"Ghimire, Yash","Ringtown","PA",40.9,-76.2,"Tue 3-6, Tue 3-6",22,0.737059516599402
+158,"Herrera, Shenandoah","Buffalo","NY",NA,NA,"Mon 6-9, Sat 12-3",16,0.511752556194551
+159,"Duncan, Skyler","Radersburg","MT",NA,NA,"Wed 3-6, Sun 3-6, Mon 6-9",12,0.8682752213208
+160,"el-Bashir, Burhaan","Shakopee","MN",44.7,-93.5,"Thu 9-12, Tue 3-6",20,0.785813448834233
+161,"Todacheene, Joshua","Brunswick","MD",39.32,-77.62,"Sun 9-12, Sat 12-3, Thu 9-12",24,0.645966983865947
+162,"el-Farra, Maahir","Springfield","IL",NA,NA,"Sat 9-12, Thu 12-3",26,0.982058611814864
+163,"Schmeda, Luis","Harriston","MS",NA,NA,"Wed 12-3, Mon 6-9",28,0.855871417210437
+164,"Diaz Daughtry, Dustin","Taloga","OK",35.9,-99,"Wed 12-3, Tue 9-12",20,0.649410598911345
+165,"Garcia, Andres","Port Heiden","AK",57,-157,"Thu 3-6, Mon 6-9",27,0.935814413358457
+166,"Doan, Vanak","Granite City","IL",38.73,-90.12,"Sun 9-12, Tue 3-6, Tue 6-9",17,0.858885200112127
+167,"Smith, Rayzjaun","San Diego","CA",NA,NA,"Fri 12-3, Mon 12-3",10,0.610314422636293
+168,"al-Basher, Salma","Axtell","TX",31.67,-96.95,"Sun 12-3, Mon 12-3",19,0.687789251562208
+169,"Hobbs, Tyra","Brooklyn","NY",40.63,-74,"Wed 3-6, Sun 3-6",13,0.505034048226662
+170,"Bengogullari, Patrick","Wakefield","RI",41.43,-71.54,"Fri 6-9, Wed 3-6",14,0.956569217843935
+171,"Martinez, Kevin","Epping","NH",43.05,-71.08,"Mon 3-6, Mon 6-9",12,0.580916435690597
+172,"Heang, Kimberly","Oraville","IL",NA,NA,"Tue 6-9, Fri 9-12, Tue 3-6",12,0.654876023181714
+173,"Castaneda, Diana","Lewiston","ME",NA,NA,"Tue 9-12, Mon 6-9",19,0.799108557985164
+174,"Banahan, Jeremy","Melvin","TX",31.2,-99.6,"Mon 9-12, Wed 6-9, Sat 12-3",12,0.514778873999603
+175,"Schirmer, Arvan","Richmond","VA",37.47,-77.47,"Sun 12-3, Mon 9-12",27,0.642170746810734
+176,"Day, Isiah","Greenville","SC",NA,NA,"Sat 6-9, Tue 3-6",26,0.675066745840013
+177,"Trimble, Jessica","Orem","UT",40.3,-111.66,"Fri 6-9, Fri 12-3, Sat 6-9",22,0.719396102358587
+178,"Hess, Logan","Dacoma","OK",36.64,-98.59,"Sun 3-6, Thu 3-6",20,0.597993122646585
+179,"Cooper, Kelli","Springbrook","IA",NA,NA,"Sat 6-9, Mon 9-12, Wed 9-12",14,0.773236750275828
+180,"el-Huda, Afnaan","Carrollton","MS",33.5,-90,"Sat 6-9, Sat 9-12",11,0.517382964142598
+181,"Frick, Ryan","Indianapolis","IN",NA,NA,"Fri 6-9, Thu 3-6, Thu 3-6",11,0.590515097719617
+182,"Rhodes, Marissa","Auberry","CA",37.1,-119.4,"Thu 9-12, Wed 6-9",13,0.998877913574688
+183,"Crepeau, Sarah","Byers","KS",37.8,-98.9,"Wed 6-9, Tue 12-3, Sat 12-3",22,0.688221805728972
+184,"Gonzales, Heather","Munford","AL",33.5,-85.9,"Mon 9-12, Sun 6-9",15,0.801954660564661
+185,"Guy, Anysia","Coalmont","CO",NA,NA,"Thu 6-9, Fri 12-3, Sun 9-12",13,0.804506529122591
+186,"el-Malek, Rahma","Lyndora","PA",40.85,-79.92,"Sat 9-12, Tue 3-6, Wed 6-9",28,0.507774808327667
+187,"Mckinney, Khoa","Merigold","MS",33.8,-90.7,"Sat 3-6, Sun 12-3",21,0.861383551498875
+188,"Mcadory, Jack","Lincoln City","IN",38.12,-87,"Wed 6-9, Fri 12-3, Sat 3-6",27,0.935472702956758
+189,"Lewis-Wilde, Amanda","Maspeth","NY",40.73,-73.91,"Fri 6-9, Wed 3-6, Tue 6-9",23,0.87528116768226
+190,"Cummings, Christopher","Mandan","ND",46.7,-100.9,"Fri 3-6, Fri 9-12, Wed 3-6",20,0.682709576794878
+191,"Johnson, Lydia","New Orleans","LA",NA,NA,"Wed 9-12, Sat 9-12, Tue 3-6",17,0.791756809689105
+192,"Granger, Makenzi","Huntsville","AL",34.65,-86.72,"Tue 3-6, Tue 3-6",15,0.897574075497687
+193,"Allen, Zachary","Paterson","NJ",40.91,-74.17,"Wed 12-3, Fri 6-9, Thu 3-6",25,0.643930847058073
+194,"Jessop, Samantha","Wheaton","MO",36.76,-94.06,"Thu 3-6, Sun 6-9",28,0.793059903895482
+195,"Quarles, Adam","Greeley","CO",40.4,-104.7,"Mon 3-6, Wed 12-3",26,0.503980758483522
+196,"Vahlbusch, Lestina","Odell","OR",NA,NA,"Wed 9-12, Tue 12-3",11,0.929037416703068
+197,"Westbrook, Salena","Whitefish","MT",48.5,-114.6,"Fri 3-6, Sat 12-3",22,0.924656551214866
+198,"Zaragoza-Saucedo, Pamela","East Flat Rock","NC",35.28,-82.42,"Sun 6-9, Wed 3-6, Sat 9-12",18,0.909727611462586
+199,"el-Tahir, Faarooq","Lacona","IA",41.2,-93.4,"Tue 12-3, Mon 6-9",27,0.999104738002643
+200,"Mattice, Shannon","Dahlgren","VA",38.34,-77.03,"Sat 3-6, Tue 6-9",13,0.622451981529593
+201,"Duran, Benjamin","Hudson","WI",45,-92.7,"Mon 12-3, Tue 6-9, Sun 9-12",11,0.627397849690169
+202,"el-Sultan, Shajee'a","Opa Locka","FL",25.9,-80.26,"Sat 6-9, Wed 9-12, Wed 12-3",13,0.886422631214373
+203,"Gereltuya, Lars","North Salem","NY",41.33,-73.61,"Wed 6-9, Wed 3-6",14,0.929193266783841
+204,"Johnson, Kristen","Energy","TX",31.77,-98.37,"Tue 3-6, Fri 12-3",19,0.889823225559667
+205,"Jang, Brandi","Oceanside","CA",33.2,-117.29,"Sun 6-9, Thu 12-3, Mon 9-12",29,0.603952714474872
+206,"Tafoya, Ramon","Marietta","TX",33.15,-94.49,"Tue 9-12, Thu 12-3, Fri 12-3",14,0.589206792647019
+207,"Black, Iaasic","Weston","WV",39,-80.5,"Wed 3-6, Fri 9-12, Tue 3-6",28,0.507175825769082
+208,"el-Rehman, Hanlala","Lake Isabella","CA",35.62,-118.42,"Tue 12-3, Sat 9-12",12,0.873109561856836
+209,"al-Baig, Tawfeeq","Bristolville","OH",41.39,-80.86,"Wed 9-12, Sat 12-3",28,0.582870503072627
+210,"Ford, Evyn","Ralph","AL",33.1,-87.8,"Sat 12-3, Fri 6-9",27,0.546004649950191
+211,"el-Kaber, Fawzaana","Enterprise","OR",45.6,-117.5,"Mon 9-12, Fri 6-9, Sun 3-6",14,0.739493003580719
+212,"Pacheco, Carla","Santa Barbara","CA",NA,NA,"Tue 9-12, Wed 12-3",10,0.614488407969475
+213,"Robinson, Brittany","Marion","OH",NA,NA,"Thu 12-3, Mon 12-3",24,0.62198543199338
+214,"Coss, Michael","San Antonio","TX",29.38,-98.56,"Sat 6-9, Sun 9-12, Sun 9-12",18,0.662097575492226
+215,"el-Fadel, Najeema","Hallsville","OH",NA,NA,"Wed 9-12, Thu 6-9, Mon 3-6",15,0.517400268930942
+216,"Lopez, Mark","Merrill","OR",42,-121.5,"Sat 9-12, Sat 9-12",15,0.51094994880259
+217,"Lanoue, Preston","South Plainfield","NJ",40.57,-74.41,"Tue 6-9, Tue 9-12",11,0.563985811080784
+218,"Scott, Darren","Los Gatos","CA",37.23,-122,"Wed 6-9, Tue 3-6",18,0.525996649987064
+219,"al-Sultana, Amal","Maryville","TN",35.7,-84.1,"Tue 3-6, Mon 9-12, Wed 12-3",11,0.918438589316793
+220,"Tutt, Randall","Callahan","FL",30.6,-81.8,"Thu 9-12, Sat 3-6",11,0.817897054133937
+221,"Herrera, Alexander","Lairdsville","PA",41.231,-76.611,"Mon 9-12, Mon 3-6",23,0.885804648860358
+222,"al-Mahmoud, Mahbooba","Alameda","CA",37.73,-122.24,"Sat 9-12, Fri 9-12, Mon 6-9",21,0.580164507147856
+223,"Schneider, Katherine","Tustin","CA",NA,NA,"Wed 3-6, Fri 3-6",28,0.939571428694762
+224,"Frazier, Hayden","Palestine","TX",31.7,-95.6,"Mon 12-3, Thu 3-6",25,0.718572166049853
+225,"Murphy, Olivia","Spencer","IN",39.3,-86.8,"Thu 12-3, Wed 6-9, Wed 12-3",28,0.914563090074807
+226,"al-Abdo, Sabri","Rochester","NH",43.26,-70.98,"Sat 9-12, Tue 9-12",28,0.531204551341943
+227,"el-Parsa, Thaabita","Albuquerque","NM",35.14,-106.65,"Fri 6-9, Sat 3-6, Thu 3-6",11,0.533636912354268
+228,"Luna, Joshua","Brighton","MI",42.58,-83.75,"Sat 3-6, Thu 12-3",18,0.785081570735201
+229,"Pedraza, Roman","Seymour","MO",37.1,-92.8,"Sat 9-12, Sat 6-9",19,0.855272035347298
+230,"Cortez, Armando","Littcarr","KY",37.26,-82.96,"Mon 3-6, Sun 9-12",25,0.65202316804789
+231,"al-Mowad, Samraa","Las Vegas","NV",NA,NA,"Thu 12-3, Wed 12-3, Wed 9-12",30,0.971978049492463
+232,"el-Bangura, Wadha","Irvine","CA",NA,NA,"Fri 12-3, Sat 12-3, Sun 3-6",14,0.59697123861406
+233,"Jackson, Andrea","Tulsa","OK",NA,NA,"Tue 3-6, Sun 9-12, Thu 12-3",18,0.604295080062002
+234,"Bustamante, Jerrica","Maple Plain","MN",NA,NA,"Thu 9-12, Fri 9-12",24,0.698959214030765
+235,"Beyale, Chandler","Berlin","GA",31.069,-83.623,"Sun 12-3, Wed 12-3, Mon 9-12",26,0.939242802327499
+236,"el-Sinai, Tawfeeqa","Quincy","MA",42.29,-71.01,"Fri 3-6, Sat 12-3, Tue 3-6",16,0.59505061712116
+237,"Rowell, Clara","New Haven","CT",41.32,-72.86,"Thu 3-6, Thu 6-9",30,0.814445399795659
+238,"el-Shaker, Shafee'a","Saint Louis","MO",NA,NA,"Tue 6-9, Mon 3-6",14,0.790468428051099
+239,"Vallerano, Tessa","Kansas City","MO",39.11,-94.49,"Mon 6-9, Mon 9-12",17,0.612486947327852
+240,"Erickson, Sierra","Arlington","VA",NA,NA,"Tue 6-9, Thu 9-12, Wed 12-3",12,0.945666679064743
+241,"Mcalister, De'Jane","Davenport","FL",NA,NA,"Tue 12-3, Sat 6-9, Mon 3-6",24,0.756203877390362
+242,"Sam, Cherokee","Trezevant","TN",36.02,-88.62,"Sat 3-6, Tue 6-9, Wed 6-9",19,0.624209111672826
+243,"al-Ammar, Ruqayya","Frankfort","KY",NA,NA,"Sat 12-3, Sat 9-12",20,0.690126663423143
+244,"Randolph, Chelsea","Delight","AR",34.1,-93.5,"Fri 12-3, Sat 3-6, Fri 12-3",30,0.908521069097333
+245,"Fuentes, Dillon","Rome","GA",34.3,-85.3,"Fri 3-6, Thu 6-9, Sun 12-3",22,0.754966247361153
+246,"Deherrera, Isaiah","Youngsville","LA",30.08,-92.01,"Mon 9-12, Wed 3-6",25,0.886878693592735
+247,"Le, Kelly","Dayton","NJ",40.37,-74.5,"Thu 9-12, Sat 6-9",18,0.640956116723828
+248,"Shaffer, Shannon","Garfield","KS",38.1,-99.2,"Tue 12-3, Sat 9-12",21,0.874598244088702
+249,"al-Mostafa, Nooriyya","Austin","TX",30.29,-97.72,"Tue 3-6, Mon 3-6, Sat 12-3",28,0.969864351907745
+250,"Mace, Anposahiyela","Alexandria","VA",NA,NA,"Wed 6-9, Sun 3-6, Wed 9-12",15,0.992868038010783
+251,"Le, Chrystina","Richmond","VT",44.4,-72.9,"Sun 9-12, Sun 12-3",23,0.944718715036288
+252,"Zander, Anjana","Cornelius","NC",35.47,-80.89,"Fri 6-9, Mon 3-6, Thu 12-3",25,0.980037433677353
+253,"Malinauskaite, Ashley","Lexington","KY",38.05,-84.5,"Tue 6-9, Fri 3-6, Wed 6-9",26,0.82129107567016
+254,"Wong, Emmanuel","Washington","DC",NA,NA,"Wed 6-9, Sun 3-6, Wed 3-6",16,0.98748847306706
+255,"Witcher Jr, Kayla","Lynn","MA",NA,NA,"Wed 6-9, Mon 6-9, Fri 3-6",12,0.983028180315159
+256,"Pisano, Emily","Willow Island","NE",40.963,-100.067,"Sat 3-6, Mon 6-9",30,0.806768054841086
+257,"Archuleta, Maria","Rock Hill","SC",NA,NA,"Sat 12-3, Wed 3-6",22,0.980315609253012
+258,"Carrillo-Manriquez, Lesley","Ashland","MT",NA,NA,"Tue 9-12, Mon 12-3",16,0.504988487577066
+259,"al-Akbar, Faadi","Houston","TX",29.92,-95.61,"Sun 12-3, Mon 12-3, Sat 6-9",10,0.60182621923741
+260,"Villalobos, Dominick","Hardy","AR",36.3,-91.5,"Sat 6-9, Sat 9-12, Mon 6-9",30,0.615342370700091
+261,"Caotrieu, Rebekah","Colfax","IL",40.6,-88.6,"Sat 9-12, Wed 9-12",21,0.94036021840293
+262,"Stevenson, Kimberly","Warrensburg","NY",43.5,-73.8,"Thu 6-9, Wed 3-6, Sat 12-3",25,0.630964839248918
+263,"Veloz, Kaitlin","North Boston","NY",NA,NA,"Mon 12-3, Fri 6-9",18,0.902331947232597
+264,"Mcclendon, Deven","Allenspark","CO",40.2,-105.6,"Tue 12-3, Sun 6-9",13,0.98305833840277
+265,"Cone, David","Fayetteville","GA",33.4,-84.5,"Wed 12-3, Thu 6-9, Mon 6-9",29,0.714994552196003
+266,"Vigil, Pablo","Norwell","MA",42.15,-70.82,"Wed 12-3, Sun 3-6, Sun 12-3",15,0.529850449762307
+267,"el-Basha, Tharwa","Washington","DC",38.87,-77.03,"Thu 3-6, Sun 3-6, Wed 12-3",30,0.751676024403423
+268,"Williams, Steven","Rich Creek","VA",37.4,-80.84,"Fri 3-6, Thu 3-6",10,0.93312798673287
+269,"Murray, Decarlo","Hampton","VA",NA,NA,"Wed 12-3, Sun 12-3, Sun 12-3",15,0.683248974615708
+270,"Ramirez, Anastasia","Kathryn","ND",46.7,-98,"Fri 6-9, Thu 3-6, Mon 6-9",19,0.55065652099438
+271,"Tran, Jessica","Lebanon","TN",NA,NA,"Thu 6-9, Sat 6-9",30,0.969366965815425
+272,"Manahan, Glenn","Peosta","IA",42.43,-90.81,"Wed 9-12, Tue 6-9, Sat 3-6",27,0.582690875162371
+273,"el-Rayes, Ummu Kulthoom","Springtown","PA",40.59,-75.3,"Sun 9-12, Thu 6-9",10,0.543572788359597
+274,"Serna, Nicholas","Kansas City","MO",39.11,-94.52,"Wed 12-3, Mon 12-3",11,0.592817513737828
+275,"Marquez, Marcus","Brownsburg","VA",37.88,-79.29,"Mon 3-6, Mon 6-9",12,0.706564788823016
+276,"Apodaca Terrazas, Isaac","Muses Mills","KY",NA,NA,"Thu 12-3, Mon 6-9",19,0.667797061614692
+277,"Thao, Alexandria","Minerva","OH",40.7,-81.1,"Wed 9-12, Sun 12-3, Thu 12-3",27,0.955993581097573
+278,"Au, Priscilla","Pala","CA",33.39,-117.03,"Sat 3-6, Fri 3-6",12,0.853953526355326
+279,"Ayala, Anjelica","Terre Haute","IN",NA,NA,"Wed 6-9, Thu 12-3, Fri 3-6",27,0.838821597979404
+280,"Bejarano, Cristian","Calvin","KY",36.71,-83.6,"Tue 12-3, Sun 12-3, Thu 3-6",30,0.587032386218198
+281,"Bell, Victoria","Asheboro","NC",35.74,-79.77,"Sun 6-9, Fri 12-3, Wed 3-6",20,0.984722806839272
+282,"Thomas, Kevser","Essex Fells","NJ",40.82,-74.28,"Wed 6-9, Fri 12-3, Wed 6-9",16,0.977330637280829
+283,"el-Ramin, Najwa","Triangle","VA",38.56,-77.38,"Fri 6-9, Mon 9-12, Sat 6-9",18,0.712237893138081
+284,"Sheard, Bonnie","Olympia","KY",38.07,-83.69,"Sat 9-12, Fri 9-12, Fri 12-3",13,0.85421752196271
+285,"Lawton, Alaura","Atlanta","GA",NA,NA,"Sun 6-9, Wed 12-3",27,0.846930109197274
+286,"Gonzalez, Shalyn","Greensboro","NC",36,-79.8,"Fri 6-9, Wed 6-9, Tue 3-6",19,0.877477532718331
+287,"Hartmann, Brianna","Fort Lawn","SC",34.71,-80.92,"Thu 3-6, Sat 6-9, Fri 9-12",19,0.840420598979108
+288,"Williamson, Anthony","Dover","MN",44,-92.1,"Mon 6-9, Fri 6-9, Fri 12-3",18,0.944598515285179
+289,"Jenks, Jonathan","South Bend","IN",41.68,-86.22,"Wed 3-6, Wed 9-12, Thu 12-3",18,0.609312697662972
+290,"Johnston, Joseph","Gainesville","FL",29.65,-82.42,"Sun 12-3, Fri 6-9, Mon 3-6",13,0.860250494792126
+291,"Melonis, Alexis","Greenwood","ME",44.34,-70.67,"Wed 12-3, Sat 12-3, Sun 3-6",18,0.635794060537592
+292,"al-Abdulla, Saamir","Elk Grove Village","IL",42.01,-87.99,"Sun 12-3, Sun 6-9",25,0.654450194328092
+293,"Swanson, Nam","Washington","DC",NA,NA,"Sun 12-3, Thu 12-3, Tue 6-9",26,0.570089107262902
+294,"Ramirez, Kayla","Healdton","OK",34.3,-97.5,"Tue 9-12, Tue 6-9, Thu 3-6",28,0.655827969079837
+295,"Mitchell, Nohelia","Oakland","CA",37.77,-122.22,"Sun 3-6, Sat 6-9",23,0.575466293259524
+296,"Murphy, Indigo","Dillsburg","PA",40.1,-77,"Thu 12-3, Fri 6-9",11,0.826035493286327
+297,"Childs, Joshua","Old Appleton","MO",37.6,-89.71,"Mon 12-3, Tue 9-12",27,0.9928392971633
+298,"Martin, Malik","San Antonio","TX",29.58,-98.48,"Tue 12-3, Thu 3-6, Sat 9-12",30,0.850541805382818
+299,"Nicholson, Whitney","Cortaro","AZ",NA,NA,"Wed 6-9, Mon 9-12",19,0.960494517348707
+300,"Stevens, Nova","Saint Louis","MO",38.7,-90.37,"Sat 3-6, Thu 3-6",27,0.6912855777191
+301,"al-Javid, Lubaaba","Holly Ridge","NC",34.5,-77.5,"Sun 6-9, Thu 12-3, Tue 3-6",12,0.51973449846264
+302,"el-Mirza, Nu'ma","Mineral Bluff","GA",34.9,-84.2,"Sat 12-3, Wed 3-6",19,0.687485291622579
+303,"el-Matin, Jubair","Cushing","IA",42.4,-95.7,"Fri 12-3, Sun 6-9, Mon 12-3",17,0.536714341375045
+304,"Lebold, Kevin","Hopewell","NJ",40.4,-74.78,"Sun 9-12, Tue 9-12, Mon 9-12",14,0.936007462209091
+305,"el-Hatem, Hasan","Prescott","WA",46.4,-118.5,"Sat 3-6, Sun 3-6",29,0.538282368215732
+306,"Astor, Delaney","Valley","AL",NA,NA,"Sat 12-3, Mon 12-3, Wed 6-9",21,0.654889701749198
+307,"Mcwilliams, Octavia","Moultonborough","NH",43.7,-71.4,"Thu 9-12, Wed 12-3, Fri 9-12",12,0.635625838302076
+308,"Edmond, Yosief","Malvern","IA",41,-95.6,"Thu 3-6, Tue 9-12, Tue 3-6",28,0.651996243279427
+309,"Ellerman, Cassidy","Colony","KS",38.1,-95.4,"Mon 3-6, Fri 12-3",26,0.648687490378506
+310,"al-Mahdavi, Nooriyya","Russell","AR",35.363,-91.505,"Thu 3-6, Thu 3-6, Thu 12-3",25,0.737172682071105
+311,"Apedjinou, Derek","Alameda","CA",37.77,-122.28,"Thu 6-9, Fri 9-12",30,0.753953978070058
+312,"Villa, Juan","Little Rock","AR",34.75,-92.42,"Wed 3-6, Tue 6-9",28,0.866260733804666
+313,"Wang, Alex","Waban","MA",42.33,-71.23,"Wed 3-6, Fri 9-12",18,0.771010062424466
+314,"Ordunez, Brittany","Van Buren Point","NY",NA,NA,"Tue 3-6, Tue 9-12",25,0.585518326261081
+315,"al-Vaziri, Maisara","Coyote Springs","NV",NA,NA,"Wed 3-6, Mon 12-3",22,0.69174369040411
+316,"Walker, Brittany","Alpena","MI",45.1,-83.5,"Mon 12-3, Sat 3-6",21,0.783482144004665
+317,"Brown, Leilani","Cable","OH",40.2,-83.6,"Thu 6-9, Thu 12-3, Tue 9-12",21,0.807045074412599
+318,"Dettmann, Elroy","Hiram","ME",43.87,-70.82,"Sat 3-6, Tue 12-3",20,0.919433878501877
+319,"Mendez, Andrew","Newport","NE",42.5,-99.4,"Sat 9-12, Wed 9-12",25,0.522056436282583
+320,"Sitton, Sara","Poynette","WI",43.4,-89.4,"Tue 6-9, Wed 12-3",13,0.548286278964952
+321,"Adams, Shaleel","Mchenry","IL",42.34,-88.28,"Fri 6-9, Fri 6-9",18,0.746063697733916
+322,"Garcia, Antonio","Wysox","PA",41.78,-76.36,"Thu 3-6, Thu 6-9",14,0.698769564856775
+323,"Ryan, Jacob","Big Bear City","CA",34.3,-116.9,"Wed 9-12, Fri 3-6, Sat 3-6",18,0.837432332220487
+324,"Boling, Maurice","Gaffney","SC",35.1,-81.7,"Sat 9-12, Fri 3-6",15,0.770871254615486
+325,"Titus, Christopher","Cody","WY",44,-110,"Sat 12-3, Thu 9-12",28,0.794738994329236
+326,"Moselina, Erika","Fulton","IL",41.8,-90.1,"Tue 3-6, Wed 9-12",21,0.561377225560136
+327,"Lhungay, Jims Abraham","Vacaville","CA",38.4,-121.9,"Sat 9-12, Thu 3-6, Mon 3-6",27,0.884852517046966
+328,"Eubanks, Ashley","Baton Rouge","LA",NA,NA,"Mon 3-6, Fri 12-3",26,0.659935972304083
+329,"el-Bashir, Haibaa","Kalkaska","MI",44.7,-85.1,"Fri 3-6, Fri 3-6",21,0.959309560945258
+330,"Ball, Varun","Karlstad","MN",48.6,-96.6,"Mon 6-9, Sat 12-3, Sun 3-6",16,0.900735476170667
+331,"Alquist, Lauren","San Diego","CA",NA,NA,"Thu 3-6, Wed 6-9",19,0.914324230398051
+332,"Orive-Phipps, Rosa","Ooltewah","TN",35.1,-85,"Sun 3-6, Wed 3-6, Fri 6-9",18,0.55816955678165
+333,"Lee, Gautham","Schooleys Mountain","NJ",40.87,-74.83,"Mon 6-9, Tue 9-12, Tue 3-6",12,0.87018535414245
+334,"Douglas, Jordan","Rancho Cucamonga","CA",34.15,-117.59,"Sun 12-3, Sun 9-12, Mon 12-3",19,0.696447640191764
+335,"Armendariz-Saucedo, Lizbeth","Steubenville","OH",40.36,-80.69,"Wed 9-12, Thu 3-6",26,0.506126449210569
+336,"Glowinsky, Peter","Manchester","PA",40.07,-76.74,"Sat 12-3, Mon 3-6",13,0.67633216897957
+337,"Salas, Margaret","Annapolis Junction","MD",39.12,-76.79,"Mon 12-3, Tue 12-3",27,0.725097082671709
+338,"Mis, Melissa","Cordova","TN",35.18,-89.77,"Mon 12-3, Thu 9-12",16,0.94017712736968
+339,"el-Minhas, Badraan","Coolspring","PA",41.044,-79.089,"Mon 9-12, Fri 3-6, Fri 3-6",17,0.694477026932873
+340,"Paik, Christine","Apple Creek","OH",40.74,-81.79,"Sun 3-6, Mon 3-6",23,0.750882954220288
+341,"Martinez Flood, Austin","Washington","DC",NA,NA,"Mon 6-9, Sat 12-3",11,0.779764890205115
+342,"Mathieu, Vance","Pittsford","NY",43.06,-77.53,"Sun 9-12, Thu 12-3",17,0.997209703433327
+343,"al-Dib, Aarifa","Hartford","SD",43.6,-97,"Tue 3-6, Sat 3-6",28,0.570316290250048
+344,"al-Abdoo, Bilaal","Albuquerque","NM",35.18,-106.59,"Tue 9-12, Sat 9-12",27,0.575105845113285
+345,"Zimmerman, Brinley","Yoncalla","OR",43.6,-123.3,"Sun 3-6, Wed 3-6, Thu 12-3",15,0.714729543658905
+346,"Tsend Ayush, Claudia","Carmen","OK",36.6,-98.5,"Sat 6-9, Tue 9-12, Tue 3-6",28,0.561312191304751
+347,"Ruiz, Robert","Cleveland","OH",NA,NA,"Fri 12-3, Fri 9-12, Wed 3-6",27,0.798018019413576
+348,"Casas Espinoza, Carolina","Temecula","CA",NA,NA,"Thu 12-3, Thu 3-6, Thu 6-9",10,0.963498605415225
+349,"Marshall, Jaime","Alliance","NC",NA,NA,"Tue 3-6, Thu 6-9, Tue 9-12",20,0.68513840646483
+350,"Dedios, Dylan","Wilmington","DE",39.76,-75.57,"Sat 3-6, Mon 6-9",10,0.566647603060119
+351,"Zito, Alixsandra","Philadelphia","PA",39.97,-75.2,"Sun 6-9, Tue 12-3, Tue 3-6",13,0.671919484622777
+352,"Atene, Niavis","Iron Station","NC",35.45,-81.11,"Tue 3-6, Sat 12-3, Sat 12-3",20,0.892123877885751
+353,"Vo, Bryan","Elk River","ID",46.8,-116.2,"Wed 3-6, Sun 6-9",16,0.836671905824915
+354,"Rude, Shina","Shepherdsville","KY",38,-85.7,"Fri 9-12, Sat 6-9",24,0.758953626733273
+355,"Jones, Anthony","Amsterdam","OH",40.47,-80.94,"Mon 6-9, Sun 12-3",18,0.723635830916464
+356,"Duarte, Jordan","Hollandale","MN",43.76,-93.19,"Mon 9-12, Sat 6-9",16,0.792867557960562
+357,"el-Zamani, Tawfeeq","Benton","WI",42.55,-90.35,"Sat 12-3, Mon 3-6",22,0.763589795562439
+358,"el-Elamin, Hameeda","Lamont","CA",35.26,-118.91,"Sat 12-3, Fri 9-12",11,0.872661068686284
+359,"Tom, Ena","Warrendale","PA",NA,NA,"Sun 9-12, Thu 3-6, Sat 6-9",27,0.637821820448153
+360,"el-Suleiman, Ahmed","Arvilla","ND",47.9,-97.5,"Fri 6-9, Wed 9-12",28,0.562343205092475
+361,"Estrada Olivas, Jesus","Belmont","LA",31.73,-93.52,"Tue 3-6, Thu 12-3",13,0.746786147472449
+362,"Demandante, Ka'Imi","Bellingham","WA",48.74,-122.53,"Sat 6-9, Sun 6-9, Sun 3-6",18,0.999573104549199
+363,"Maestas, Araceli","San Diego","CA",NA,NA,"Mon 9-12, Mon 9-12, Fri 12-3",29,0.919708994799294
+364,"el-Yousef, Sakeen","Cherry Plain","NY",42.67,-73.33,"Sun 6-9, Mon 9-12",30,0.863185860565864
+365,"Thomas, Arielle","Wyalusing","PA",41.7,-76.3,"Thu 12-3, Sat 3-6",15,0.9575741563458
+366,"Halbach, Ian","Parcel Return Service","DC",NA,NA,"Thu 6-9, Sun 12-3",24,0.575308599276468
+367,"Reynolds, Rockelle","Pecks Mill","WV",37.933,-81.989,"Wed 12-3, Fri 9-12, Sat 12-3",12,0.530602463753894
+368,"Garrett, Nolan","Allentown","PA",40.62,-75.55,"Sun 9-12, Sat 9-12, Fri 3-6",24,0.69134764035698
+369,"Lee, Daniel","Huntington","WV",NA,NA,"Wed 12-3, Mon 9-12",17,0.939695143839344
+370,"Woodcock, Janet","Springfield","MO",37.15,-93.25,"Fri 9-12, Sat 9-12",17,0.59812129533384
+371,"Gale, Angel","Prineville","OR",44.1,-120.5,"Tue 6-9, Fri 3-6, Thu 3-6",27,0.582133587100543
+372,"al-Amen, Qaaid","New Port Richey","FL",NA,NA,"Mon 9-12, Mon 3-6, Tue 9-12",12,0.754374683368951
+373,"Torres, Serena","Modena","PA",40,-75.8,"Mon 6-9, Sun 12-3",19,0.523542177164927
+374,"Felix, Noah","Bloomington","IN",NA,NA,"Tue 3-6, Mon 3-6",22,0.708865265594795
+375,"Smith, Josiah","Niota","IL",40.58,-91.26,"Sun 9-12, Fri 9-12",21,0.758435546653345
+376,"Vanderveen, Angelo","Steptoe","WA",47.0063,-117.3558,"Fri 9-12, Tue 6-9, Tue 12-3",13,0.980322913266718
+377,"Johnson, Imani","Bosworth","MO",39.5,-93.3,"Wed 9-12, Sat 3-6",23,0.974109141854569
+378,"Hokett, Bruna","North Hollywood","CA",NA,NA,"Sun 12-3, Thu 3-6, Fri 6-9",22,0.668609588523395
+379,"Threatt, Dominika","Black River","NY",43.99,-75.77,"Sun 3-6, Sun 6-9, Wed 6-9",15,0.625936037045904
+380,"Yang, Sanskriti","Francitas","TX",28.86,-96.35,"Wed 9-12, Thu 9-12, Mon 12-3",20,0.816562341526151
+381,"el-Azimi, Raafida","Prairieton","IN",NA,NA,"Mon 3-6, Thu 3-6",15,0.76390362624079
+382,"al-Moustafa, Sulaimaan","Marion","CT",41.58,-72.9,"Sat 6-9, Sun 3-6",21,0.56654302123934
+383,"Koster, Mitchell","Berrien Springs","MI",41.963,-86.359,"Sat 9-12, Thu 12-3",25,0.726140744402073
+384,"Romero-Perez, Allexis","Baton Rouge","LA",NA,NA,"Mon 12-3, Tue 6-9",23,0.69168326840736
+385,"Vigil III, Julio","Big Pine Key","FL",24.7,-81.3,"Mon 9-12, Sat 6-9, Wed 9-12",25,0.54470732039772
+386,"Cuthbert Jr, Caroline","North Rose","NY",43.21,-76.92,"Fri 6-9, Wed 3-6",22,0.94508908665739
+387,"Kawal, Sreya","Merkel","TX",32.5,-100,"Thu 12-3, Mon 6-9",28,0.53186684276443
+388,"Talain, Alan","Stone Mountain","GA",33.79,-84.2,"Thu 3-6, Mon 3-6, Fri 9-12",23,0.869180292938836
+389,"Hines, Myles","Gray Mountain","AZ",35.72,-111.55,"Thu 12-3, Mon 6-9, Wed 3-6",20,0.641404696856625
+390,"Davis, Amya","Brownfield","TX",33.1,-102.3,"Wed 9-12, Fri 12-3, Wed 6-9",19,0.980686963885091
+391,"Leung, Isaiah","Rosston","OK",36.9,-99.9,"Sun 6-9, Fri 3-6, Sat 12-3",17,0.954856558120809
+392,"Littlewhiteman, Saige","Cassadaga","FL",NA,NA,"Sat 3-6, Fri 6-9",16,0.80779011012055
+393,"Willis, Courtney","Tucson","AZ",NA,NA,"Mon 3-6, Fri 6-9, Mon 12-3",28,0.790390624315478
+394,"el-Minhas, Naazim","Jamaica","NY",40.66,-73.82,"Sun 12-3, Thu 12-3",30,0.724017199245282
+395,"Grennell, Vincent","Alsea","OR",44.4,-123.6,"Wed 3-6, Thu 6-9, Sat 3-6",29,0.954587377374992
+396,"Sosa, Perla","South Milford","IN",41.532,-85.272,"Wed 12-3, Mon 6-9, Fri 6-9",20,0.802433988079429
+397,"Coombes, Andrew","Clarks Grove","MN",43.76,-93.34,"Sun 6-9, Tue 3-6, Tue 6-9",27,0.888005106244236
+398,"Vail, Alexander","Wooldridge","MO",38.88,-92.52,"Mon 6-9, Wed 9-12",21,0.6474369619973
+399,"Cruz Cisneros, Matthew","Kennebunk","ME",43.4,-70.6,"Sun 3-6, Fri 6-9",12,0.96947261528112
+400,"Huynh, Maile","Bainbridge","GA",30.9,-84.6,"Sun 6-9, Thu 6-9",22,0.540680865407921
+401,"Flores Benitez, Taylor","Rockford","WA",47.5,-117.1,"Thu 12-3, Sat 12-3, Mon 12-3",27,0.893733014119789
+402,"Berumen, Aron","Birch River","WV",38.5,-80.7,"Fri 3-6, Mon 9-12",25,0.831588088069111
+403,"el-Mohammadi, Asad","Semora","NC",36.5,-79.1,"Tue 3-6, Fri 12-3, Mon 6-9",30,0.946552447509021
+404,"Jones, Chloe","Stow","MA",42.43,-71.51,"Wed 6-9, Fri 9-12",26,0.594755347701721
+405,"Cisneros, Angelique","Fort Bidwell","CA",41.85,-120.17,"Wed 6-9, Sat 6-9, Sun 6-9",22,0.551983124110848
+406,"al-Shah, Naqaa","Sacramento","CA",NA,NA,"Wed 9-12, Sat 6-9, Thu 12-3",24,0.858766820398159
+407,"Stilwell, Ashley","Memphis","TN",NA,NA,"Thu 3-6, Fri 9-12",12,0.552652547485195
+408,"Gordon, Janessa","Lakeville","PA",41.43,-75.25,"Mon 12-3, Sun 6-9, Tue 12-3",18,0.931152480654418
+409,"Cordova, Lucas","Hamilton","WA",48.522,-121.99,"Sat 3-6, Thu 3-6, Sun 6-9",24,0.639468237059191
+410,"Zuni, Marysa","Prospect Heights","IL",42.11,-87.92,"Sun 12-3, Sat 9-12",20,0.782168951933272
+411,"Assefa, Nauru","Odessa","TX",31.9,-102.34,"Sun 3-6, Mon 9-12",23,0.590718925814144
+412,"Ahlberg, Jeremy","Ivanhoe","CA",36.39,-119.22,"Thu 9-12, Tue 12-3, Sat 9-12",17,0.837961389683187
+413,"Gamble, Tyree","Ormond Beach","FL",29.3,-81.2,"Sun 12-3, Tue 6-9, Thu 9-12",11,0.675853847409599
+414,"Wingo, Madison","Toivola","MI",47,-88.9,"Fri 12-3, Mon 12-3, Sun 12-3",26,0.921281493152492
+415,"el-Aboud, Abdur Rasheed","Little Rock","AR",NA,NA,"Thu 9-12, Sun 6-9",14,0.634496107231826
+416,"Mellott, Jacob","Santa Ana","CA",33.74,-117.81,"Sat 12-3, Wed 3-6",17,0.627950738999061
+417,"el-Basa, Lateefa","San Simeon","CA",35.61,-121.14,"Sun 12-3, Tue 12-3, Sun 9-12",21,0.70820529316552
+418,"Denmon, Taylor","Saint Amant","LA",30.24,-90.79,"Sun 12-3, Sat 3-6, Tue 12-3",28,0.647116465726867
+419,"Ioane, Joei","Tremonton","UT",41.7,-112.3,"Mon 9-12, Sun 12-3, Thu 6-9",24,0.89745025918819
+420,"Jameson, Aschtun","Dillingham","AK",59,-158.5,"Tue 12-3, Thu 12-3, Wed 3-6",11,0.977258723578416
+421,"Smith, Mitchelle","Aliso Viejo","CA",33.56,-117.73,"Tue 9-12, Wed 12-3, Sun 6-9",23,0.962679178221151
+422,"al-Iman, Kareema","Coleman","FL",28.8,-82.1,"Wed 6-9, Tue 3-6, Tue 3-6",21,0.952110440353863
+423,"Rinehart, Melissa","Walker","KY",36.87,-83.68,"Mon 6-9, Wed 12-3",10,0.677175961667672
+424,"Niedermeier, Michelle","Grimes","IA",41.69,-93.8,"Tue 3-6, Wed 3-6, Sun 12-3",29,0.98934067832306
+425,"Manders, Logan","Round Rock","TX",30.5,-97.64,"Thu 6-9, Tue 12-3, Fri 3-6",17,0.948616851237603
+426,"el-Hariri, Mubashshir","Surrency","GA",31.7,-82.2,"Fri 6-9, Tue 12-3",17,0.828837727895007
+427,"Young, Ryan","Tallahassee","FL",30.37,-84.17,"Mon 3-6, Sat 6-9, Tue 6-9",30,0.862977322074585
+428,"Ficek, Rory","Kansas City","MO",38.97,-94.47,"Thu 6-9, Fri 12-3, Mon 6-9",29,0.909778411500156
+429,"Quintero, Cole","Elkin","NC",36.3,-80.9,"Wed 9-12, Fri 9-12, Wed 9-12",18,0.689629101660103
+430,"Dale, Kelly","Jenkinjones","WV",37.4,-81.5,"Thu 3-6, Sun 9-12",17,0.739123425795697
+431,"Mungia, Sabrina","Lowake","TX",NA,NA,"Wed 12-3, Mon 6-9, Fri 3-6",29,0.52232480130624
+432,"Xu, Joshua","Rural Retreat","VA",36.9,-81.3,"Mon 9-12, Sat 3-6, Sun 3-6",14,0.948057479923591
+433,"Paici, Tanner","Merigold","MS",33.8,-90.7,"Mon 3-6, Fri 12-3",17,0.801863458123989
+434,"al-Begum, Haitham","Louisville","KY",NA,NA,"Fri 12-3, Fri 12-3",27,0.581871583126485
+435,"Jay, Tracy","Orrs Island","ME",43.77,-69.97,"Wed 9-12, Tue 6-9, Wed 12-3",28,0.806371543323621
+436,"al-Arafat, Jalaal","Broad Brook","CT",41.91,-72.55,"Mon 9-12, Thu 6-9",16,0.747381306136958
+437,"Trevino, Kaitlyn","Mt Zion","IL",39.76,-88.87,"Thu 12-3, Thu 12-3, Sat 12-3",15,0.5012534490088
+438,"Steinbach, Jaylene","Franklin Springs","NY",43.05,-75.38,"Tue 12-3, Mon 6-9",30,0.847450904315338
+439,"Largo, Jacob","Fort Myers","FL",26.47,-81.81,"Sun 6-9, Mon 12-3",10,0.60058301477693
+440,"Schoon, Xin Hong","Sultana","CA",36.52,-119.39,"Fri 6-9, Sun 6-9, Sun 3-6",14,0.680706585524604
+441,"al-Burki, Mansoor","Hialeah","FL",25.89,-80.33,"Sun 3-6, Sun 12-3",26,0.708129865583032
+442,"al-Abdella, Arafaat","South Dennis","NJ",NA,NA,"Mon 9-12, Sat 3-6, Sat 12-3",20,0.98254204064142
+443,"Manoilo, Baylee","Huntley","MT",45.9,-108.2,"Mon 12-3, Fri 6-9, Thu 12-3",29,0.676583600696176
+444,"Rivera, Rebecca","Lookout Mountain","TN",35,-85.35,"Sat 6-9, Sat 3-6, Sat 12-3",16,0.635990617680363
+445,"Abdullahi, Victoriana","Apache Junction","AZ",NA,NA,"Thu 3-6, Mon 12-3, Fri 12-3",14,0.582386331050657
+446,"Gutierrez, Kathryn","Hillsboro","OR",NA,NA,"Thu 3-6, Tue 12-3, Wed 3-6",27,0.976432208437473
+447,"Yanushonis, Vinhcynt","Jamaica","NY",40.702,-73.795,"Wed 6-9, Thu 3-6, Sat 9-12",24,0.535104472306557
+448,"Richardson, Zeinab","Moraga","CA",NA,NA,"Fri 6-9, Sat 9-12",11,0.833634418318979
+449,"Gonzalez, Zachari","Knoxville","TN",NA,NA,"Fri 9-12, Mon 3-6, Fri 3-6",26,0.698409870965406
+450,"Robles-Guerrero, Lanae","Yale","OK",36.1,-96.7,"Tue 9-12, Sat 3-6, Sun 12-3",25,0.667139452300034
+451,"Shangreaux, Aaron","Harker Heights","TX",31.06,-97.65,"Fri 9-12, Tue 6-9, Sun 9-12",19,0.65970398997888
+452,"Quach, Mun","Lincoln","NE",NA,NA,"Wed 12-3, Fri 12-3",16,0.582302562776022
+453,"al-Mady, Nawfal","Leland","IL",41.6,-88.8,"Sat 6-9, Tue 12-3",28,0.56621784705203
+454,"al-Farrah, Ghaali","Birmingham","AL",33.52,-86.81,"Sat 12-3, Tue 3-6",24,0.774356807000004
+455,"al-Asmar, Ramza","Fort Morgan","CO",40.2,-103.8,"Fri 9-12, Thu 9-12",21,0.61724467528984
+456,"Mitchell, Shelby","Stamford","CT",NA,NA,"Mon 12-3, Mon 9-12, Sun 6-9",21,0.679565965780057
+457,"Perry, Sonja","Ducktown","TN",35.04,-84.39,"Thu 9-12, Wed 9-12",20,0.927333468222059
+458,"Cameron, Olivia","Winchester","TN",35.2,-86.2,"Mon 6-9, Sun 6-9, Tue 3-6",16,0.596519973943941
+459,"Manimtim, Rohith","Thornton","NH",43.93,-71.65,"Mon 3-6, Tue 3-6, Sat 12-3",16,0.654639294720255
+460,"Hart, Madison","Greenville","NH",42.75,-71.76,"Thu 9-12, Fri 3-6, Wed 9-12",26,0.921615461818874
+461,"Knox-Bell, Nichelle","Cuba","NM",35.7,-107.3,"Sun 3-6, Sat 6-9, Wed 3-6",13,0.9160632888088
+462,"Ryerson, Kira","Simi Valley","CA",NA,NA,"Sat 9-12, Tue 6-9",23,0.972364959656261
+463,"Escarcega, Melissa","Norcross","GA",33.91,-84.18,"Wed 9-12, Sat 3-6, Mon 9-12",18,0.618997754761949
+464,"Johnson, Winston","Kapaa","HI",22.1,-159.39,"Sat 9-12, Sat 6-9, Tue 3-6",19,0.915295195300132
+465,"Leon-Guerrero, Kushal","Vaughn","NM",34.7,-105.1,"Thu 6-9, Mon 12-3, Mon 9-12",26,0.851051039528102
+466,"Palacios, Jana","Leopold","MO",37.27,-89.9,"Mon 3-6, Sun 9-12",23,0.911379095399752
+467,"Garcia, Jacqueline","Urania","LA",31.87,-92.3,"Fri 3-6, Sun 3-6",24,0.897756463615224
+468,"Stutsman, Emily","Clarion","IA",42.7,-93.7,"Mon 12-3, Wed 6-9, Mon 6-9",23,0.91632619057782
+469,"Lozano, Alex","Bessemer","MI",46.5,-90,"Fri 6-9, Wed 12-3",13,0.539831803413108
+470,"Rodgers, Brittany","Highlands","NC",35.08,-83.19,"Sat 12-3, Fri 9-12",12,0.79601322975941
+471,"Archuleta, Brian","Cocoa","FL",NA,NA,"Thu 6-9, Thu 12-3",12,0.730142886633985
+472,"Cunningham, Taryn","Oscar","OK",NA,NA,"Sun 6-9, Thu 6-9, Sun 9-12",23,0.90090348792728
+473,"Webb, Priyanka","Milton","KS",37.5,-97.8,"Thu 12-3, Sun 12-3",12,0.600016402080655
+474,"Lydeen, Evan","Manchester","MA",42.58,-70.76,"Sun 6-9, Tue 6-9, Sun 6-9",26,0.69655507360585
+475,"Hammond, Niesha","Hannibal","WI",NA,NA,"Sun 9-12, Sun 6-9",11,0.945760135655291
+476,"Lhungay, Vinson","Utica","MI",42.64,-83.05,"Tue 9-12, Tue 12-3",12,0.925714319571853
+477,"Carroll, Courtney","Clifton","CO",39.08,-108.41,"Sun 6-9, Sat 6-9",17,0.703459552838467
+478,"Ngiateng, Vu","Gainesville","FL",NA,NA,"Sun 6-9, Wed 12-3, Thu 9-12",14,0.622443420579657
+479,"Thomas, Cassa","Oak Park","CA",34.19,-118.76,"Sun 9-12, Sun 3-6, Thu 6-9",20,0.888015072094277
+480,"Jones, Jabril","Shageluk","AK",63,-160,"Sat 6-9, Tue 6-9, Sat 9-12",12,0.913609588169493
+481,"Kashino, Asli","Newburg","MD",38.4,-76.9,"Mon 12-3, Fri 12-3, Thu 12-3",22,0.656685367692262
+482,"al-Bilal, Bilaal","Long Bottom","OH",39.07,-81.85,"Tue 9-12, Mon 12-3, Fri 12-3",28,0.767717468552291
+483,"Kumar, Vamshi","Grand Rapids","MI",42.94,-85.62,"Sat 9-12, Sat 6-9",30,0.807539512170479
+484,"Poonpiset, Phil","Hattiesburg","MS",NA,NA,"Tue 9-12, Wed 6-9, Tue 6-9",16,0.85566947737243
+485,"Rodriguez, Elena","Claymont","DE",39.78,-75.47,"Fri 6-9, Wed 9-12, Thu 6-9",16,0.840599583694711
+486,"el-Azzi, Muntasir","Haleiwa","HI",21.64,-158.05,"Mon 9-12, Sat 3-6, Mon 3-6",19,0.659261349588633
+487,"Huynh, Christopher","Dayton","OH",39.72,-84.19,"Mon 9-12, Tue 9-12",15,0.709916785708629
+488,"Reil, John","Booth","AL",NA,NA,"Wed 3-6, Fri 6-9, Thu 12-3",29,0.911718648858368
+489,"Torres, Renee","Donegal","PA",40.11,-79.37,"Tue 9-12, Wed 6-9",23,0.721348394290544
+490,"Valdez, Ricardo","Oceano","CA",35.07,-120.61,"Sun 9-12, Mon 6-9",10,0.719388952013105
+491,"el-Adel, Sakeen","Merritt Island","FL",28.5,-80.7,"Tue 12-3, Fri 6-9",16,0.795156471198425
+492,"Scott, Kelsey","Statham","GA",33.96,-83.58,"Fri 9-12, Wed 3-6, Sat 9-12",10,0.825595144648105
+493,"Harris, Jean Mille","Knoxville","TN",NA,NA,"Thu 9-12, Sat 9-12, Thu 6-9",23,0.662506360677071
+494,"Barajas-Rivera, Gabrielle","Lincoln","NE",40.82,-96.81,"Sun 12-3, Mon 6-9, Mon 12-3",21,0.878087661229074
+495,"Reilly, Keaton","West Jordan","UT",40.62,-111.96,"Sat 9-12, Mon 3-6, Wed 9-12",24,0.590784099767916
+496,"Hernandez Pineda, Daniel","Yuma","AZ",32.4,-114,"Thu 3-6, Sun 12-3, Wed 6-9",15,0.616251201019622
+497,"Gomez, Danielle","Ozona","FL",NA,NA,"Thu 3-6, Tue 3-6",23,0.93109051103238
+498,"Blackburn, Domonic","Skokie","IL",42.04,-87.75,"Mon 9-12, Tue 6-9",26,0.8367142197676
+499,"Ortega, Ivan","Atlanta","GA",NA,NA,"Thu 3-6, Fri 6-9, Sat 3-6",19,0.900182951940224
+500,"Buck, Hunter","Ashland","WI",46.8,-90.9,"Sun 3-6, Mon 12-3",14,0.51523659133818
+501,"Cameron, Qionn","Faison","NC",35.1,-78.2,"Mon 3-6, Sat 12-3",24,0.827854764880612
+502,"el-Abdou, Naseem","Merino","CO",40.6,-103.4,"Sun 6-9, Fri 12-3, Mon 6-9",28,0.732152147684246
+503,"Cox, Kimberly","Akron","IN",41,-86,"Thu 3-6, Mon 6-9",27,0.883257567766123
+504,"Krpan, Jesse","Russellville","AR",35.28,-93.14,"Tue 6-9, Fri 12-3, Tue 6-9",30,0.942859472241253
+505,"Keyer, Brianna","New Suffolk","NY",40.97,-72.46,"Mon 12-3, Tue 9-12, Fri 9-12",12,0.684245677781291
+506,"al-Farhat, Uthmaa N","Grand Marais","MI",46.6,-86.2,"Sun 12-3, Mon 6-9",23,0.909965464496054
+507,"Guerue, Asien","North Hero","VT",44.8,-73.3,"Fri 12-3, Thu 6-9, Mon 3-6",10,0.672873166622594
+508,"Miller, Brandon","Westmoreland","TN",36.6,-86.2,"Mon 12-3, Sat 9-12, Fri 6-9",10,0.595975751522928
+509,"Ayers, Markus","Fairlee","VT",43.9,-72.2,"Fri 6-9, Thu 3-6",12,0.659392815432511
+510,"Tavernier, Mitchell","Bradenton","FL",27.48,-82.58,"Wed 9-12, Sat 12-3",25,0.511737190769054
+511,"Ball, Christy","Lincoln","RI",41.92,-71.44,"Wed 6-9, Sun 3-6",17,0.640468124416657
+512,"al-Bina, Mutlaq","Lakeside","MI",41.85,-86.67,"Tue 9-12, Tue 6-9, Sat 12-3",21,0.551722008734941
+513,"Degrande, Brandon","Pineola","NC",36.1,-81.8,"Fri 12-3, Mon 12-3, Mon 6-9",11,0.64881640789099
+514,"el-Faraj, Rayyana","Packwood","IA",41.11,-92.09,"Mon 9-12, Sat 12-3, Fri 12-3",17,0.574220174108632
+515,"Snowhawk, Antonio","Vienna","SD",44.7,-97.5,"Tue 12-3, Fri 3-6",18,0.737616457277909
+516,"Braley, Wyleen","Nashville","TN",36.07,-86.72,"Sun 12-3, Thu 6-9, Thu 9-12",27,0.528197737759911
+517,"Suleiman, Vanessa","New York","NY",NA,NA,"Thu 6-9, Mon 9-12",27,0.876646864460781
+518,"al-Amin, Ya'eesh","Isle","MN",46.2,-93.4,"Thu 9-12, Sun 3-6, Sun 6-9",28,0.64876215707045
+519,"Gutierrez, Jose","Butler","PA",40.9,-79.9,"Tue 6-9, Mon 9-12, Wed 3-6",18,0.537479623686522
+520,"Morgan, Audrey","Washburn","ME",46.8,-68.2,"Thu 6-9, Wed 12-3, Fri 3-6",19,0.831365662859753
+521,"Torres, Evan","Saint Louis","MO",38.74,-90.26,"Tue 12-3, Sat 3-6, Wed 3-6",25,0.843248663819395
+522,"Patrick, Macee","Climbing Hill","IA",NA,NA,"Thu 12-3, Wed 3-6",30,0.514622089569457
+523,"Iron Cloud, Aranda","Hackensack","MN",46.9,-94.5,"Mon 12-3, Tue 3-6",27,0.915811758721247
+524,"al-Ghanem, Shaqeeqa","Austin","TX",30.24,-97.89,"Fri 3-6, Thu 12-3, Wed 3-6",27,0.998620941652916
+525,"Gordon, Joseph","Klickitat","WA",45.83,-121.1,"Fri 12-3, Thu 9-12",30,0.617621358949691
+526,"Nguyen, Collin","Lewisburg","TN",35.5,-86.8,"Sat 6-9, Mon 3-6, Sat 12-3",25,0.567516281618737
+527,"Dolan, Hannah","Allouez","MI",47.3,-88.42,"Thu 9-12, Fri 12-3, Sat 9-12",15,0.826916726538911
+528,"Torres, Jacqueline","Bronx","NY",40.86,-73.89,"Thu 6-9, Mon 9-12, Fri 9-12",25,0.815152429393493
+529,"Greenwood, Eisaan","Ontario","CA",34.03,-117.63,"Thu 6-9, Mon 6-9",18,0.507802048115991
+530,"Flewelling, Arica","Racine","WV",38.13,-81.66,"Thu 6-9, Fri 12-3, Sat 12-3",16,0.908718635560945
+531,"Lee, Destiny","Cedarbluff","MS",33.7,-88.8,"Wed 9-12, Fri 9-12, Tue 12-3",19,0.929599251714535
+532,"Safi, Hayley","Canton","OH",40.81,-81.38,"Sun 9-12, Tue 9-12",27,0.997126729111187
+533,"Kamara, Shakiem","Poland","IN",39.4,-86.9,"Sat 3-6, Sun 6-9, Mon 6-9",10,0.660003632889129
+534,"Wade, Beecher","Jacksonville","FL",30.29,-81.47,"Sun 6-9, Sat 6-9",10,0.714095161762089
+535,"Serrano, Peter","Houston","TX",NA,NA,"Fri 3-6, Sat 3-6",24,0.603501520585269
+536,"Espinoza, Kaitlyn","Delta","IA",41.34,-92.36,"Mon 6-9, Mon 6-9",17,0.98863742640242
+537,"O'Blia, Selena","Houstonia","MO",38.9,-93.3,"Sat 3-6, Thu 9-12",25,0.956500433152542
+538,"Sanchez, Wilber","South Lyon","MI",42.4,-83.7,"Thu 3-6, Fri 3-6, Wed 9-12",18,0.946320629562251
+539,"Berns-Laborde, Jerry","Lancaster","MA",42.47,-71.67,"Sun 12-3, Thu 9-12",30,0.970820599002764
+540,"el-Niazi, Shahla","Independence","MO",39.07,-94.45,"Wed 3-6, Sat 9-12",24,0.959571125218645
+541,"Vogltanz, Samara","Hadley","PA",41.44,-80.2,"Tue 3-6, Sun 6-9",25,0.923505821614526
+542,"Gonzalez Vasquez, Mariela","Seattle","WA",NA,NA,"Fri 12-3, Mon 12-3, Sun 9-12",11,0.991724226390943
+543,"Gonzalez, Maximillian","Plymouth","FL",NA,NA,"Thu 3-6, Tue 6-9, Thu 12-3",23,0.821603573043831
+544,"Scott, Ernie","Devens","MA",42.54,-71.61,"Tue 9-12, Sat 12-3",27,0.613144098897465
+545,"Chun, Chiara","Atlanta","GA",NA,NA,"Mon 3-6, Thu 3-6, Fri 12-3",10,0.59814409899991
+546,"Johnson, William","Reno","OH",39.46,-81.27,"Tue 3-6, Thu 12-3, Fri 3-6",13,0.545722738723271
+547,"el-Abdi, Suhail","Gates","OR",44.7,-122.4,"Tue 9-12, Tue 3-6, Tue 9-12",15,0.600549891474657
+548,"Dodge, Mckenna","Risco","MO",36.55,-89.818,"Tue 12-3, Thu 12-3",22,0.763324975734577
+549,"Danko, Makayla","Fenn","ID",NA,NA,"Fri 3-6, Fri 6-9, Sun 3-6",20,0.621832791017368
+550,"Corral, Alberto","Fresno","CA",NA,NA,"Thu 6-9, Fri 9-12, Thu 6-9",15,0.900446531595662
+551,"Gaffney, Dominick","Molena","GA",33,-84.4,"Mon 3-6, Thu 3-6, Thu 12-3",16,0.904171809204854
+552,"Schwartz, Weiliang","Mc Clellanville","SC",33.1,-79.4,"Mon 9-12, Tue 9-12",22,0.844353499589488
+553,"Ewings, Joshua","Helendale","CA",34.8,-117.3,"Sun 6-9, Wed 3-6, Sat 9-12",27,0.589436475071125
+554,"Sweeney, Brook","Fayette","OH",41.7,-84.3,"Mon 9-12, Fri 6-9, Mon 12-3",18,0.647512973402627
+555,"Brauher, Gilbert","Kohler","WI",43.74,-87.79,"Thu 9-12, Sat 12-3, Tue 6-9",12,0.822312991833314
+556,"Abbott, Tighlar","Kennebunk","ME",43.4,-70.6,"Tue 3-6, Thu 9-12",29,0.768782175611705
+557,"Descheny, Brandon","Jupiter","FL",27,-80.3,"Sun 9-12, Sun 9-12, Sun 6-9",18,0.983237143955193
+558,"Lawson, Cameron","Phoenix","AZ",NA,NA,"Tue 3-6, Thu 12-3",20,0.856826197123155
+559,"Doughty, Cierra","Fort Worth","TX",32.78,-97.51,"Sat 12-3, Thu 6-9, Tue 9-12",20,0.843039074214175
+560,"Parmley, William","Macon","GA",32.829,-83.651,"Thu 9-12, Wed 6-9, Thu 9-12",26,0.729188956785947
+561,"Torres, Jasmine","Minneapolis","MN",NA,NA,"Wed 6-9, Mon 6-9",14,0.734182798070833
+562,"Ayers, Ian","Philadelphia","PA",39.89,-75.16,"Mon 9-12, Tue 12-3, Tue 12-3",23,0.868171661510132
+563,"Vang, Erin","East Hickory","PA",41.56,-79.37,"Mon 6-9, Thu 9-12",17,0.701493994682096
+564,"Boothe, Elvia","Olmsted","IL",37.2,-89.11,"Sat 9-12, Mon 3-6",13,0.543818224687129
+565,"Nguyen, Kitty","Rye Beach","NH",42.977,-70.765,"Wed 3-6, Thu 9-12, Fri 12-3",17,0.845865955227055
+566,"Reid, Logan","Verona","ND",46.4,-98,"Sat 6-9, Sun 3-6",15,0.604475931613706
+567,"al-Dawood, Rayyana","Duanesburg","NY",42.77,-74.1,"Tue 3-6, Thu 12-3, Tue 9-12",10,0.598767125746235
+568,"Bertsch, Joseph","Steele","MO",36.1,-89.8,"Fri 3-6, Fri 6-9",11,0.526772390701808
+569,"Longoria, Thaylor","Fowlerton","IN",40.409,-85.571,"Tue 12-3, Thu 6-9, Tue 9-12",15,0.603780743665993
+570,"Ma, Keomani","Stanton","NE",41.9,-97.2,"Thu 6-9, Mon 12-3",19,0.823511446244083
+571,"Fukui, Lauren","Greenville","MS",33.3,-91,"Sat 6-9, Sat 3-6",10,0.563984280917794
+572,"Wotortsi, Samone","Sparks","NV",39.61,-119.71,"Thu 9-12, Tue 6-9",17,0.590273390873335
+573,"Vargo, Jeffrey","East Parsonsfield","ME",NA,NA,"Fri 3-6, Wed 9-12, Tue 12-3",14,0.92428158398252
+574,"el-Ismail, Shaheed","New York","NY",NA,NA,"Sat 9-12, Wed 6-9, Tue 9-12",14,0.815734149538912
+575,"Mateo, Alonzo","Elm Creek","NE",40.7,-99.4,"Sat 3-6, Wed 12-3, Wed 6-9",26,0.572280083084479
+576,"Angeles, Sin-Woo","Saint Louis","MO",38.59,-90.32,"Tue 9-12, Wed 12-3, Thu 6-9",14,0.989085447392426
+577,"al-Mohamed, Fateen","Chippewa Lake","OH",41.07,-81.9,"Sat 12-3, Sun 6-9, Thu 3-6",20,0.682698991033249
+578,"Mayemura, Matagi","Ocklawaha","FL",29.1,-81.9,"Thu 12-3, Thu 3-6, Thu 9-12",25,0.511256027501076
+579,"el-Shahan, Fahd","Miami","FL",NA,NA,"Sat 12-3, Fri 6-9",23,0.81230362795759
+580,"Prom, Dana","Lebanon","PA",NA,NA,"Thu 6-9, Sun 12-3, Tue 6-9",29,0.62149816355668
+581,"Castro Ramirez, Jose","Lexington","NC",NA,NA,"Fri 6-9, Sat 9-12",13,0.869662776240148
+582,"el-Arif, Mubarak","Fall Creek","OR",43.9,-122.6,"Tue 9-12, Wed 3-6",13,0.53264470002614
+583,"el-Muhammed, Ikram","Austin","TX",30.38,-97.67,"Wed 9-12, Sun 6-9",16,0.81765258545056
+584,"Trujillo, Stone","Leasburg","MO",38.07,-91.29,"Mon 9-12, Sun 3-6",24,0.893981143133715
+585,"Blumenberg, Tyrin","Kingstree","SC",33.7,-79.8,"Fri 6-9, Tue 6-9, Fri 6-9",16,0.771092821843922
+586,"Lewis, Zane","Oxford","MA",42.12,-71.85,"Sat 3-6, Mon 3-6",28,0.684244061354548
+587,"Pugh, Devonte","Indianapolis","IN",NA,NA,"Sun 6-9, Mon 6-9",17,0.52782663074322
+588,"Hidalgo, Ashleigh","Miami","FL",25.75,-80.27,"Sun 6-9, Wed 6-9",24,0.57640776829794
+589,"Chancellor, Lauren","Utica","PA",41.44,-79.97,"Tue 3-6, Sun 12-3",11,0.697749213548377
+590,"Kjellsen, Taylor","Masonville","IA",42.5,-91.6,"Sun 9-12, Thu 3-6",16,0.679143795627169
+591,"Deguzman, Julieanne","Fifty Six","AR",36,-92.2,"Tue 12-3, Fri 12-3, Sat 3-6",20,0.703454732545651
+592,"el-Alli, Abbaad","Red Lodge","MT",45.2,-109.5,"Wed 6-9, Wed 12-3",23,0.822225114097819
+593,"Cain, Meagan","Los Angeles","CA",33.99,-118.15,"Sat 12-3, Fri 9-12",30,0.892890939372592
+594,"Sanchez, Earnie","Ranchita","CA",33.3,-116.3,"Sun 6-9, Wed 6-9",18,0.938581925234757
+595,"Green, Bryan","Logan","OH",39.5,-82.4,"Sun 12-3, Tue 3-6, Fri 9-12",28,0.637454258860089
+596,"Givigliano, Donald","Melvin","IL",40.6,-88.2,"Thu 6-9, Fri 6-9, Tue 12-3",29,0.644016280770302
+597,"Winter, Margarita","Young America","MN",NA,NA,"Sun 3-6, Tue 3-6, Mon 9-12",24,0.751314452150837
+598,"Agyei, Justin","Alpine","WY",43.13,-110.99,"Mon 6-9, Thu 9-12",30,0.895352568710223
+599,"Roybal, Elijah","New Orleans","LA",NA,NA,"Tue 6-9, Wed 9-12",11,0.888959493953735
+600,"Lopez, Marie","New York","NY",40.791,-73.966,"Thu 3-6, Sun 9-12",19,0.687176239094697
+601,"Musick-Occhiuto, Fanio","Stafford","VA",NA,NA,"Fri 9-12, Sun 6-9, Sat 9-12",18,0.669689186266623
+602,"Yousaf, Elaine","Houston","TX",NA,NA,"Sun 9-12, Sat 6-9",16,0.537816959666088
+603,"Marker, Kaylee","Belmont","OH",40,-81,"Sun 12-3, Sat 6-9, Thu 3-6",23,0.573581611504778
+604,"Perez Jr, Dania","Austin","TX",NA,NA,"Sun 12-3, Mon 12-3",16,0.978788824984804
+605,"Ficek, Donita","Sugar Hill","NH",44.22,-71.8,"Fri 12-3, Sat 12-3",22,0.513505475828424
+606,"el-Sawaya, Shaafia","Glendale","AZ",33.69,-112.17,"Thu 3-6, Tue 3-6, Sun 6-9",21,0.847819745889865
+607,"Romley, Jeremiah","Barker","TX",NA,NA,"Thu 6-9, Fri 12-3, Sun 12-3",22,0.599593376507983
+608,"Ortivez, Enrique","Wabash","IN",40.8,-85.8,"Wed 3-6, Mon 6-9",25,0.948815590352751
+609,"Martin, Benjamin","Gainesville","NY",42.6,-78.2,"Tue 12-3, Sat 6-9",29,0.78032829426229
+610,"Trujillo, Luis","Potomac","MD",39,-77.2,"Mon 12-3, Sun 3-6",27,0.965098413871601
+611,"Denning, Alexis","Goodville","PA",NA,NA,"Tue 9-12, Fri 9-12, Thu 12-3",15,0.813686524401419
+612,"Brand, Vincent","Brownsdale","MN",43.74,-92.84,"Mon 9-12, Sun 9-12",22,0.981619006022811
+613,"Vallie, Cherokee","Westfield","NJ",40.65,-74.35,"Sun 6-9, Wed 3-6",10,0.731086023966782
+614,"el-Uddin, Nazeeha","New Brunswick","NJ",NA,NA,"Tue 6-9, Fri 12-3, Sun 6-9",11,0.979613474570215
+615,"Gonzalez, Jade","Maricopa","CA",34.8,-119.4,"Fri 12-3, Tue 3-6",22,0.892768860911019
+616,"el-Shareef, Raaniya","Rochester","NY",43.13,-77.74,"Wed 3-6, Sat 3-6",11,0.854785104980692
+617,"Herrera, Mikaela","Northwood","OH",41.6,-83.49,"Sun 3-6, Wed 9-12",21,0.866976400488056
+618,"Smaldone, Jolene","Jefferson","ME",44.2,-69.5,"Fri 9-12, Tue 9-12",10,0.649649608298205
+619,"Apodaca, Brittany","Boron","CA",NA,NA,"Wed 6-9, Mon 6-9, Sat 12-3",14,0.521352640353143
+620,"Ho, Wailana","Alsip","IL",41.67,-87.74,"Tue 6-9, Fri 9-12",14,0.638095805421472
+621,"Gadison, Kayla","Topinabee","MI",45.487,-84.588,"Sat 9-12, Sat 3-6, Tue 12-3",15,0.673270525061525
+622,"Bodkin, Aaron","Stahlstown","PA",40.14,-79.31,"Mon 9-12, Sat 12-3, Sat 6-9",19,0.796099575120024
+623,"Saiz, Luis","Pikeville","KY",37.5,-82.5,"Wed 3-6, Wed 3-6, Fri 3-6",23,0.533597560483031
+624,"Wisniewski, Elizabeth","Jessieville","AR",34.7,-93.2,"Tue 6-9, Mon 9-12",16,0.798448477871716
+625,"Westphal, Franklin","Equinunk","PA",41.8,-75.2,"Sun 9-12, Fri 12-3, Thu 3-6",20,0.903057831805199
+626,"al-Begum, Tahiyya","Granite City","IL",38.73,-90.12,"Tue 9-12, Wed 6-9",26,0.615101006813347
+627,"al-Rassi, Faraj","North Sutton","NH",43.37,-71.94,"Sun 3-6, Wed 3-6, Sat 6-9",10,0.505058265291154
+628,"Torres Silva, Martin","Efland","NC",36.1,-79.2,"Thu 12-3, Fri 12-3",23,0.750618761405349
+629,"Vanderwoude, Danny","Cross","SC",33.3,-80.2,"Sun 12-3, Sun 9-12, Fri 12-3",21,0.665400013094768
+630,"Bonilla, Isaiah","Sanford","CO",37.2,-105.6,"Sun 9-12, Thu 6-9",30,0.582989215152338
+631,"Naranjo, Brittany","Maple Falls","WA",48.95,-122.08,"Tue 6-9, Sun 6-9, Sun 12-3",22,0.83900162007194
+632,"Lor, Mckenzie","Bon Wier","TX",30.7,-93.7,"Sat 3-6, Sat 9-12",10,0.772671939339489
+633,"Caster, Samantha","Tutor Key","KY",37.87,-82.75,"Thu 3-6, Wed 6-9",12,0.584311748272739
+634,"al-Syed, Nazeeha","Williamstown","PA",40.59,-76.63,"Sun 3-6, Sat 9-12",18,0.801858736784197
+635,"el-Mir, Thaaqib","Hacker Valley","WV",38.7,-80.4,"Sun 3-6, Wed 9-12",13,0.750400620512664
+636,"Montoya, Isaac","Lake Peekskill","NY",41.34,-73.88,"Tue 6-9, Fri 3-6",29,0.620956863742322
+637,"Kittrell, Casey","Trabuco Canyon","CA",33.6,-117.5,"Thu 9-12, Fri 9-12, Wed 3-6",11,0.507951578474604
+638,"Law, Alycia","Hardin","KY",36.8,-88.2,"Sat 9-12, Fri 9-12, Sat 12-3",24,0.665655834018253
+639,"Trotter, Andres","Elk Falls","KS",37.37,-96.2,"Sat 6-9, Sat 3-6, Thu 6-9",19,0.812966579804197
+640,"Garcia, Christian","Whitefish","MT",48.5,-114.6,"Mon 12-3, Fri 12-3, Sun 12-3",15,0.506192987551913
+641,"el-Halim, Muhjar","Scales Mound","IL",42.5,-90.3,"Sun 6-9, Mon 3-6, Fri 12-3",30,0.807422562385909
+642,"al-Reza, Shaqeeqa","Dumas","AR",33.8,-91.4,"Sun 12-3, Sun 9-12",15,0.914942980976775
+643,"Eaton, Lyndsay","Kinsey","MT",46.6,-105.8,"Sat 3-6, Fri 9-12",20,0.560258615412749
+644,"Foster, Nicolas","Ocala","FL",29.12,-82.33,"Wed 6-9, Tue 9-12",22,0.52408976026345
+645,"Probst, Krystie","Hallie","KY",37.07,-83.01,"Mon 9-12, Sat 6-9",23,0.920921122073196
+646,"el-Mahdi, Sadeeqa","Vandalia","OH",39.89,-84.23,"Tue 6-9, Sun 6-9, Mon 3-6",13,0.537678526714444
+647,"Sander, Ryan","Columbia","SC",NA,NA,"Fri 9-12, Thu 9-12, Mon 6-9",11,0.678589146235026
+648,"Mengesha, Nicole","Heber Springs","AR",NA,NA,"Sun 3-6, Thu 3-6",13,0.708520159358159
+649,"Norman, Jerzie","Gladstone","NM",36.3,-103.8,"Thu 9-12, Wed 12-3, Mon 3-6",24,0.882561789709143
+650,"Simmons, Aspen","Charlotte","NC",35.05,-80.81,"Wed 9-12, Tue 9-12",26,0.774384137243032
+651,"Vasquez, Navar","San Juan","PR",18.39,-66.09,"Wed 12-3, Tue 6-9",15,0.795925053884275
+652,"Israel, Samantha","Waverly","IA",42.8,-92.4,"Thu 9-12, Tue 3-6, Sat 3-6",10,0.657138322712854
+653,"Andrade, Reyna","Protection","KS",37.2,-99.5,"Wed 12-3, Tue 12-3, Sat 3-6",30,0.904680081643164
+654,"Hernandez, Jacqueline","Oklahoma City","OK",NA,NA,"Mon 9-12, Sun 9-12",14,0.559666613349691
+655,"Rocha, Alexandro","Paoli","CO",40.613,-102.473,"Sat 6-9, Fri 6-9",10,0.750919315498322
+656,"Johnson, Michelle","Houston","TX",29.62,-95.49,"Thu 3-6, Sun 6-9",22,0.870940486784093
+657,"el-Mady, Husniyya","Thorndale","TX",30.6,-97.2,"Sat 3-6, Wed 6-9, Sun 9-12",10,0.795951854786836
+658,"Ordonez-Garcia, Anthony","Fresno","CA",NA,NA,"Tue 9-12, Sat 12-3",20,0.620312150218524
+659,"Kuch, Brandon","New Auburn","WI",45.2,-91.5,"Thu 6-9, Fri 9-12",28,0.710513763013296
+660,"el-Emami, Farajallah","Donna","TX",26.2,-98.1,"Sat 6-9, Wed 6-9, Sun 12-3",29,0.739580873050727
+661,"Lobato, Jimmy","Fieldale","VA",36.71,-79.97,"Sat 12-3, Fri 6-9, Fri 6-9",12,0.561051664873958
+662,"Hodge, Rebecca","Saint Louis","MO",38.59,-90.32,"Sun 3-6, Sat 9-12, Sun 3-6",15,0.598000685451552
+663,"al-Hoda, Ziyaad","Tylersport","PA",NA,NA,"Tue 6-9, Thu 3-6, Thu 9-12",26,0.700208227150142
+664,"Velasco, Alexis","Creston","WA",47.7,-118.5,"Tue 12-3, Tue 9-12",27,0.833049758570269
+665,"Jimenez, Osvaldo","Hayes","SD",44.6,-100.8,"Thu 6-9, Sat 12-3, Thu 9-12",10,0.540784317418002
+666,"Ibarra, Alyssa","Elnora","IN",38.86,-87.1,"Sat 3-6, Thu 9-12",16,0.590669604251161
+667,"Garnier, Mia","Reading","VT",43.5,-72.58,"Wed 12-3, Wed 6-9, Tue 6-9",27,0.826963218627498
+668,"Pace-Dziekonski, Faith","Santa Monica","CA",34.03,-118.47,"Tue 3-6, Thu 9-12, Mon 3-6",12,0.761715220287442
+669,"al-Tabet, Munjid","Smyrna","GA",NA,NA,"Mon 6-9, Mon 12-3, Wed 3-6",22,0.862552373670042
+670,"Williams, Joseiva","Wilber","NE",40.5,-97,"Sun 6-9, Sun 12-3",29,0.55478588596452
+671,"el-Hariri, Shafeeq","Wentzville","MO",38.8,-90.9,"Tue 9-12, Tue 6-9, Mon 6-9",27,0.972290948382579
+672,"Gee, Abigail","Woodstock","GA",34.13,-84.57,"Tue 6-9, Wed 9-12, Fri 9-12",26,0.552121475222521
+673,"Stamus, Grace","Howe","IN",41.7,-85.4,"Sat 3-6, Mon 12-3, Wed 6-9",17,0.626301760668866
+674,"Ynostrosa, Sergio","Colchester","VT",NA,NA,"Thu 12-3, Tue 3-6",20,0.840589076746255
+675,"Chuong, Hitomi","Nemacolin","PA",39.878,-79.927,"Wed 3-6, Wed 6-9, Mon 3-6",24,0.709127047332004
+676,"Kellogg, Brandi","Lorman","MS",31.8,-91.1,"Sat 12-3, Fri 3-6",26,0.987283339258283
+677,"Villalobos, Cesar","Waynetown","IN",40.1,-87.1,"Sun 9-12, Thu 6-9",10,0.545523015083745
+678,"Hawk, Kaley","Clements","MN",44.38,-95.05,"Fri 12-3, Mon 3-6, Wed 9-12",19,0.615286888554692
+679,"Hawkins, Tyler","San Francisco","CA",NA,NA,"Wed 6-9, Fri 12-3, Mon 3-6",12,0.781189134228043
+680,"Dunning, Kelsi","Petoskey","MI",45.3,-84.9,"Sun 6-9, Wed 12-3",26,0.985622581909411
+681,"Ogle, Jenberu","Cleveland","OH",41.53,-81.53,"Tue 9-12, Thu 3-6",25,0.699412556015886
+682,"Whitehorse, Alysia","Madawaska","ME",47.32,-68.31,"Wed 6-9, Wed 12-3, Sun 9-12",11,0.835685019614175
+683,"Botello, Juan","Hines","MN",47.7,-94.6,"Sat 12-3, Sun 6-9, Fri 9-12",28,0.772597619565204
+684,"Manganello, Tu","Bryants Store","KY",36.75,-83.89,"Tue 9-12, Sun 12-3, Fri 3-6",18,0.832726033753715
+685,"Martinez, Leioka","Hale","MO",39.6,-93.4,"Sat 12-3, Fri 3-6, Mon 6-9",20,0.997623616247438
+686,"Lepage, Megan","East Chatham","NY",42.4,-73.5,"Wed 6-9, Wed 12-3",29,0.565593128674664
+687,"Sengdara, Ryan","Battle Creek","MI",NA,NA,"Fri 6-9, Sun 6-9",10,0.905359284719452
+688,"Castorena, Juanito","Tonto Basin","AZ",34,-111.2,"Fri 3-6, Mon 9-12, Mon 3-6",16,0.585023291525431
+689,"el-Matar, Zaid","Argonne","WI",45.7,-88.8,"Mon 3-6, Thu 6-9, Sat 9-12",13,0.597933982964605
+690,"Ramirez, Michael","Holt","MO",39.44,-94.35,"Sat 3-6, Sun 6-9",15,0.775047834962606
+691,"Hopkins, Jonah","Cartersville","GA",34.2,-84.8,"Thu 12-3, Wed 12-3",30,0.691265099099837
+692,"Villa-Jacobo, Destinee","Allentown","NJ",40.15,-74.55,"Sun 3-6, Sun 3-6, Fri 9-12",13,0.843743923585862
+693,"al-Rassi, Haamid","Porters Sideling","PA",NA,NA,"Mon 12-3, Sat 6-9, Sun 3-6",17,0.809621921507642
+694,"Garcia, Sarah","San Francisco","CA",NA,NA,"Mon 12-3, Thu 12-3",27,0.923265057615936
+695,"Flores, Christian","Clarksburg","PA",40.52,-79.35,"Wed 12-3, Mon 3-6",24,0.745137894176878
+696,"Maiden, Joseph","Washingtonville","PA",41.052,-76.676,"Mon 9-12, Fri 6-9",19,0.698805223451927
+697,"Powers, Cordero","Punta Gorda","FL",26.82,-81.97,"Mon 6-9, Mon 6-9, Wed 9-12",25,0.907334589865059
+698,"el-Huda, Rayyaan","Chicago","IL",NA,NA,"Thu 6-9, Sun 3-6",22,0.892768453108147
+699,"Valentine, Alysha","Donalsonville","GA",31,-84.9,"Sat 9-12, Fri 12-3, Thu 9-12",23,0.613715653191321
+700,"Graf, John","Wernersville","PA",40.34,-76.09,"Fri 9-12, Tue 3-6, Sat 9-12",18,0.755511976312846
+701,"Ramirez, Luis","Mountain Pine","AR",34.59,-93.15,"Sun 12-3, Wed 12-3, Wed 12-3",22,0.571169707458466
+702,"Collins, Tashavay","Ahmeek","MI",47.31,-88.4,"Wed 9-12, Sun 6-9, Tue 6-9",11,0.917263229959644
+703,"Morquecho, Taylor","Hope","ID",48.3,-116.3,"Tue 3-6, Fri 3-6, Tue 12-3",25,0.779746102285571
+704,"Hatton, Samantha","Montgomery","AL",NA,NA,"Thu 12-3, Fri 12-3, Thu 12-3",29,0.803138980525546
+705,"Xatkoun, Zhaoxian","Arkadelphia","AR",34.1,-93.1,"Mon 9-12, Wed 12-3",19,0.813914261874743
+706,"el-Safi, Haala","Bear River City","UT",41.61,-112.13,"Wed 6-9, Mon 12-3, Sun 3-6",26,0.743876003776677
+707,"Kumagai, Kai","Pittsboro","NC",35.8,-79.2,"Fri 9-12, Tue 9-12, Fri 12-3",29,0.55311542423442
+708,"Preap, Micheal","Rossville","GA",34.94,-85.27,"Sat 12-3, Wed 6-9, Mon 6-9",19,0.553415792412125
+709,"Zerom, Terran","Austin","MN",43.7,-93,"Thu 6-9, Sat 12-3",19,0.995539198280312
+710,"Henderson, Andrea","Bullhead City","AZ",35.15,-114.52,"Tue 3-6, Thu 9-12, Wed 6-9",29,0.89740299154073
+711,"Jones, Kyle","Bedford","WY",43,-110.8,"Wed 6-9, Wed 12-3",12,0.634560552891344
+712,"Roubideaux, Raymond","Carbon","TX",32.2,-98.8,"Mon 6-9, Sun 6-9",26,0.920261324034072
+713,"Kekahbah, Laurissa","Pottstown","PA",40.26,-75.62,"Sat 9-12, Tue 12-3",20,0.943888208828866
+714,"Mccarthy, Heejae","South Byron","NY",NA,NA,"Sat 6-9, Tue 9-12, Sat 3-6",13,0.717883697478101
+715,"al-Farah, Ikram","Spring City","PA",40.17,-75.61,"Tue 3-6, Mon 9-12",18,0.805090519483201
+716,"Benipayo, Alfredo","Castro Valley","CA",37.72,-122.08,"Sun 12-3, Wed 9-12, Tue 9-12",25,0.930968429194763
+717,"Nading, Phillip","Madison","WI",43.07,-89.46,"Mon 6-9, Fri 12-3, Mon 3-6",25,0.709623259608634
+718,"Bolte, Jasmine","Glendale","CA",34.18,-118.27,"Tue 3-6, Wed 3-6",10,0.502602658933029
+719,"Thompson, Casey","Young America","MN",NA,NA,"Tue 6-9, Tue 12-3, Mon 3-6",13,0.923277970287018
+720,"Rivera-Borrego, Samuel","Beaverton","OR",NA,NA,"Sat 6-9, Fri 12-3, Sat 3-6",19,0.916537820128724
+721,"Warner, Jonathan","Sacramento","CA",38.52,-121.53,"Tue 3-6, Sat 6-9",24,0.99924213218037
+722,"Davis, Damien","Shandon","OH",NA,NA,"Mon 3-6, Sun 9-12, Sun 3-6",14,0.803252852987498
+723,"al-Hashmi, Zain","Richland","MO",37.8,-92.4,"Fri 3-6, Mon 6-9",12,0.779109649243765
+724,"Hogan, Ian","Humansville","MO",37.8,-93.6,"Mon 12-3, Mon 6-9, Sat 3-6",18,0.895635535940528
+725,"al-Ramin, Rif'a","Fair Haven","NY",43.3163,-76.7046,"Fri 12-3, Thu 12-3, Thu 6-9",20,0.864502685028128
+726,"Avrin, Alexanda","Idaho Falls","ID",43.43,-112.01,"Sun 3-6, Fri 9-12",14,0.648963279672898
+727,"Sidhu, Chad","Lucas","KY",36.85,-86.05,"Wed 3-6, Sun 12-3, Thu 6-9",13,0.579038936994039
+728,"el-Nazar, Naqiyya","Kinder","LA",30.5,-92.9,"Wed 12-3, Sun 6-9",24,0.830420458223671
+729,"Mena, Isabel","Sarasota","FL",NA,NA,"Sun 12-3, Mon 6-9",28,0.847531368606724
+730,"Vandenbark, Shane","Ferrysburg","MI",NA,NA,"Tue 12-3, Wed 12-3, Mon 3-6",26,0.7814408717677
+731,"el-Hamad, Sidqi","Des Plaines","IL",NA,NA,"Thu 9-12, Wed 9-12",27,0.673613958177157
+732,"Mclean, Auna","Savannah","GA",32.18,-81.18,"Mon 9-12, Mon 3-6, Tue 12-3",27,0.930208068341017
+733,"Kapule, Jennifer","Honaunau","HI",19.44,-155.89,"Sat 3-6, Thu 3-6, Sun 3-6",23,0.982927196193486
+734,"Palomino, Gabriela","Anchorage","AK",61.218,-149.858,"Tue 3-6, Sun 6-9",18,0.980772028909996
+735,"Lumpkin, Rachel","Yukon","PA",40.22,-79.7,"Sun 6-9, Tue 3-6",18,0.511422526207753
+736,"Jones, Justin","Nogal","NM",33.5,-105.7,"Sat 3-6, Sun 12-3, Thu 3-6",21,0.746282022562809
+737,"Rape, Sarah","Port Sulphur","LA",29.5,-89.8,"Wed 12-3, Sat 12-3",20,0.502853182493709
+738,"Born, Michelle","Farber","MO",39.27,-91.58,"Thu 6-9, Fri 6-9",18,0.817678521503694
+739,"Kozel, Briana","Long Beach","CA",33.76,-118.2,"Thu 6-9, Mon 12-3",30,0.866436847951263
+740,"el-Farman, Mujahid","Oakland","CA",37.81,-122.24,"Tue 12-3, Sun 3-6",16,0.715169138740748
+741,"Byrd, Marcus","Bolivar","NY",42.1,-78.2,"Wed 3-6, Sat 3-6, Thu 3-6",23,0.67308463063091
+742,"Dulanto, Tanaya","Rupert","VT",NA,NA,"Wed 12-3, Sun 6-9, Fri 3-6",11,0.680796021944843
+743,"Mayes, Denise","Malvern","AR",34.3,-92.9,"Thu 3-6, Tue 9-12, Mon 6-9",27,0.802408402203582
+744,"el-Sharif, Dhareef","Silver Spring","MD",NA,NA,"Mon 9-12, Tue 9-12",30,0.686187723185867
+745,"el-Islam, Firdaus","Crawford","CO",38.6,-107.7,"Fri 6-9, Thu 3-6, Mon 3-6",13,0.947573803714477
+746,"Dinsmore, Kayle","Stone Mountain","GA",33.82,-84.11,"Mon 9-12, Fri 9-12, Mon 12-3",12,0.53086083184462
+747,"Carey, Demond","Hammond","WI",45,-92.5,"Tue 6-9, Mon 3-6, Sun 9-12",28,0.847078329883516
+748,"al-Harron, Hamsa","Young America","MN",NA,NA,"Wed 3-6, Wed 6-9, Thu 6-9",10,0.665010772761889
+749,"Criswell, Ayana","Cherry Point","NC",34.893,-76.898,"Tue 6-9, Sat 3-6, Mon 12-3",18,0.627452258020639
+750,"Heffelman, Christian","Garner","KY",37.36,-82.9,"Thu 6-9, Thu 6-9, Wed 6-9",23,0.624476679717191
+751,"Verner, Arabianus","Burnsville","NC",35.9,-82.3,"Sat 3-6, Sat 3-6, Wed 6-9",14,0.53234647703357
+752,"Tripathi, Hanna","Port Washington","NY",40.84,-73.69,"Fri 12-3, Fri 3-6",17,0.591709407162853
+753,"Cisco, Veronica","Cypress","FL",30.7,-85.2,"Mon 9-12, Mon 9-12",20,0.952324839658104
+754,"al-Safi, Kameel","Great Mills","MD",38.24,-76.49,"Sun 9-12, Tue 3-6, Mon 9-12",28,0.767415643669665
+755,"Brandenburger, Brittany","Deloit","IA",42.11,-95.32,"Mon 12-3, Sun 9-12",24,0.50846643303521
+756,"Ray, Brennen","Morris Run","PA",41.679,-77.017,"Mon 9-12, Thu 12-3, Fri 9-12",11,0.514537793234922
+757,"Omar, Tinaj","Homestead","FL",25.48,-80.41,"Sat 6-9, Mon 12-3",25,0.844337343121879
+758,"el-Saadeh, Mutasim","Bethany","LA",32.38,-94,"Mon 3-6, Mon 3-6, Tue 3-6",25,0.744044569553807
+759,"Grimes, Terrell","Dickinson","TX",29.5,-95,"Thu 9-12, Mon 9-12, Wed 9-12",12,0.830784127581865
+760,"Aschenbrenner, Rebecca","Boyers","PA",NA,NA,"Tue 12-3, Wed 9-12",30,0.504727312596515
+761,"Feher-Peiker, Hannah","Denver","CO",39.75,-105,"Fri 9-12, Sun 12-3, Sun 12-3",23,0.539542229380459
+762,"el-Asmar, Sharaf","Macdona","TX",NA,NA,"Sat 12-3, Thu 6-9, Sat 6-9",16,0.987670077942312
+763,"el-Dawood, Hiwaaya","Woodbury Heights","NJ",39.82,-75.15,"Wed 6-9, Tue 12-3",25,0.585121753974818
+764,"el-Kabir, Hamdoona","Robins","IA",42.08,-91.67,"Sun 3-6, Sat 12-3",11,0.730735251330771
+765,"Schwab, Trevor","Davisville","WV",39.21,-81.46,"Tue 12-3, Wed 9-12",13,0.591696583665907
+766,"Abebe, Lonnie","Amherst","TX",34,-102.5,"Thu 12-3, Wed 3-6, Sat 9-12",25,0.829111458617263
+767,"Gaffin, Jamilia","Le Roy","IL",40.3,-88.8,"Mon 3-6, Thu 6-9, Mon 3-6",13,0.617837950005196
+768,"Thapa, Matthew","Franklin","KY",NA,NA,"Tue 3-6, Tue 12-3",13,0.762029465986416
+769,"Wells, Maryen","Detroit","MI",NA,NA,"Tue 12-3, Tue 12-3, Wed 12-3",19,0.888129746774212
+770,"al-Hashemi, Amaanullah","Armuchee","GA",34.5,-85.2,"Wed 9-12, Fri 3-6, Wed 3-6",19,0.568134949426167
+771,"Nan, Perri","Hickman","KY",36.6,-89.3,"Thu 3-6, Fri 12-3",11,0.870402351487428
+772,"Sharpe, Krislynn","Port Angeles","WA",48,-123.3,"Sun 3-6, Wed 9-12",12,0.985292527358979
+773,"Etter, Jasmine","Davis","SD",43.27,-96.98,"Fri 3-6, Thu 9-12",24,0.780289533315226
+774,"al-Sinai, Fikriyya","Lomita","CA",33.79,-118.32,"Thu 6-9, Tue 6-9, Wed 6-9",30,0.892231172299944
+775,"Rettig, Robyn","Lone Star","TX",32.92,-94.7,"Sun 3-6, Wed 9-12",17,0.671215660287999
+776,"Vasquez, Adrena","Welcome","MN",43.7,-94.6,"Wed 3-6, Tue 3-6",28,0.742088025202975
+777,"Chavez, Marcela","Brookville","OH",39.8,-84.4,"Fri 12-3, Wed 3-6, Mon 3-6",30,0.944886515149847
+778,"Prout, Jimmy","Rothville","MO",39.66,-93.06,"Thu 9-12, Tue 12-3",18,0.931644305936061
+779,"Bernal, Daniel","Madison","WI",NA,NA,"Sat 6-9, Sun 6-9, Tue 3-6",24,0.969846736406907
+780,"Kemp, Tevin","Montfort","WI",43,-90.4,"Mon 3-6, Tue 3-6",22,0.851144440821372
+781,"Portugal, Genesis","Forest Hill","WV",37.56,-80.81,"Tue 3-6, Sat 9-12, Thu 12-3",10,0.718037394341081
+782,"Flores Flores, Angelina","Dallardsville","TX",NA,NA,"Wed 3-6, Sat 6-9",16,0.708666945341974
+783,"Mitchell, Tori","Abilene","TX",NA,NA,"Sun 3-6, Sun 6-9, Thu 12-3",21,0.888529079500586
+784,"Nguyen, Josefa","Bryant Pond","ME",44.4,-70.6,"Wed 12-3, Sun 9-12",24,0.661662989296019
+785,"Nguyen, Luke","Greenville","MS",33.5,-91.1,"Sat 12-3, Wed 6-9",24,0.936046407208778
+786,"el-Jamal, Abdul Waahid","Nazlini","AZ",36.1,-109.5,"Fri 12-3, Fri 3-6",21,0.722127069719136
+787,"Lestenkof, Kami","Suffolk","VA",36.7,-76.6,"Mon 9-12, Thu 12-3, Tue 12-3",23,0.557926262146793
+788,"Garbani, Marcus","Cassville","MO",36.7,-93.8,"Mon 12-3, Sat 6-9",18,0.896205145982094
+789,"Vigil, Jakoby","Los Banos","CA",37,-120.9,"Thu 6-9, Sat 12-3",26,0.930190889164805
+790,"Finkenbinder, Phillip","Jetson","KY",NA,NA,"Mon 3-6, Wed 9-12, Thu 6-9",30,0.934942849795334
+791,"al-Nazir, Saqr","Portland","OR",45.5,-122.73,"Wed 9-12, Fri 3-6, Fri 9-12",26,0.897253556642681
+792,"Mix, Toby","Las Vegas","NV",35.99,-115.15,"Tue 9-12, Fri 3-6",29,0.805498181958683
+793,"Kostoff, Kyle","Chicota","TX",NA,NA,"Mon 3-6, Sat 12-3, Sat 9-12",22,0.833836704143323
+794,"al-Selim, Mus'ab","Fort Mohave","AZ",NA,NA,"Thu 9-12, Sun 3-6",15,0.86833900003694
+795,"el-Shams, Jumail","Smithboro","IL",38.9,-89.32,"Tue 3-6, Sun 9-12",10,0.739107153029181
+796,"Trujillo, Miranda","Ringgold","VA",36.62,-79.28,"Sun 3-6, Sun 3-6, Sat 12-3",12,0.834277149988338
+797,"Kim, Han Mi","Sugar Grove","VA",36.8,-81.4,"Sun 3-6, Mon 3-6, Fri 3-6",30,0.89542128983885
+798,"Neal, Randi","Miller City","OH",41.103,-84.132,"Sat 6-9, Fri 12-3, Fri 3-6",19,0.615037894924171
+799,"el-Mowad, Mahdi","Akron","OH",NA,NA,"Mon 3-6, Sat 9-12, Tue 9-12",10,0.765448475023732
+800,"Misa, Yen","Taopi","MN",43.57,-92.64,"Wed 6-9, Tue 6-9, Wed 9-12",17,0.529299818794243
+801,"Volk, Stefanie","Starbuck","WA",46.5,-118.1,"Tue 9-12, Tue 3-6, Sun 6-9",24,0.542295120772906
+802,"el-Haq, Mu'mina","Oak Harbor","WA",48.34,-122.67,"Wed 6-9, Wed 9-12",20,0.792665915796533
+803,"al-Rahaman, Taaliba","Apple Valley","CA",34.6,-117.1,"Thu 12-3, Tue 3-6, Fri 6-9",15,0.934578090324067
+804,"Bough, Halen","Tolland","CT",41.88,-72.36,"Wed 6-9, Fri 3-6",12,0.932678163866512
+805,"Craig, Courtney","Hartsville","SC",34.4,-80.1,"Fri 3-6, Thu 9-12",26,0.696228909771889
+806,"Unruh, Perla","Walcott","ND",46.5,-96.9,"Mon 12-3, Sun 12-3",21,0.745267722988501
+807,"Bodenhamer, Dylan","Wilsonville","IL",39.0713,-89.8542,"Fri 12-3, Sun 9-12, Wed 9-12",20,0.555134687339887
+808,"Deherrera, David","Watseka","IL",40.8,-87.7,"Thu 9-12, Sat 3-6",17,0.967741655884311
+809,"Weinberg, Charles","Fort Wayne","IN",41.1,-85.19,"Tue 3-6, Thu 9-12",19,0.984231831971556
+810,"Buted, Crystal","Homosassa","FL",28.78,-82.61,"Fri 9-12, Sat 12-3",22,0.838413168094121
+811,"Bhattarai, Justin","Toledo","OH",NA,NA,"Mon 9-12, Wed 6-9, Sun 6-9",26,0.617475564708002
+812,"el-Zakaria, Kaleem","South Wilmington","IL",41.173,-88.276,"Wed 9-12, Tue 6-9, Sat 6-9",12,0.744063267949969
+813,"el-Toure, Nabeela","Morgan Mill","TX",NA,NA,"Sat 6-9, Sat 12-3",30,0.551859501050785
+814,"Sale, Michael","Calipatria","CA",33.2,-115.5,"Tue 12-3, Sat 12-3, Sat 6-9",11,0.750216771266423
+815,"Saiganesh, Amanda","Willisville","IL",37.98,-89.55,"Thu 12-3, Thu 12-3, Mon 9-12",12,0.777356940088794
+816,"Price, Shane","Perryville","KY",37.65,-84.98,"Wed 12-3, Wed 6-9",12,0.577153696911409
+817,"Knoll, Tyler","Wallingford","CT",41.46,-72.81,"Mon 3-6, Mon 3-6, Sat 3-6",12,0.576172290253453
+818,"Fitzsimmons, Melissa","Great Neck","NY",NA,NA,"Wed 9-12, Tue 12-3",20,0.96327929769177
+819,"Aghanoury, Selina","Port Angeles","WA",48,-123.8,"Thu 3-6, Mon 9-12",23,0.534254541387782
+820,"el-Ramadan, Wadha","Montreal","MO",38,-92.6,"Sat 9-12, Sat 12-3",27,0.945631467271596
+821,"al-Assaf, Suhaib","Twin Lakes","MN",43.56,-93.45,"Fri 6-9, Sun 9-12",26,0.935643518459983
+822,"Correa, Chennelle","Millwood","WV",38.89,-81.83,"Fri 3-6, Sun 9-12, Tue 9-12",13,0.628158395760693
+823,"el-Sharif, Kameela","New Orleans","LA",NA,NA,"Fri 6-9, Fri 9-12",19,0.521400588215329
+824,"Wielga, Nevin","Immokalee","FL",26.2,-81.2,"Fri 3-6, Tue 6-9",14,0.905217605526559
+825,"Hawkins, Victorria","Hokah","MN",43.72,-91.37,"Thu 3-6, Fri 9-12",13,0.71808637981303
+826,"al-Fares, Miqdaam","Columbia","SC",NA,NA,"Sun 12-3, Mon 3-6, Tue 3-6",12,0.871162488590926
+827,"Robinson, Deshawn Joseph","Minneapolis","MN",44.82,-93.38,"Sun 9-12, Wed 6-9, Mon 3-6",18,0.906232630601153
+828,"Hicks, Joshua","Rahway","NJ",40.61,-74.28,"Sat 6-9, Fri 12-3",23,0.621921327197924
+829,"Mccaffrey, Danelle","Teec Nos Pos","AZ",36.7,-109.5,"Sun 9-12, Sun 6-9",20,0.509161687106825
+830,"Lee, John","New York","NY",NA,NA,"Sun 12-3, Fri 3-6, Tue 3-6",17,0.690002508810721
+831,"Noor, Malia","Athens","MI",42.09,-85.22,"Sun 3-6, Tue 9-12, Tue 9-12",18,0.868812344036996
+832,"Jackson, Kianna","Gaylord","MI",45,-84.6,"Tue 12-3, Wed 12-3, Mon 9-12",20,0.627099304110743
+833,"Dehn, Orson","Washington","DC",NA,NA,"Sat 3-6, Tue 12-3, Sat 3-6",28,0.695255643920973
+834,"Rojas, Martin","San Jose","CA",37.24,-121.84,"Thu 12-3, Sun 12-3",24,0.86594221170526
+835,"Chen, Jeremy","Saint Petersburg","FL",NA,NA,"Thu 6-9, Wed 12-3, Sun 12-3",14,0.706624394166283
+836,"Munoz, Emmanuel","Lovejoy","IL",38.62,-90.13,"Wed 9-12, Mon 3-6, Sun 3-6",25,0.935245069675148
+837,"Rambo, Mathew","Clinton","MS",NA,NA,"Fri 9-12, Sat 3-6",13,0.562494404031895
+838,"Bigthumb, Bruce","Richmond","VA",NA,NA,"Fri 6-9, Fri 3-6",11,0.877113953465596
+839,"al-Salama, Rashaa","Lindon","UT",40.34,-111.72,"Sun 12-3, Sat 9-12",11,0.630948439822532
+840,"Akhtar, Caitlin","Baton Rouge","LA",NA,NA,"Sat 6-9, Wed 9-12",14,0.768897098256275
+841,"Sims-Cummings, Olivia","Romney","IN",40.2,-86.9,"Wed 9-12, Wed 12-3",29,0.607588487560861
+842,"al-Salih, Sirajuddeen","Rayville","MO",39.4,-94.1,"Mon 12-3, Thu 12-3, Sun 3-6",12,0.505471063079312
+843,"Wang, Leina","Mc Alisterville","PA",40.6,-77.3,"Fri 9-12, Sun 3-6",23,0.71425848279614
+844,"Miller, Aranda","Shenandoah","PA",40.82,-76.21,"Fri 9-12, Sat 9-12",10,0.850719478563406
+845,"Johnson, Caitlin","Logan","IA",41.6,-95.8,"Fri 3-6, Fri 6-9, Thu 3-6",17,0.592763380496763
+846,"Harris, Shaquin","Williamson","WV",37.7,-82.3,"Sat 6-9, Fri 12-3",29,0.518967211362906
+847,"Chong, Maui","Michigantown","IN",40.35,-86.37,"Tue 3-6, Mon 3-6, Sat 3-6",11,0.776171599514782
+848,"al-Hatem, Insaaf","Boston","MA",42.361,-71.06,"Sun 9-12, Mon 6-9",26,0.839241214795038
+849,"Pak, Andy","Pinehurst","MA",NA,NA,"Mon 6-9, Thu 9-12, Sun 3-6",27,0.549643016653135
+850,"Betts, Stephanie","Dexter","GA",32.42,-83.05,"Mon 12-3, Sat 3-6, Sun 3-6",22,0.837475751526654
+851,"Trujillo, Deven","Clara","MS",NA,NA,"Sat 12-3, Thu 3-6",10,0.519295827718452
+852,"Kascak, Jennifer","Fountain Inn","SC",34.7,-82.2,"Fri 3-6, Sat 12-3, Thu 3-6",28,0.872890119557269
+853,"Ruff, Joshua","Jeanerette","LA",29.9,-91.5,"Sun 12-3, Mon 3-6, Thu 12-3",15,0.828107777051628
+854,"Ramirez, Ashley","Perryopolis","PA",40.07,-79.76,"Thu 6-9, Sun 12-3",11,0.580199205782264
+855,"Llewellyn, Nicole","Herndon","KY",36.7,-87.6,"Sat 6-9, Thu 9-12, Tue 12-3",19,0.764138570637442
+856,"Place, Payton","Bivalve","MD",38.29,-75.89,"Tue 9-12, Wed 9-12",24,0.991218874114566
+857,"al-Tawil, Taahir","Murfreesboro","TN",35.8,-86.49,"Tue 9-12, Fri 6-9, Thu 9-12",17,0.590283860918134
+858,"al-Abdul, Muneeb","Ormond Beach","FL",29.34,-81.06,"Thu 9-12, Thu 3-6, Sat 12-3",27,0.726664286339656
+859,"Xiang, Rebecca","Dinwiddie","VA",37,-77.6,"Fri 3-6, Sun 3-6",19,0.939597026328556
+860,"al-Abu, Haazim","Sodus Point","NY",43.26,-76.98,"Mon 6-9, Thu 3-6",19,0.950321563286707
+861,"Hooper-Washington, Alyson","San Francisco","CA",37.73,-122.38,"Mon 9-12, Thu 12-3, Tue 6-9",24,0.896034821751527
+862,"el-Jabour, Ya'qoob","Union City","OH",40.2,-84.8,"Sat 3-6, Mon 3-6, Wed 12-3",17,0.755767368013039
+863,"Archer, Angelina","Rochester","NY",43.157,-77.605,"Tue 9-12, Mon 9-12, Thu 3-6",25,0.85034438513685
+864,"el-Wahab, Atiyya","Greenwood","SC",34.2,-82.1,"Thu 6-9, Mon 9-12",26,0.839369026012719
+865,"Jones, Cassa","Kawkawlin","MI",43.69,-84,"Sat 3-6, Wed 9-12, Wed 9-12",29,0.927645459771156
+866,"Babcock, Khameron","Humeston","IA",40.8,-93.5,"Sat 9-12, Wed 6-9, Sat 9-12",17,0.559693129151128
+867,"Moller, Hanna","Conway","SC",NA,NA,"Sun 6-9, Thu 12-3, Sun 9-12",13,0.962008612812497
+868,"Pohl, Kevin","Dupree","SD",45,-101.6,"Wed 12-3, Fri 3-6",15,0.664578926749527
+869,"Smith, Sidney","Dewey","AZ",34.6,-112.1,"Sun 6-9, Wed 12-3",10,0.641147425048985
+870,"Adams, Jennifer","Rowland","NC",34.6,-79.3,"Sun 12-3, Mon 3-6, Sat 6-9",14,0.661754210013896
+871,"Mccoo, Anthony","Walhonding","OH",40.3,-82.2,"Wed 9-12, Wed 6-9, Sun 6-9",15,0.779418466729112
+872,"Basurto-Munoz, Tayler","Burton","MI",42.99,-83.61,"Sat 3-6, Fri 12-3",23,0.771596018574201
+873,"Burnett, James","Old Fort","NC",35.6,-82.2,"Mon 3-6, Sun 9-12, Sun 12-3",12,0.759115662658587
+874,"Hines, Colette","Indian Rocks Beach","FL",27.87,-82.84,"Tue 6-9, Wed 12-3, Wed 9-12",29,0.76837509451434
+875,"el-Pirani, Jiyaad","Anchorage","AK",NA,NA,"Thu 12-3, Sat 3-6",27,0.671383167034946
+876,"al-Ismael, Taaj","Rosholt","SD",45.9,-96.7,"Sun 9-12, Sun 3-6",24,0.822722059790976
+877,"Kerr, Kristopher","Gay","WV",38.8,-81.6,"Mon 9-12, Tue 3-6",23,0.717888423008844
+878,"al-Shahin, Muaaid","Edmeston","NY",42.7,-75.3,"Tue 3-6, Tue 12-3",28,0.540134643903002
+879,"Gonzalez, Joshua","Blair","NE",NA,NA,"Mon 3-6, Mon 9-12, Wed 3-6",22,0.594236752949655
+880,"al-El-Sayed, Unais","Hustisford","WI",43.34,-88.61,"Fri 12-3, Sat 6-9",12,0.602354432572611
+881,"Naputi Fonseca, John","Coraopolis","PA",40.5,-80.19,"Wed 6-9, Wed 12-3, Sat 12-3",25,0.693214944098145
+882,"Novak, Sam","Yakima","WA",NA,NA,"Wed 3-6, Sun 12-3",20,0.683964251773432
+883,"Viayra, Joshue","Bayard","IA",41.83,-94.56,"Thu 3-6, Wed 6-9",22,0.640043221181259
+884,"Jacquez, Alanna","Clayton","GA",34.9,-83.4,"Mon 6-9, Fri 12-3, Mon 6-9",12,0.645531074609607
+885,"el-Ali, Mastoora","Farmington","UT",40.9,-111.9,"Tue 12-3, Fri 9-12, Fri 12-3",30,0.89483121666126
+886,"Gebresellassie, Tanisha","Dyer","TN",36.1,-89,"Mon 6-9, Thu 3-6, Tue 6-9",17,0.811701086815447
+887,"al-Meskin, Safar","Concord","TX",NA,NA,"Sat 6-9, Fri 9-12",22,0.50074311636854
+888,"al-Safi, Ghaali","New Johnsonville","TN",36,-87.93,"Tue 3-6, Sun 3-6",15,0.732988750911318
+889,"el-Farrah, Awni","Cocoa Beach","FL",NA,NA,"Wed 9-12, Sun 12-3, Mon 3-6",29,0.867500104708597
+890,"Talamantes, Teesha","Washington","DC",NA,NA,"Wed 3-6, Tue 3-6",16,0.726581525639631
+891,"al-Basher, Zaidaan","Saco","MT",48.6,-107.4,"Sun 3-6, Tue 9-12, Tue 9-12",11,0.552528621628881
+892,"Edman, Alonzo","Lexington","KY",37.9,-84.4,"Wed 6-9, Mon 3-6",25,0.613218434737064
+893,"Craig-Varela, Antoinette","Deering","ND",48.4,-101,"Sat 12-3, Tue 12-3, Mon 3-6",25,0.663087165914476
+894,"Hernden, Anthony","Clearfield","KY",38.12,-83.41,"Sun 6-9, Wed 9-12, Thu 6-9",27,0.713489604881033
+895,"Vigil, Letyraial","Seattle","WA",47.64,-122.33,"Mon 6-9, Tue 12-3",19,0.675538218580186
+896,"Pacheco, Donovan","Anchorage","AK",NA,NA,"Mon 12-3, Sat 3-6",13,0.799084850121289
+897,"Torres, Lauren","Callicoon","NY",41.78,-75.03,"Sun 12-3, Fri 3-6",11,0.995860069058836
+898,"al-Mitri, Zaaid","New York","NY",NA,NA,"Fri 9-12, Fri 12-3",20,0.778483100002632
+899,"Egbune, Terrance","Seattle","WA",47.61,-122.35,"Mon 3-6, Sun 6-9, Fri 9-12",18,0.603523616329767
+900,"Utu, Matthew","Huntsville","TN",36.3,-84.5,"Mon 12-3, Wed 12-3",13,0.849783117068
+901,"Peterson, Dallas","Dillard","OR",NA,NA,"Sat 3-6, Fri 3-6",25,0.616378831909969
+902,"al-Halaby, Zainuddeen","San Simeon","CA",35.61,-121.14,"Mon 12-3, Tue 9-12, Thu 3-6",25,0.874863667530008
+903,"Lovern, Lakota","Walterboro","SC",32.9,-80.7,"Thu 12-3, Tue 12-3",24,0.859919864451513
+904,"Jenks, Stephanie","Minneapolis","MN",45.06,-93.38,"Wed 9-12, Tue 6-9, Thu 9-12",11,0.953972707968205
+905,"Nguyen, Allan","Croydon","UT",41.2,-111.4,"Thu 3-6, Thu 9-12, Fri 9-12",23,0.758903891197406
+906,"Rivera, Aleksis","Fairfax","VA",NA,NA,"Wed 12-3, Sat 12-3, Wed 12-3",24,0.86970549589023
+907,"Watts, Tabetha","Elliottville","KY",NA,NA,"Sat 3-6, Fri 3-6, Tue 9-12",12,0.520053881686181
+908,"el-Alli, Abdul Kader","Rural Hall","NC",NA,NA,"Tue 9-12, Wed 9-12",21,0.981529861222953
+909,"Yousif, Askia","Otis","CO",40.2,-102.9,"Thu 9-12, Wed 3-6, Wed 9-12",22,0.585635246708989
+910,"Thomas, Jordan","Bakersfield","CA",35.4,-119.2,"Thu 3-6, Mon 12-3, Thu 3-6",23,0.515664213919081
+911,"Atkins, Austin","Richland","SC",NA,NA,"Wed 3-6, Sat 6-9, Fri 12-3",17,0.508445805637166
+912,"Morgan, Keaira","Wentworth","SD",44,-97,"Sat 12-3, Tue 6-9, Sat 3-6",15,0.776241351850331
+913,"Langley, Jacob","Woodson","TX",33.1,-99.1,"Sat 6-9, Tue 6-9",26,0.817315646214411
+914,"Martin, Taylor","Albany","NY",NA,NA,"Thu 6-9, Fri 6-9",24,0.619213919853792
+915,"Bacca, Alondra","Rocky Ford","GA",32.7,-81.8,"Thu 9-12, Thu 9-12, Mon 3-6",27,0.93724489887245
+916,"Tran, Katryn","Philadelphia","PA",40,-75.17,"Mon 6-9, Mon 9-12, Thu 12-3",17,0.557738904375583
+917,"Holder, Nicole","Fairmount","GA",34.4,-84.7,"Sun 12-3, Wed 6-9, Tue 3-6",15,0.670076149399392
+918,"Storey, Audrey","Levant","KS",39.4,-101.2,"Fri 6-9, Tue 12-3",24,0.795493370271288
+919,"Tabor, Alicia","Jacksonville","FL",30.27,-81.58,"Thu 3-6, Tue 12-3, Thu 3-6",29,0.588105793576688
+920,"Noeller, Katie","Bushwood","MD",38.28,-76.79,"Tue 12-3, Thu 12-3",20,0.78662124206312
+921,"Allen, Beverly","Virginia Beach","VA",36.92,-76.02,"Fri 9-12, Mon 9-12, Thu 6-9",18,0.535969857010059
+922,"Lindsey, Dale","Elko","GA",32.3,-83.7,"Wed 9-12, Sat 12-3, Thu 12-3",19,0.590394287719391
+923,"Heisler, Dylan","Gordonville","MO",NA,NA,"Sun 3-6, Thu 9-12, Thu 12-3",24,0.944421009276994
+924,"Hopper, Katarina","Cushing","IA",42.4,-95.7,"Tue 6-9, Fri 6-9, Wed 3-6",29,0.897749505587853
+925,"Blackman, Wyatt","Salina","KS",38.9,-97.6,"Mon 6-9, Fri 6-9, Wed 12-3",21,0.62421684525907
+926,"Prieto-Loya, Abraham","Westland","MI",42.29,-83.37,"Tue 9-12, Fri 9-12, Thu 12-3",26,0.945966736646369
+927,"el-Sani, Bilaal","Dubuque","IA",42.4,-90.6,"Thu 12-3, Sat 6-9, Wed 6-9",15,0.686111707473174
+928,"Morris-Reed, Eric","Waterford","VA",39.19,-77.62,"Tue 3-6, Fri 9-12",23,0.56870312220417
+929,"Sheya, Brandi","Alsen","ND",48.7,-98.6,"Thu 9-12, Mon 6-9, Sun 12-3",10,0.534635422751307
+930,"Vue, Savdeep","Des Moines","IA",NA,NA,"Wed 6-9, Sun 3-6",11,0.554797598044388
+931,"al-Dallal, Amaanullah","Corona","CA",33.88,-117.53,"Fri 3-6, Wed 12-3, Wed 6-9",24,0.715791625087149
+932,"Williams, Rebecca","Pelham","TN",35.3,-85.84,"Thu 9-12, Sun 12-3, Mon 3-6",24,0.886890702298842
+933,"Saldivar, Coby","Saint Paul","MN",NA,NA,"Tue 12-3, Fri 6-9",21,0.50766006775666
+934,"Seiler, Julliene","Loretto","KY",37.66,-85.4,"Sun 3-6, Thu 6-9, Fri 12-3",15,0.632816273602657
+935,"al-Shaheen, Nabeeh","Sayre","PA",42,-76.5,"Wed 9-12, Mon 9-12",21,0.845519891474396
+936,"Sheard, Soomin","Nekoma","KS",38.42,-99.45,"Tue 12-3, Thu 9-12, Sun 3-6",29,0.766001790529117
+937,"al-Ammar, Zuhaira","Minneapolis","MN",44.976,-93.272,"Fri 9-12, Thu 6-9, Tue 12-3",12,0.530807415023446
+938,"Quiroz, Joseph","Elwin","IL",39.79,-89,"Sun 9-12, Sun 3-6",26,0.61125248321332
+939,"Knight, Victoria","Cabazon","CA",33.9,-116.7,"Sun 3-6, Sun 9-12",20,0.663772604078986
+940,"Richy, Catarina","North Bend","OR",43.4,-124.1,"Mon 3-6, Sat 12-3",15,0.541237817145884
+941,"Goss, Andrew","East Derry","NH",NA,NA,"Sun 12-3, Mon 3-6, Tue 3-6",27,0.927011888707057
+942,"al-Ghanem, Hissa","Sweet Valley","PA",41.31,-76.21,"Thu 3-6, Mon 12-3, Thu 9-12",30,0.840423456509598
+943,"al-Srour, Hadbaaa","Jessup","MD",39.15,-76.8,"Sat 12-3, Thu 12-3, Thu 9-12",19,0.933538311976008
+944,"el-Haq, Munsif","Jewett","NY",42.26,-74.28,"Mon 6-9, Tue 3-6, Fri 9-12",27,0.552471696748398
+945,"Fleharty, Kyla","Camp Dennison","OH",39.2,-84.29,"Mon 9-12, Mon 6-9, Mon 3-6",24,0.854550506686792
+946,"Price, Kamarin","Hershey","PA",40.27,-76.6,"Fri 3-6, Wed 3-6, Sat 6-9",14,0.709467306034639
+947,"Keelick, Andre","Columbus","OH",40.03,-83.08,"Sun 6-9, Thu 9-12",23,0.820067414199002
+948,"al-Khawaja, Zakiyya","Lebanon","PA",40.3,-76.4,"Fri 12-3, Sat 12-3",23,0.591771220439114
+949,"Perez, Roy","Uniontown","AL",32.5,-87.5,"Tue 12-3, Sat 6-9, Mon 3-6",18,0.961077576968819
+950,"Garcia, Michael","Copperhill","TN",35,-84.4,"Thu 9-12, Mon 6-9, Sun 6-9",14,0.952330210711807
+951,"Ngo, Kevin","Shinnston","WV",39.38,-80.27,"Wed 9-12, Tue 3-6",28,0.936278542038053
+952,"George, Anna","Revere","MO",40.49,-91.65,"Sun 9-12, Tue 12-3",21,0.650846837321296
+953,"Duk, Forest","Weyauwega","WI",44.3,-88.9,"Thu 3-6, Sat 3-6, Fri 6-9",28,0.589068972854875
+954,"White, Dejon","Charlestown","MA",42.38,-71.06,"Sat 6-9, Thu 9-12, Mon 6-9",16,0.73560758784879
+955,"Borntrager, Kiran","Rebuck","PA",40.71,-76.69,"Wed 6-9, Sat 6-9",26,0.732538582291454
+956,"Ray, Michael","Miltona","MN",46.1,-95.3,"Mon 6-9, Sun 9-12",14,0.50112965493463
+957,"Quintana, Nathaniel","Garden City","LA",NA,NA,"Thu 3-6, Thu 12-3, Fri 9-12",27,0.770074803731404
+958,"Hoang, Erica","Winter Haven","FL",27.98,-81.78,"Mon 3-6, Tue 12-3",16,0.845115868607536
+959,"Ragoschke, Austyn","Atlanta","GA",33.74,-84.38,"Thu 12-3, Tue 12-3",26,0.624958587344736
+960,"Murray, Stephen","New Milford","CT",41.6,-73.4,"Sun 6-9, Sat 9-12, Sat 6-9",26,0.54325086181052
+961,"Bancroft, Joshua","Burbank","CA",34.21,-118.33,"Thu 12-3, Wed 6-9, Sun 12-3",28,0.948142129229382
+962,"Rivera, Nikki","Williston","TN",35.13,-89.42,"Fri 12-3, Wed 6-9",20,0.979798893560655
+963,"Merced, Jessica","Saint Petersburg","FL",27.71,-82.67,"Sat 12-3, Mon 12-3",14,0.602117655915208
+964,"Yellowhorse, Lauren","Makinen","MN",47.3,-92.2,"Sun 3-6, Wed 12-3, Thu 3-6",15,0.814884764142334
+965,"Cordova, Maitaya","Atlanta","GA",NA,NA,"Wed 9-12, Sun 9-12, Sun 12-3",24,0.581070195417851
+966,"Atene, Danielle","Lost Creek","KY",37.42,-83.29,"Tue 9-12, Fri 3-6, Sun 12-3",24,0.970312001067214
+967,"Tizon, Ryan","De Beque","CO",39.4,-108.5,"Wed 9-12, Fri 9-12",15,0.982511498732492
+968,"Skene, Myranda","Crawley","WV",37.9,-80.6,"Tue 9-12, Mon 6-9, Sat 3-6",23,0.966889591538347
+969,"Mckenzie, Nathaniel","Chartley","MA",NA,NA,"Tue 6-9, Sat 6-9",20,0.914530097041279
+970,"Stinehelfer, Alexis","Reno","NV",39.53,-119.82,"Mon 3-6, Sat 6-9, Wed 6-9",15,0.934356844401918
+971,"Atene, Kevin","Brunsville","IA",42.809,-96.269,"Mon 6-9, Tue 6-9",13,0.569470178801566
+972,"Arrington, Jankeith","Redfox","KY",37.21,-82.94,"Mon 6-9, Sun 6-9",24,0.857217099517584
+973,"el-Arafat, Muzna","Prentiss","MS",31.6,-89.9,"Wed 6-9, Sat 9-12",15,0.516335165477358
+974,"Selby, Luke","Canton Center","CT",41.85,-72.91,"Wed 6-9, Mon 9-12",26,0.811879237415269
+975,"al-Faraj, Asad","White Cottage","OH",NA,NA,"Sun 9-12, Sun 12-3, Fri 6-9",17,0.649346311111003
+976,"Macrae, Sandeep","Bolt","WV",37.77,-81.41,"Thu 9-12, Tue 6-9, Sun 9-12",22,0.90927723411005
+977,"Aguirre-Barrera, Enrique","Waldorf","MD",38.59,-76.9,"Mon 9-12, Sun 12-3, Tue 12-3",18,0.59367109532468
+978,"al-Mowad, Taamira","Kapolei","HI",NA,NA,"Wed 12-3, Sun 12-3",23,0.777144074905664
+979,"Sterling, Andrew","Witherbee","NY",44.09,-73.57,"Mon 9-12, Wed 6-9",15,0.780789893702604
+980,"Anderson, Joseph","Dallastown","PA",39.88,-76.65,"Sat 6-9, Sun 3-6, Wed 6-9",18,0.993465883424506
+981,"Vigil, Edwin","Fort Worth","TX",NA,NA,"Wed 12-3, Thu 6-9",14,0.956828986760229
+982,"Kalilikane, Rebecca","Minford","OH",38.89,-82.83,"Fri 6-9, Wed 6-9, Mon 6-9",13,0.855365666910075
+983,"Branstetter, Garrett","Tacoma","WA",47.13,-122.41,"Thu 12-3, Sat 12-3",30,0.799884737003595
+984,"Anderson, Debra","Arcadia","CA",34.13,-118.05,"Wed 3-6, Fri 12-3",21,0.798329211771488
+985,"Ramirez-Ramirez, Chelsea","Goodwin","AR",34.95,-91.02,"Tue 12-3, Wed 12-3",30,0.691022320534103
+986,"Haskins, Ashley","Spring Arbor","MI",42.21,-84.57,"Sat 9-12, Wed 6-9",19,0.726882858551107
+987,"Luquin-Salazar, Abigail","Kitzmiller","MD",39.4,-79.21,"Mon 9-12, Thu 6-9",30,0.744867469184101
+988,"Hopkins, Terrance","Wyndmere","ND",46.3,-97.1,"Sat 3-6, Mon 6-9, Mon 12-3",29,0.616709680994973
+989,"Huynh, Bryan Lam","West Winfield","NY",42.9,-75.2,"Mon 3-6, Thu 6-9",17,0.698194101336412
+990,"Bushere, Sierra","Willow City","ND",48.6,-100.3,"Sat 12-3, Sat 6-9",11,0.84069138718769
+991,"Young, Jacqueline","Herndon","VA",NA,NA,"Fri 12-3, Wed 9-12",12,0.54747299302835
+992,"Wright, Monique","Oregon","OH",NA,NA,"Fri 3-6, Sun 3-6, Thu 9-12",11,0.900368759292178
+993,"Rodriguez, Krystel","Pocola","OK",35.25,-94.5,"Wed 12-3, Thu 9-12",22,0.599251820473
+994,"Kennedy, Maren","Glade Valley","NC",36.44,-81,"Fri 9-12, Thu 9-12, Fri 9-12",29,0.681692034006119
+995,"Schaefer, Elizabeth","Rushmore","MN",43.6,-95.8,"Wed 6-9, Sat 3-6, Wed 9-12",15,0.760300478897989
+996,"el-Baddour, Sitaara","West Fulton","NY",42.53,-74.46,"Sat 12-3, Wed 9-12, Wed 6-9",29,0.942477160948329
+997,"Gonzales, Devon","San Bernardino","CA",34.12,-117.33,"Tue 6-9, Thu 3-6",15,0.922715995227918
+998,"Ali, Ahmear","Chicopee","MA",42.18,-72.56,"Tue 6-9, Mon 3-6, Mon 3-6",28,0.904856339213438
+999,"al-Laham, Shakeel","Mankato","KS",39.8,-98.2,"Wed 6-9, Mon 6-9, Mon 9-12",14,0.622743652784266
+1000,"Thao, Xyoob","Saint Louis","MO",38.58,-90.3,"Fri 6-9, Sat 6-9, Wed 9-12",27,0.536735158413649
