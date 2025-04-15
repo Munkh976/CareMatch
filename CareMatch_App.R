@@ -14,7 +14,7 @@ data <- list(
   care_requests = read_csv("data/care_requests.csv"),
   elderly_requests = read_csv("data/elderly_requests.csv"),
   volunteer_responses = read_csv("data/volunteer_responses.csv"),
-  historical_matches = read_csv("data/historical_matches.csv"),
+  carematch_predictions = read_csv("data/carematch_predictions.csv"),
   availability = read_csv("data/availability.csv")
 )
 
@@ -76,7 +76,7 @@ ui <- dashboardPage(
           tabBox(
             width = 12,
             tabPanel("Profile", uiOutput("elderly_profile")),
-            tabPanel("My Requests", DTOutput("elderly_requests")),
+            tabPanel("My Active Requests", DTOutput("elderly_requests")),
             tabPanel("History", DTOutput("elderly_history")),
             tabPanel(
               "Chatbot",
@@ -329,9 +329,9 @@ server <- function(input, output, session) {
       )
       
       if (choice == "V") {
-        top_matches <- data$historical_matches %>%
-          filter(volunteer_id == user$id & predicted_probability >= 0.7) %>%
-          arrange(desc(predicted_probability)) %>% 
+        top_matches <- data$carematch_predictions %>%
+          filter(volunteer_id == user$id & match_prob >= 0.6) %>%
+          arrange(desc(match_prob)) %>% 
           head(3)
         
         user$top_requests <- top_matches
@@ -340,7 +340,7 @@ server <- function(input, output, session) {
           req <- top_matches[i, ]
           paste0(
             i, ". Request ", req$request_id, " – ", req$needs,
-            " (", round(req$predicted_probability * 100), "%)"
+            " (", round(req$match_prob * 100), "%)"
           )
         })
         
@@ -580,9 +580,9 @@ server <- function(input, output, session) {
       req(idx <= nrow(user$active_requests))
       req_row <- user$active_requests[idx, ]
       
-      top_matches <- data$historical_matches %>%
+      top_matches <- data$carematch_predictions %>%
         filter(request_id == req_row$request_id) %>%
-        arrange(desc(predicted_probability)) %>% 
+        arrange(desc(match_prob)) %>% 
         head(3)
       
       user$match_targets <- top_matches
@@ -590,7 +590,7 @@ server <- function(input, output, session) {
         m <- top_matches[i, ]
         paste0(
           i, ". ", m$volunteer_id, " – ", m$needs, " – ",
-          round(m$predicted_probability * 100), "%"
+          round(m$match_prob * 100), "%"
         )
       })
       
