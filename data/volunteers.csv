@@ -1,51 +1,55 @@
-id,name,location,contact_number,skills,response_rate,radius_km,lat,lng
-V001,Brittany Pierce,"Harringtonland, KS",+12989264187,"Cleaning, Companionship, Transportation, Medication",0.69,5,41.181796,-73.579633
-V002,Ashley Le,"Washingtonhaven, CT",+16120157983,"Transportation, Driving, Companionship, Cleaning",0.58,10,41.07745,-73.603557
-V003,Kevin Lee,"North Stephanieshire, IA",+18228383725,"Cleaning, Cooking, First Aid, Transportation, Driving, Medication",0.73,15,40.498049,-73.809408
-V004,Jeffrey Hernandez,"East Arianaview, AK",+11212885505,"Driving, Shopping, Companionship",0.44,15,40.754995,-73.758024
-V005,Jennifer Petersen,"New Audrey, AS",+17690443748,"Cooking, Transportation, First Aid",0.97,5,41.132187,-73.974874
-V006,George Powell,"Dianaburgh, UT",+15204163172,"Transportation, Driving, Shopping, Cooking",0.37,15,40.807835,-73.830787
-V007,David Mitchell,"East William, SD",+12033502805,"Medication, Cleaning, Cooking, Transportation, First Aid, Companionship",0.85,10,40.807319,-73.886618
-V008,Tara Mcdaniel,"Michellefort, WI",+16753533260,"Medication, Transportation, Driving, First Aid, Companionship, Cleaning",0.47,15,40.343678,-73.860499
-V009,Jason Harrison,"East Brian, KY",+12697089192,"Shopping, Cooking, Cleaning, Driving",0.51,5,41.208896,-74.432739
-V010,Dominic Powell,"Henryland, CA",+18449141257,"Driving, Medication, Shopping, Cleaning, First Aid",0.76,5,40.582327,-74.348253
-V011,Kendra Wood,"Judytown, DC",+12609935852,"Shopping, Cleaning, First Aid, Cooking",0.92,15,40.477266,-73.616287
-V012,Kayla Shepherd,"Robertobury, LA",+16969094064,"First Aid, Cleaning, Driving, Medication, Companionship",0.34,10,40.55568,-73.818503
-V013,Tonya Johnson,"Ashleyburgh, ME",+18800724676,"Shopping, Cooking, Medication, Companionship",0.69,15,40.256887,-74.172443
-V014,Alex Fisher,"New Melissaburgh, VT",+18734210722,"Cooking, Medication, First Aid",0.61,15,40.918467,-73.945093
-V015,John Russell,"Port Caseyport, ND",+15487248920,"Transportation, Cooking, Driving, Cleaning",0.39,10,40.248828,-74.136784
-V016,Daniel Ramos,"North Heatherhaven, HI",+12073982425,"Medication, Cooking, First Aid",0.7,5,41.111781,-73.709878
-V017,Ashley Mcguire,"New Jeremyville, KY",+17094654121,"Cleaning, Cooking, Transportation, Medication, Companionship, Driving",0.4,5,40.879733,-74.152321
-V018,Maureen Moore,"New Dana, AR",+19102793507,"Companionship, Cleaning, Cooking, Driving, First Aid, Shopping",0.63,10,40.949364,-74.173815
-V019,Brandon Welch,"New Kimberlyport, IL",+16152683123,"Medication, Cleaning, Cooking, First Aid, Driving, Transportation",0.47,5,40.435234,-73.689413
-V020,Andrea Woods,"East Michaelville, NM",+17196180260,"Shopping, Cleaning, Medication",0.52,15,40.611266,-74.227397
-V021,Mary Johnson,"West Stephenview, MI",+16685801620,"Driving, First Aid, Cleaning, Cooking, Medication",0.55,5,40.612478,-73.52485
-V022,Jennifer Moore,"Richardport, TN",+17423825779,"Transportation, Shopping, First Aid, Driving, Companionship",0.76,15,40.321203,-74.071436
-V023,Leslie Johnson,"New Jonathan, PW",+14272151840,"Driving, Shopping, Transportation, Cooking, Cleaning, Medication",0.41,5,40.402879,-74.461613
-V024,Tammy Rodgers,"South Robert, MI",+12610337859,"Cooking, Medication, Cleaning, Shopping, Transportation",0.65,15,41.161674,-73.585229
-V025,Daniel Frye,"Gentrymouth, AS",+15319660150,"Cleaning, Cooking, Companionship, Medication, Transportation",0.5,15,40.621193,-74.1036
-V026,Rebekah Travis,"North Aliciahaven, GA",+11878236936,"Shopping, Cleaning, Cooking",0.5,10,40.781905,-74.099925
-V027,Jorge Clark,"Michelleton, CA",+13365659301,"First Aid, Companionship, Transportation, Cooking, Medication",0.69,15,40.998559,-73.899338
-V028,Wayne Young,"Kathyberg, IL",+13586554670,"Cooking, Transportation, First Aid, Cleaning, Medication",0.48,5,40.382491,-74.421204
-V029,Christina Cantrell,"North Morganhaven, NC",+11704735631,"Cooking, Companionship, Transportation, Shopping, First Aid, Cleaning",0.5,15,40.360154,-74.459786
-V030,Michael Garcia,"South Darius, DE",+18445680899,"Driving, Transportation, First Aid, Companionship",0.6,5,40.596778,-74.106347
-V031,Craig Martin,"Sheltonmouth, OH",+14049337982,"Driving, Shopping, Cooking, First Aid, Companionship, Transportation",0.37,10,40.388687,-73.548034
-V032,Melanie Martinez,"Martinezshire, GA",+17124015959,"First Aid, Shopping, Medication, Transportation, Companionship",0.5,15,40.880378,-73.518108
-V033,Elizabeth Hall,"Port Lanceberg, AL",+12102527185,"First Aid, Cleaning, Cooking, Transportation, Companionship, Shopping",0.64,5,40.658714,-74.346842
-V034,Nicholas Decker,"Melaniemouth, VT",+17149574644,"Companionship, Cleaning, Transportation, Medication, Driving",0.28,5,40.487397,-74.428517
-V035,Teresa Mckinney,"Vasquezbury, NE",+11025947795,"Companionship, Driving, First Aid, Medication",0.36,10,40.363631,-74.122965
-V036,Lonnie Jones,"Port Margaret, RI",+16078842819,"Transportation, Companionship, Shopping, Driving",0.51,15,40.755411,-74.090226
-V037,Christopher Simmons,"North Cindyside, FM",+18806509668,"Shopping, Transportation, Companionship, Medication, Cooking",0.67,10,40.593181,-74.500104
-V038,Joseph King,"Richardville, RI",+14931533729,"Transportation, Cleaning, Medication",1.01,15,40.432222,-74.070164
-V039,Frank Reyes,"East Gregory, GA",+13869438381,"Cleaning, Shopping, Transportation, Driving, Companionship, First Aid",0.47,15,41.010942,-73.781819
-V040,Melissa Baker,"Port Brendahaven, DC",+19127271159,"Cleaning, Transportation, Companionship, Cooking, Driving, Shopping",0.31,10,40.8758,-74.422053
-V041,Bradley White,"Port Michael, MT",+18284811864,"Transportation, Cleaning, Companionship, First Aid, Driving",0.31,10,40.540153,-74.051301
-V042,Matthew Miller Jr.,"South Joshua, ID",+12257820670,"Companionship, Medication, Driving, Transportation, Shopping",0.48,5,40.232183,-73.966581
-V043,Alan Jones,"Garciastad, NE",+19898203003,"Companionship, Cooking, First Aid, Driving",0.93,15,40.412161,-74.48562
-V044,Alice Austin,"North Amanda, SC",+10048442828,"Medication, Cooking, Shopping, First Aid, Driving",0.3,5,41.160557,-74.040966
-V045,Crystal Melton,"Lake Thomaschester, LA",+11095062022,"Shopping, First Aid, Medication",0.53,10,41.177521,-74.397901
-V046,Maurice Murphy,"Port Richard, ND",+18108507274,"Companionship, Driving, Medication",0.63,10,40.609454,-73.790985
-V047,David Delgado,"Briggsfurt, NJ",+18568937284,"Driving, Cleaning, Shopping",0.43,10,41.063093,-73.905588
-V048,Sara Clark,"Wardland, ID",+14972459018,"Driving, Transportation, Companionship, Medication, First Aid",0.76,10,40.874321,-74.437043
-V049,Angela Trujillo,"Mendozaville, OH",+17671341158,"Cleaning, Companionship, Cooking, Shopping, First Aid, Transportation",0.81,15,41.173588,-73.870415
-V050,William Roberts,"New Donaldborough, UT",+19063877354,"Medication, Transportation, Cooking, Driving, Cleaning",0.34,10,40.987441,-74.041126
+volunteer_id,name,zipcode,location,contact_number,availability,radius_km,radius_willingness,major_city,state,lat,lng,response_rate,skills
+V001,Bradley Estrada,10004,10004,12588267068,"Weekday AM, Weekday PM",5,15,New York,NY,40.694472367409055,-74.00415429,0.69,"Transportation, Cleaning, Driving, Companionship, Medication"
+V002,Tyler Evans,10001,10001,17431194912,"Weekday PM, Weekday AM",5,10,New York,NY,40.75418918,-73.99482061,0.58,"Companionship, Cooking, Driving"
+V003,Melanie Green,10002,10002,19826360062,"Weekend AM, Weekday AM",15,5,New York,NY,40.72637774336814,-73.98938407,0.73,"Shopping, Transportation, Cleaning, Cooking, Driving, Companionship"
+V004,Jeremy Young,10004,10004,16270129138,"Weekend AM, Weekend PM",20,20,New York,NY,40.70902454,-74.01198135,0.44,"Companionship, Driving, Shopping, Cooking, Transportation, Cleaning"
+V005,Brandon Howell III,10001,10001,19955125061,"Weekday AM, Weekday PM",10,5,New York,NY,40.74947046802651,-73.99885624,0.97,"Transportation, Medication, Cleaning, Driving, First Aid"
+V006,Vincent Russell,10004,10004,17271782098,"Weekend AM, Weekend PM",15,10,New York,NY,40.70239747543269,-74.00678531,0.37,"Transportation, Cooking, Medication, Shopping"
+V007,Tamara Butler,10003,10003,12986437009,"Weekday PM, Weekend PM",15,15,New York,NY,40.735563769408905,-73.99137207,0.85,"Companionship, Transportation, Driving, Cleaning, First Aid"
+V008,Dalton Calderon,10004,10004,15110419103,"Weekend AM, Weekday PM",15,15,New York,NY,40.710702146905106,-74.01218418,0.47,"Cleaning, Companionship, Cooking, First Aid, Shopping"
+V009,Andrew Kim,10002,10002,12105033179,"Weekend PM, Weekend AM",5,15,New York,NY,40.71732186221568,-73.98666315,0.51,"Companionship, Medication, First Aid"
+V010,Samuel Cole,10004,10004,13981435778,"Weekend PM, Weekend AM",5,10,New York,NY,40.70637920043193,-74.01591959,0.76,"Cooking, Cleaning, First Aid"
+V011,Jason Jones,10003,10003,12741769139,"Weekend AM, Weekday AM",5,15,New York,NY,40.72605168586903,-73.99570891,0.92,"Medication, Cleaning, First Aid, Companionship, Transportation, Cooking"
+V012,Grace Morris,10002,10002,16007866166,"Weekend AM, Weekday AM",5,10,New York,NY,40.71234966326965,-73.99731117,0.34,"Companionship, Medication, First Aid, Cleaning"
+V013,Nathan Diaz,10001,10001,10252757816,"Weekend AM, Weekend PM",5,15,New York,NY,40.75816922394526,-73.99628243,0.69,"Shopping, Driving, Transportation, First Aid"
+V014,William Day,10001,10001,18468721148,"Weekday AM, Weekday PM",10,5,New York,NY,40.75724231290599,-73.99808585,0.61,"First Aid, Companionship, Transportation, Cleaning, Cooking"
+V015,Larry Mason,10001,10001,18449804922,"Weekend AM, Weekday AM",5,5,New York,NY,40.75196146069235,-73.99777652,0.39,"Cleaning, Cooking, Shopping"
+V016,Kelli Moore,10002,10002,13438354271,"Weekday AM, Weekend AM",15,5,New York,NY,40.726751804006504,-73.99674424,0.7,"First Aid, Companionship, Cleaning, Shopping, Transportation, Cooking"
+V017,Jennifer Wu,10002,10002,15187410272,"Weekday PM, Weekday AM",10,10,New York,NY,40.72158742271569,-73.99150175,0.4,"Cooking, First Aid, Transportation, Medication, Driving"
+V018,James Bell,10001,10001,16613727470,"Weekday AM, Weekend AM",5,10,New York,NY,40.756556560532935,-73.99359884,0.63,"Shopping, Medication, Cleaning, Companionship"
+V019,Stephanie Ballard,10002,10002,11212258252,"Weekday AM, Weekend PM",5,10,New York,NY,40.71970088074639,-73.984415190000007,0.47,"Cooking, Shopping, First Aid, Medication, Cleaning, Driving"
+V020,Dustin Lewis,10003,10003,18942782258,"Weekend PM, Weekday PM",5,15,New York,NY,40.72299721568367,-73.98945943,0.52,"Cooking, Companionship, Medication, Cleaning, Transportation, First Aid"
+V021,Justin Drake,10003,10003,17175344386,"Weekend AM, Weekend PM",5,5,New York,NY,40.731610016465034,-73.98506981,0.55,"Driving, First Aid, Cooking, Shopping, Transportation"
+V022,Kathy Gibson,10003,10003,19317736610,"Weekend PM, Weekday PM",10,10,New York,NY,40.72862116511913,-73.996008,0.76,"Transportation, Medication, Companionship, Driving"
+V023,Dennis Bruce,10002,10002,11856990828,"Weekday AM, Weekday PM",5,10,New York,NY,40.71284797701884,-73.99858157,0.41,"Transportation, Medication, Companionship, Cleaning, First Aid"
+V024,Cameron Foley,10004,10004,17500682415,"Weekday PM, Weekend AM",10,15,New York,NY,40.70822886308111,-74.01079183,0.65,"First Aid, Companionship, Driving"
+V025,Roy Stephenson,10001,10001,17626798359,"Weekend PM, Weekend AM",10,5,New York,NY,40.74137738884883,-73.99349955,0.5,"Shopping, First Aid, Cooking, Cleaning"
+V026,Frank Vega,10002,10002,14682486530,"Weekend PM, Weekday AM",5,5,New York,NY,40.71702895788357,-73.99855068,0.5,"Shopping, First Aid, Driving, Transportation"
+V027,Margaret Sanchez,10002,10002,14451540984,"Weekend PM, Weekday AM",10,15,New York,NY,40.710692839369706,-73.99708779,0.69,"Shopping, First Aid, Medication, Cleaning, Companionship, Cooking"
+V028,Margaret Jackson,10002,10002,12973295779,"Weekend AM, Weekend PM",10,5,New York,NY,40.713456779665655,-73.99492888,0.48,"Shopping, Transportation, Companionship"
+V029,Nicholas Martinez,10004,10004,11702368610,"Weekend AM, Weekend PM",15,10,New York,NY,40.70220689233733,-74.01686445,0.5,"First Aid, Shopping, Companionship, Cleaning"
+V030,Lonnie Valencia,10002,10002,16329438015,"Weekend AM, Weekend PM",10,15,New York,NY,40.72606860335639,-73.99327538,0.6,"Transportation, Cooking, Companionship, Driving"
+V031,Tammy Schaefer,10002,10002,10562457506,"Weekend PM, Weekday AM",15,10,New York,NY,40.70810695,-73.99801689,0.37,"Driving, Cooking, Shopping, Medication, Cleaning, First Aid"
+V032,Curtis Cooper,10002,10002,14013060810,"Weekend AM, Weekend PM",15,10,New York,NY,40.720796733051586,-73.98386469,0.5,"First Aid, Transportation, Cleaning"
+V033,James Deleon,10004,10004,14598849013,"Weekday PM, Weekend AM",15,10,New York,NY,40.713048518459125,-74.00836467,0.64,"First Aid, Transportation, Shopping, Driving, Medication"
+V034,Emily Mcdonald,10004,10004,16576311369,"Weekend AM, Weekday AM",5,10,New York,NY,40.70902286930324,-74.01743264,0.28,"Cooking, Companionship, First Aid"
+V035,Danny Johnson,10003,10003,14317170434,"Weekday PM, Weekday AM",15,10,New York,NY,40.73459420737075,-73.9932834,0.36,"Cleaning, Cooking, Shopping, Companionship, Transportation, Driving"
+V036,Andrew Sullivan,10002,10002,18603985206,"Weekend AM, Weekend PM",5,10,New York,NY,40.725824188471975,-73.98734778,0.51,"First Aid, Medication, Cleaning, Companionship"
+V037,Ashley Martinez,10002,10002,17547090640,"Weekend AM, Weekend PM",10,15,New York,NY,40.71280196448815,-73.98399392,0.67,"First Aid, Cleaning, Shopping"
+V038,Joyce Thompson,10002,10002,16186230665,"Weekend AM, Weekend PM",10,5,New York,NY,40.72735888969154,-73.9877354,1.01,"First Aid, Driving, Cooking, Companionship, Cleaning, Shopping"
+V039,Brent Clark,10003,10003,19334432350,"Weekend PM, Weekday PM",5,15,New York,NY,40.73823863915091,-73.99371991,0.47,"Driving, Shopping, Medication"
+V040,Erika Santiago,10002,10002,11110940275,"Weekend PM, Weekday AM",15,10,New York,NY,40.72244719535878,-73.99909733,0.31,"Cleaning, Medication, Driving, Transportation, First Aid"
+V041,Megan Holt,10003,10003,15822418105,"Weekend AM, Weekday AM",10,10,New York,NY,40.741547681523336,-73.99219717,0.31,"Transportation, Cooking, First Aid, Medication, Cleaning"
+V042,Rhonda Austin,10003,10003,16810837144,"Weekday PM, Weekend AM",20,20,New York,NY,40.74179884485564,-73.97875461,0.48,"First Aid, Driving, Cooking"
+V043,Madison Williams DDS,10003,10003,10167422546,"Weekday AM, Weekday PM",10,15,New York,NY,40.737180232070735,-73.99285677,0.93,"Transportation, Driving, Cleaning"
+V044,Angelica Zimmerman,10004,10004,19584252226,"Weekend AM, Weekend PM",5,15,New York,NY,40.694364340823206,-74.00682289,0.3,"Cooking, Medication, First Aid, Companionship, Driving"
+V045,John Merritt,10003,10003,19320328637,"Weekday AM, Weekend PM",5,15,New York,NY,40.72491328097413,-73.98902712,0.53,"Cooking, First Aid, Driving, Medication, Cleaning, Transportation"
+V046,James Tran,10004,10004,17887914566,"Weekend PM, Weekday PM",5,15,New York,NY,40.700510599174685,-74.01443234,0.63,"Transportation, Medication, Driving, Companionship"
+V047,Emily Miles,10002,10002,13115462668,"Weekday AM, Weekday PM",10,5,New York,NY,40.72716413751873,-73.98191978,0.43,"Cooking, Medication, Cleaning, Shopping, Transportation"
+V048,Laurie Lindsey,10004,10004,15339554823,"Weekday AM, Weekend PM",10,5,New York,NY,40.71287641807883,-74.00756044,0.76,"Companionship, Medication, Transportation"
+V049,William Meyer,10002,10002,15341369796,"Weekday PM, Weekend PM",5,15,New York,NY,40.70785671,-73.98373188,0.81,"Companionship, Shopping, Cooking"
+V050,Jimmy Anderson,10002,10002,13315974644,"Weekday AM, Weekend PM",5,10,New York,NY,40.72359969328469,-73.99614137,0.34,"Shopping, Transportation, Cooking, Driving"
+V051,Rekha Prasun,10002,10002,269-220-9988,"Weekend PM, Weekday PM",10,10,New York,NY,40.72297614734259,-73.99770681,0,"2,3,5"
+V52,Rekha Prasun,10004,10004,2692209882,"Weekday PM, Weekend AM",10,10,New York,NY,40.69740627524215,-74.00803012,0,"2,3,5,6"
+V53,Uzair N,10001,10001,2692209882,"Weekday AM, Weekend PM",10,10,New York,NY,40.745264214762976,-73.99137058,0,"2,3,4,5,6"
+V54,jane s,10002,10002,2696588756,"Weekday AM, Weekend PM",10,10,New York,NY,40.72297614734259,-73.99770681,0,"2,5"
